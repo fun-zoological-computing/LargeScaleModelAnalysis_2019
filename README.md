@@ -10,4 +10,4 @@ These scripts were written with reproducibility in mind  but not portability.
 > 4. <b>/utils</b> contains an independent collection of functions used to wrangle and manipulate data from the NeuroML Database via the NeuroML Database API Client
 
 ## Citation
-> Birgiolas, J., Jarvis, R., Haynes, V.R., Gerkin, R.C., Crook, S.M. (2019) Automated assessment and comparison of cortical neuron models, 2019 Computational Neuroscience Meeting, Barcelona, Spain
+> Birgiolas, J, R Jarvis, VR Haynes, RC Gerkin, SM Crook (2019) Automated assessment and comparison of cortical neuron models, 2019 Computational Neuroscience Meeting, Barcelona, Spain
