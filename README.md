@@ -1,7 +1,7 @@
 # LargeScaleModelAnalysis_2019
 Scripts related to analysis of models at the NeuroML Database as presented in 2019 CNS Poster and 20XX paper.
 
-These scripts were written with reproducibility in mind but not portability. 
+Disclaimer: These scripts were written with reproducibility and transparency in mind but not always portability. 
 
 ## Contents
 > 1. Contains example "scratchbook" code useful for a high-level overview
