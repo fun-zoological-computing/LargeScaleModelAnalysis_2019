@@ -1,0 +1,184 @@
+,Model_ID,Model_Name,Filename
+0,NMLCH000001,Ih Hyperpolarization Activated Cation,hd.nml
+1,NMLCH000002,IA A Type Potassium Channel for Distal Dendrites,kad.nml
+2,NMLCH000003,IA A Type Potassium,kap.nml
+3,NMLCH000004,KDr Delayed Rectifier Potassium ,kdr.nml
+4,NMLCH000005,Na Sodium,na3.nml
+5,NMLCH000006,NaX Sodium Channel for Axon,nax.nml
+6,NMLCH000007,Passive Leak,pas.channel.nml
+7,NMLCH000008,NaF Inactivating Fast Sodium,Gran_NaF_98.channel.nml
+8,NMLCH000009,KDr Delayed Rectifier Potassium ,Gran_KDr_98.channel.nml
+9,NMLCH000010,KCa Calcium Dependent Potassium,Gran_KCa_98.channel.nml
+10,NMLCH000011,IA A Type Potassium,Gran_KA_98.channel.nml
+11,NMLCH000012,Ih Hyperpolarization Activated Cation,Gran_H_98.channel.nml
+12,NMLCH000014,CaHVA High Voltage Activated Calcium,Gran_CaHVA_98.channel.nml
+13,NMLCH000015,Passive Leak,GranPassiveCond.channel.nml
+14,NMLCH000016,Passive Leak,MFFastLeakCond.channel.nml
+15,NMLCH000017,CaHVA High Voltage Activated Calcium,Golgi_CaHVA_CML.channel.nml
+16,NMLCH000019,Ih Hyperpolarization Activated Cation,Golgi_H_CML.channel.nml
+17,NMLCH000020,IA A Type Potassium,Golgi_KA_CML.channel.nml
+18,NMLCH000021,KCa Calcium Dependent Potassium,Golgi_KCa_CML.channel.nml
+19,NMLCH000022,KDr Delayed Rectifier Potassium ,Golgi_KDr_CML.channel.nml
+20,NMLCH000023,NaF Inactivating Fast Sodium,Golgi_NaF_CML.channel.nml
+21,NMLCH000024,Passive Leak,GolgiPassiveCond.channel.nml
+22,NMLCH000027,Passive Leak,Leak.channel.nml
+23,NMLCH000066,CaHVA High Voltage Activated Calcium,Golgi_Ca_HVA.channel.nml
+24,NMLCH000067,CaLVA Low Voltage Activated Calcium,Golgi_Ca_LVA.channel.nml
+25,NMLCH000086,Ih HCN1F Fast Hyperpolarization Activated Cation,Golgi_hcn1f.channel.nml
+26,NMLCH000087,Ih HCN1S Slow Hyperpolarization Activated Cation,Golgi_hcn1s.channel.nml
+27,NMLCH000088,Ih HCN2F Fast Hyperpolarization Activated Cation,Golgi_hcn2f.channel.nml
+28,NMLCH000089,Ih HCN2S Slow Hyperpolarization Activated Cation,Golgi_hcn2s.channel.nml
+29,NMLCH000090,IA A Type Potassium,Golgi_KA.channel.nml
+30,NMLCH000091,KCa SK Type AHP Calcium Dependent Potassium,Golgi_KAHP.channel.nml
+31,NMLCH000092,KCa BK Type Calcium Dependent Potassium,Golgi_KC.channel.nml
+32,NMLCH000093,IM Slow M Type Potassium,Golgi_Kslow.channel.nml
+33,NMLCH000094,KDr Delayed Rectifier Potassium ,Golgi_KV.channel.nml
+34,NMLCH000095,Passive Leak,LeakCond.channel.nml
+35,NMLCH000096,NaP Persistent Sodium,Golgi_NaP.channel.nml
+36,NMLCH000097,NaR Resurgent Sodium,Golgi_NaR.channel.nml
+37,NMLCH000098,NaT Transient Sodium,Golgi_NaT.channel.nml
+38,NMLCH000101,CaHVA High Voltage Activated Calcium,Ca.channel.nml
+39,NMLCH000102,CaHVA High Voltage Activated Calcium,Ca_HVA.channel.nml
+40,NMLCH000103,CaLVA Low Voltage Activated Calcium,Ca_LVAst.channel.nml
+41,NMLCH000104,Ih Hyperpolarization Activated Cation,Ih.channel.nml
+42,NMLCH000105,IM M Type Potassium,Im.channel.nml
+43,NMLCH000106,KDr Delayed Rectifier Potassium ,KdShu2007.channel.nml
+44,NMLCH000107,KPst Slow Inactivating Potassium,K_Pst.channel.nml
+45,NMLCH000108,KTst Fast Inactivating Potassium,K_Tst.channel.nml
+46,NMLCH000109,NaP Persistent Sodium,Nap_Et2.channel.nml
+47,NMLCH000110,NaTa Fast Inactivating Sodium,NaTa_t.channel.nml
+48,NMLCH000111,NaTs Fast Inactivating Sodium,NaTs2_t.channel.nml
+49,NMLCH000112,KCa SK Type Calcium Dependent Potassium,SK_E2.channel.nml
+50,NMLCH000113,K Fast Noninactivating Potassium,SKv3_1.channel.nml
+51,NMLCH000114,Passive Leak,pas.channel.nml
+52,NMLCH000115,K Deterministic Version of Stochastic Potassium,StochKv_deterministic.channel.nml
+53,NMLCH000116,K Potassium,kChan.channel.nml
+54,NMLCH000117,Na Sodium,naChan.channel.nml
+55,NMLCH000118,Ca Calcium ,Ca_Generic_Ca_8.channel.nml
+56,NMLCH000119,IA A Type Potassium,A_ABasic_13.channel.nml
+57,NMLCH000120,Ih Hyperpolarization Activated Cation,Ih_channelpedia.channel.nml
+58,NMLCH000121,K Slow Potassium,K_KSlow_30.channel.nml
+59,NMLCH000122,K Slow Potassium,K_KSlow_S_31.channel.nml
+60,NMLCH000123,K Fast Potassium,K_Kfast_32.channel.nml
+61,NMLCH000124,Na Sodium,Na_McCormick_Na_34.channel.nml
+62,NMLCH000125,Na Slowly Inactivating Sodium,Na_Na_35.channel.nml
+63,NMLCH000126,Na Sodium,Na_Na_S_36.channel.nml
+64,NMLCH000127,NaP Persistent Sodium,Na_NaP_37.channel.nml
+65,NMLCH000128,IM Slow M Type Potassium,IM.channel.nml
+66,NMLCH000129,KDr Delayed Rectifier Potassium ,Kd.channel.nml
+67,NMLCH000130,Passive Leak,Leak.channel.nml
+68,NMLCH000131,NaF Fast Sodium,Na.channel.nml
+69,NMLCH000132,Ca High Threshold Calcium,IL.channel.nml
+70,NMLCH000133,Ca Low Threshold Calcium,IT.channel.nml
+71,NMLCH000134,IA A Type Potassium,kamt.channel.nml
+72,NMLCH000135,KDr Delayed Rectifier Potassium ,kdrmt.channel.nml
+73,NMLCH000136,NaX Sodium Channel for Axon,nax__sh0.channel.nml
+74,NMLCH000137,NaX Sodium Channel for Axon,nax__sh10.channel.nml
+75,NMLCH000138,NaX Sodium Channel for Axon,nax__sh15.channel.nml
+76,NMLCH000139,Passive Leak,pas.channel.nml
+77,NMLCH000140,Ih Hyperpolarization Activated Cation,ar__m00_25.channel.nml
+78,NMLCH000141,Ih Hyperpolarization Activated Cation,ar__m00.channel.nml
+79,NMLCH000142,Ih Hyperpolarization Activated Cation,ar.channel.nml
+80,NMLCH000143,CaL L Type High Threshold Long Lasting Calcium,cal.channel.nml
+81,NMLCH000144,CaT T Type Transient Low Threshold Inactivating Calcium,cat_a.channel.nml
+82,NMLCH000145,CaT T Type Transient Low Threshold Inactivating Calcium,cat.channel.nml
+83,NMLCH000146,K2 Type Slowly Activating and Inactivating Potassium,k2.channel.nml
+84,NMLCH000147,IA A Type Potassium,ka_ib.channel.nml
+85,NMLCH000148,IA A Type Potassium,ka.channel.nml
+86,NMLCH000149,KCa Slow AHP Type Calcium Dependent Potassium,kahp_deeppyr.channel.nml
+87,NMLCH000150,KCa Slow AHP Type Calcium Dependent Potassium,kahp_slower.channel.nml
+88,NMLCH000151,KCa AHP Type Calcium Dependent Potassium,kahp.channel.nml
+89,NMLCH000152,KCa BK Type Fast Calcium Dependent Potassium,kc_fast.channel.nml
+90,NMLCH000153,KCa BK Type Fast Calcium Dependent Potassium,kc.channel.nml
+91,NMLCH000154,KDr Delayed Rectifier Potassium Channel for Fast Spiking (FS) Interneurons,kdr_fs.channel.nml
+92,NMLCH000155,KDr Delayed Rectifier Potassium,kdr.channel.nml
+93,NMLCH000156,IM M Type Potassium,km.channel.nml
+94,NMLCH000157,NaF Fast Transient Inactivating Sodium,naf__a0__b0__c0__d0__fastNa_shiftmin3_5.channel.nml
+95,NMLCH000158,NaF Fast Transient Inactivating Sodium,naf_tcr__sh_hmin7__sh_m_imin3__sh_m_rmin2_5.channel.nml
+96,NMLCH000159,NaF Fast Transient Inactivating Sodium,naf_tcr.channel.nml
+97,NMLCH000160,NaF Fast Transient Inactivating Sodium,naf.channel.nml
+98,NMLCH000161,NaF Fast Transient Inactivating Sodium,naf2__a0__b0__c0__d0__fastNa_shift0.channel.nml
+99,NMLCH000162,NaF Fast Transient Inactivating Sodium,naf2__a0__b0__c0__d0__fastNa_shiftmin2_5.channel.nml
+100,NMLCH000163,NaF Fast Transient Inactivating Sodium,naf2.channel.nml
+101,NMLCH000164,NaP Persistent Noninactivating Sodium,nap.channel.nml
+102,NMLCH000165,NaF Fast Transient Inactivating Sodium,napf__a0__b0__c0__d0__fastNa_shift0.channel.nml
+103,NMLCH000166,NaF Fast Transient Inactivating Sodium,napf.channel.nml
+104,NMLCH000167,NaF Fast Transient Inactivating Sodium,napf_spinstell__a0__b0__c0__d0__shmin2_5.channel.nml
+105,NMLCH000168,NaF Fast Transient Inactivating Sodium,napf_spinstell.channel.nml
+106,NMLCH000169,NaF Fast Transient Inactivating Sodium,napf_tcr__a0__b0__c0__d0__fastNa_shift7.channel.nml
+107,NMLCH000170,NaF Fast Transient Inactivating Sodium,napf_tcr.channel.nml
+108,NMLCH000171,NaF Fast Transient Inactivating Sodium,napf.channel.nml
+109,NMLCH000172,Passive Leak,pas.channel.nml
+110,NMLCH001364,Ih Hyperpolarization Activated Cation,hdmin73.channel.nml
+111,NMLCH001382,Ih Hyperpolarization Activated Cation,hd__vhalflmin73.channel.nml
+112,NMLCH001383,IM M Type Potassium,Im.channel.nml
+113,NMLCH001393,Ih Hyperpolarization Activated Cation,Ih.channel.nml
+114,NMLCH001394,K Fast Noninactivating Potassium,SKv3_1.channel.nml
+115,NMLCH001395,CaHVA High Voltage Activated Calcium,Ca_HVA.channel.nml
+116,NMLCH001397,KCa SK Type Calcium Dependent Potassium,SK_E2.channel.nml
+117,NMLCH001398,NaTa Fast Inactivating Sodium,NaTa_t.channel.nml
+118,NMLCH001399,CaLVA Low Voltage Activated Calcium,Ca_LVAst.channel.nml
+119,NMLCH001400,KTst Fast Inactivating Potassium,K_Tst.channel.nml
+120,NMLCH001401,NaP Persistent Sodium,Nap_Et2.channel.nml
+121,NMLCH001402,KPst Slow Inactivating Potassium,K_Pst.channel.nml
+122,NMLCH001403,Passive Leak,pas.channel.nml
+123,NMLCH001427,Passive Leak,passiveChan.channel.nml
+124,NMLCH001436,CaHVA High Voltage Activated Calcium,Ca_HVA.channel.nml
+125,NMLCH001446,Ih Hyperpolarization Activated Cation,Ih.channel.nml
+126,NMLCH001465,K Fast Noninactivating Potassium,Kv3_1.channel.nml
+127,NMLCH001471,Passive Leak,pas.channel.nml
+128,NMLCH001473,Kv2 Type 2 Potassium,Kv2like.channel.nml
+129,NMLCH001480,NaP Persistent Sodium,Nap.channel.nml
+130,NMLCH001486,Na Sodium,NaV.channel.nml
+131,NMLCH001487,KCa SK Type Calcium Dependent Potassium,SK.channel.nml
+132,NMLCH001490,NaTs Fast Inactivating Sodium,NaTs.channel.nml
+133,NMLCH001511,CaLVA Low Voltage Activated Calcium,Ca_LVA.channel.nml
+134,NMLCH001520,IM M Type Potassium,Im_v2.channel.nml
+135,NMLCH001523,IM M Type Potassium,Im.channel.nml
+136,NMLCH001528,KP Slow Inactivating Potassium,K_P.channel.nml
+137,NMLCH001529,KT Fast Inactivating Potassium,K_T.channel.nml
+138,NMLCH001536,KDr Delayed Rectifier Potassium ,Kd.channel.nml
+139,NMLCH001545,Passive Leak,Leak.channel.nml
+140,NMLCH001546,Ca Calcium,ca_boyle.channel.nml
+141,NMLCH001547,K Slow Potassium,k_slow.channel.nml
+142,NMLCH001549,K Fast Potassium,k_fast.channel.nml
+143,NMLCH001551,Na Sodium,Na_STG.channel.nml
+144,NMLCH001568,KDr Delayed Rectifier Potassium ,Kd_STG.channel.nml
+145,NMLCH001571,CaT T Type Transient Low Threshold Inactivating Calcium,CaT_STG.channel.nml
+146,NMLCH001572,KCa Calcium Dependent Potassium,KCa_STG.channel.nml
+147,NMLCH001577,IA A Type Potassium,KA_STG.channel.nml
+148,NMLCH001578,Ih Hyperpolarization Activated Cation,H_STG.channel.nml
+149,NMLCH001586,Ca Calcium,CaS_STG.channel.nml
+150,NMLCH001590,Passive Leak,LeakConductance.channel.nml
+151,NMLCH001591,Ca Calcium ,ca.channel.nml
+152,NMLCH001593,KCa Calcium Dependent Potassium,kca.channel.nml
+153,NMLCH001598,CaT T Type Transient Low Threshold Inactivating Calcium,it.channel.nml
+154,NMLCH001599,IM M Type Potassium,km.channel.nml
+155,NMLCH001600,KDr Delayed Rectifier Potassium ,kv.channel.nml
+156,NMLCH001601,Passive Leak,pas.channel.nml
+157,NMLCH001603,Na Sodium,na.channel.nml
+158,NMLCH001605,Ih Hyperpolarization Activated Cation (HCN),HCN.channel.nml
+159,NMLCH001607,CaL HVA High Voltage Activated L-type Calcium,CavL.channel.nml
+160,NMLCH001609,KDr Fast Delayed Rectifier Potassium ,Kdrp.channel.nml
+161,NMLCH001610,NaX Sodium Channel for Axon,Navaxonp.channel.nml
+162,NMLCH001611,KDr Fast Delayed Rectifier Potassium,Kdrfastngf.channel.nml
+163,NMLCH001612,Na Sodium,Navp.channel.nml
+164,NMLCH001613,Na Sodium,Navngf.channel.nml
+165,NMLCH001615,Ih Hyperpolarization Activated Cation (HCN),HCNolm.channel.nml
+166,NMLCH001616,KCa Calcium Dependent Potassium,KCaS.channel.nml
+167,NMLCH001618,IA A-Type Potassium,KvA.channel.nml
+168,NMLCH001622,K Slow Potassium,KvGroup.channel.nml
+169,NMLCH001623,Passive Leak,leak_chan.channel.nml
+170,NMLCH001625,IA A-Type Potassium,KvAdistp.channel.nml
+171,NMLCH001626,Na Sodium,Navcck.channel.nml
+172,NMLCH001627,KDr Fast Delayed Rectifier Potassium ,Kdrfast.channel.nml
+173,NMLCH001628,Na Sodium,Nav.channel.nml
+174,NMLCH001632,CaN HVA High Voltage Activated N-type Calcium,CavN.channel.nml
+175,NMLCH001635,Ih Hyperpolarization Activated Cation (HCN),HCNp.channel.nml
+176,NMLCH001636,IA A-Type Potassium,KvAolm.channel.nml
+177,NMLCH001637,IA A-Type Potassium,KvAngf.channel.nml
+178,NMLCH001638,IA A-Type Potassium,KvAproxp.channel.nml
+179,NMLCH001639,KCa AHP Type Calcium Dependent Potassium,KvCaB.channel.nml
+180,NMLCH001641,Na Sodium,Navbis.channel.nml
+181,NMLCH001645,Na Sodium,Navapicalp.channel.nml
+182,NMLCH001649,Ih Hyperpolarization Activated Cation (HCN),HCNsomap.channel.nml
