@@ -6,14 +6,230 @@ import matplotlib.cm as cm
 import numpy as np
 from pprint import pprint as pp
 
+# general modules
+from ast import literal_eval
+import pandas as pd
+import numpy as np
+import requests
+import xml.etree.ElementTree as ET
+import os
+from os.path import join, isfile
+from collections import OrderedDict
+import string
+
 # analysis modules
 import hdbscan
 from sklearn.cluster import AgglomerativeClustering
-from sklearn.decomposion import PCA
+from sklearn.decomposition import PCA
 from sklearn.metrics import silhouette_samples, silhouette_score
 from sklearn.preprocessing import StandardScaler
 
 
+#### CHANNEL CLUSTERING ####
+
+def normalize_responses(channel_pca_df,num_identifiers=3):
+    '''
+        Corrects for differences in maximal conductance and inward/outward differences
+        for channel by:
+            1) normalizing each response, and
+            2) multipling inward currents by -1
+
+        Also, performs this for dataframe in place.
+
+    '''
+
+    response_length = len(channel_pca_df.columns.values)-num_identifiers
+
+
+    for i in channel_pca_df.index.values:
+
+        response = channel_pca_df.iloc[i][0:response_length].values
+
+        max_response = np.max(response)
+        norm_response = (response/max_response).tolist()
+
+        for j in range(num_identifiers):
+            this_identifier = channel_pca_df.columns.values[-(num_identifiers-j)]
+            norm_response.append(channel_pca_df.iloc[i][this_identifier])
+
+        # operates IN PLACE
+        channel_pca_df.iloc[i] = norm_response
+
+def compute_protocol_pca(pca_df,protocol_id=None,drop_cols=['Model_ID','Protocol_ID','Channel_Type'],plots=False):
+
+    if protocol_id:
+        final_pca_df = pca_df[pca_df['Protocol_ID']==protocol_id]
+    else:
+        final_pca_df = pca_df
+
+
+
+    # drop label columns
+    temp_df = final_pca_df.copy()
+    if drop_cols:
+        df = temp_df.drop(labels=drop_cols,axis='columns')
+    else:
+        df = temp_df
+
+    # separating out the features
+    x = df.loc[:].values
+
+    # choose number of components for pca
+    pca = PCA(n_components=.99) # choose n_components s.t. 99% of variance is retained
+
+    # standardize the features
+    scaled_x = StandardScaler().fit_transform(x)
+    pcs = pca.fit_transform(scaled_x)
+    num_pcs = pcs.shape[1] # get the number of components for pca
+#     print(num_pcs)
+
+    # redo if PCs (more so for the sake of my code than any technical reason)
+    if num_pcs<3:
+        # choose number of components for pca
+        pca = PCA(n_components=3) # choose n_components s.t. 99% of variance is retained
+
+        # standardize the features
+        scaled_x = StandardScaler().fit_transform(x)
+        pcs = pca.fit_transform(scaled_x)
+        num_pcs = pcs.shape[1] # get the number of components for pca
+
+
+    scores = pca.score_samples(scaled_x) # Does this need to be the original data?
+
+
+    # create pca DataFrame
+    pc_columns = ['PC '+str(i+1) for i in range(num_pcs)]
+
+    pc_df = pd.DataFrame(data = pcs, columns = pc_columns)
+
+
+    # toss back in the labels from before - I force all to be type str
+    if drop_cols:
+        for col_label in drop_cols:
+            pc_df[col_label] = pd.Series([str(i) for i in final_pca_df[col_label].values])
+
+
+    if plots:
+        df = pd.DataFrame({'variance':pca.explained_variance_ratio_,
+                 'PC':pc_columns})
+
+
+        # Plotting the raw Explained Variance
+        fig = plt.figure(figsize=(12,4))
+
+        # first plot
+        sns.barplot(x='PC',y="variance",
+                   data=df, color="c")
+
+        plt.ylabel('Total Variance (%)')
+        plt.xticks(rotation='vertical')
+        plt.title(protocol_id)
+        plt.show()
+
+
+    return pc_df, pca, pcs, scores
+
+#
+# def normalize_scores(scores_df,num_identifiers=2):
+#     '''
+#
+#     '''
+#
+#     vector_length = len(scores_df.columns.values)-num_identifiers
+#
+#     for  i in scores_df.index.values:
+#
+#         scores = scores_df.iloc[i][0:vector_length].values
+#
+#         max_score = np.max(scores)
+#         norm_scores = (scores/max_score).tolist()
+#
+#         for j in range(num_identifiers):
+#             this_identifier = scores_df.columns.values[-(num_identifiers-j)]
+#             norm_scores.append(scores_df.iloc[i][this_identifier])
+#
+#         # operates IN PLACE
+#         scores_df.iloc[i] = norm_scores
+
+
+
+
+def compute_icg_scores(norm_responses_df,protocols=['ACTIVATION','DEACTIVATION','INACTIVATION'],num_identifiers=3):
+    '''
+        Include that afterward. Every channel response is reduced to a
+        3-dimensional score vector (1 point per protocol or 3 PCs).
+
+    '''
+
+
+    #### STEP 1) Perform PCA with number PCs to retain 99% explained variance
+    pca_df = norm_responses_df.copy() # perform on normalized responses
+
+    pc_dfs = []
+    pcas = []
+    pcs = []
+    score_samples = []
+
+    # compute pca and plot
+    for protocol_id in protocols:
+        pc_df, pca, pc, scores = compute_protocol_pca(pca_df,protocol_id)
+
+        # collect all
+        pc_dfs.append(pc_df)
+        pcas.append(pca)
+        pcs.append(pc)
+        score_samples.append(scores)
+
+
+
+    #### Step 2) Normalize condition score vectors (create one score vector per model per protocol)
+    final_score_vector = [] # contains all scores = the log-likelihood of samples
+
+    # iterate over protocols
+    for i, (score_vector,protocol_id) in enumerate(zip(score_samples,protocols)):
+
+        # normalize the protocol-specific scores by dividing each protocol by std of entries
+        condition_scores = score_vector/np.std(score_vector)
+        final_score_vector.append(condition_scores) # combined
+
+
+
+    #### Step 3) Combine all condition vectors
+    final_score_mat = np.array(final_score_vector).T
+
+    # dataframe to store score vectors in
+    columns = protocols
+    protocol_scores_df = pd.DataFrame(columns=columns)
+
+    for col_i, col in enumerate(columns):
+        protocol_scores_df[col] = pd.Series(final_score_mat[:,col_i])
+
+
+
+
+    #### Step 5) Perform PCA again to get final score vector for each model (3 PCs)
+    final_pc_df, final_pca, final_pcs, final_scores = compute_protocol_pca(protocol_scores_df,drop_cols=None)
+
+
+    # template from original response dataframe
+    df = norm_responses_df[norm_responses_df['Protocol_ID']=='ACTIVATION']
+
+
+    channel_models = df.Model_ID.values
+    channel_types = df.Channel_Type.values
+
+    # final score vector should be the same length as the number of models
+    final_scores_df = final_pc_df.copy()
+    final_scores_df['Model_ID'] = pd.Series(channel_models)
+    final_scores_df['Channel_Type'] = pd.Series(channel_types)
+
+
+
+
+    return final_scores_df
+
+
+#### EPHYS CLUSTERING ####
 
 
 
@@ -204,12 +420,6 @@ def PCA_and_Cluster(samples_df, raw_samples_df, parent_path = "/", hide_noise = 
 
 
 
-
-
-    if interactive:
-        %matplotlib notebook
-
-
     # 3D plot of clusters in PCA space
     X_w_noise = X.copy()
     X_w_noise["Cluster"] = -1
@@ -346,7 +556,6 @@ def PCA_and_Cluster(samples_df, raw_samples_df, parent_path = "/", hide_noise = 
 
     plt.show()
 
-    #%matplotlib inline
 
 
     # Set cluster ids in the transformed DataFrame
