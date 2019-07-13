@@ -1,1157 +1,1157 @@
-,Model_ID,Model_Name,Filename
-5,NMLCL000073,Layer 5b Pyramidal cell ,L5PC
-8,NMLCL000087,Layer 2/3 Burst Accommodating Bipolar Cell (1),bAC217_L23_BP_2004171a4c_0_0
-9,NMLCL000088,Layer 2/3 Burst Accommodating Bipolar Cell (2),bAC217_L23_BP_2f6bdee09f_0_0
-10,NMLCL000089,Layer 2/3 Burst Accommodating Bipolar Cell (3),bAC217_L23_BP_4652c9a7e1_0_0
-11,NMLCL000090,Layer 2/3 Burst Accommodating Bipolar Cell (4),bAC217_L23_BP_472b717f1f_0_0
-12,NMLCL000091,Layer 2/3 Burst Accommodating Bipolar Cell (5),bAC217_L23_BP_ca85cefc69_0_0
-13,NMLCL000092,Layer 2/3 Burst Accommodating Bitufted Cell (1),bAC217_L23_BTC_65225ca4f8_0_0
-14,NMLCL000093,Layer 2/3 Burst Accommodating Bitufted Cell (2),bAC217_L23_BTC_9ad0430657_0_0
-15,NMLCL000094,Layer 2/3 Burst Accommodating Bitufted Cell (3),bAC217_L23_BTC_d9b97f1242_0_0
-16,NMLCL000095,Layer 2/3 Burst Accommodating Bitufted Cell (4),bAC217_L23_BTC_e561810e0d_0_0
-17,NMLCL000096,Layer 2/3 Burst Accommodating Bitufted Cell (5),bAC217_L23_BTC_e5d9eb2ec3_0_0
-18,NMLCL000097,Layer 2/3 Burst Accommodating Double Bouquet Cell (1),bAC217_L23_DBC_393cc5cca5_0_0
-19,NMLCL000098,Layer 2/3 Burst Accommodating Double Bouquet Cell (2),bAC217_L23_DBC_3f985b6ce2_0_0
-20,NMLCL000099,Layer 2/3 Burst Accommodating Double Bouquet Cell (3),bAC217_L23_DBC_55c1d16c8c_0_0
-21,NMLCL000100,Layer 2/3 Burst Accommodating Double Bouquet Cell (4),bAC217_L23_DBC_d6bea44209_0_0
-22,NMLCL000101,Layer 2/3 Burst Accommodating Double Bouquet Cell (5),bAC217_L23_DBC_e5ab405051_0_0
-23,NMLCL000102,Layer 2/3 Burst Accommodating Large Basket Cell (1),bAC217_L23_LBC_361cffb4c6_0_0
-24,NMLCL000103,Layer 2/3 Burst Accommodating Large Basket Cell (2),bAC217_L23_LBC_4738b5c12c_0_0
-25,NMLCL000104,Layer 2/3 Burst Accommodating Large Basket Cell (3),bAC217_L23_LBC_72e65525d3_0_0
-26,NMLCL000105,Layer 2/3 Burst Accommodating Large Basket Cell (4),bAC217_L23_LBC_aebca8458d_0_0
-27,NMLCL000106,Layer 2/3 Burst Accommodating Large Basket Cell (5),bAC217_L23_LBC_c5ee2b20c2_0_0
-28,NMLCL000107,Layer 2/3 Burst Accommodating Martinotti Cell (1),bAC217_L23_MC_1490f15199_0_0
-29,NMLCL000108,Layer 2/3 Burst Accommodating Martinotti Cell (2),bAC217_L23_MC_31f333a601_0_0
-30,NMLCL000109,Layer 2/3 Burst Accommodating Martinotti Cell (3),bAC217_L23_MC_40be3bf0e8_0_0
-31,NMLCL000110,Layer 2/3 Burst Accommodating Martinotti Cell (4),bAC217_L23_MC_44b474bb8f_0_0
-32,NMLCL000111,Layer 2/3 Burst Accommodating Martinotti Cell (5),bAC217_L23_MC_464f0bd828_0_0
-33,NMLCL000112,Layer 2/3 Burst Accommodating Nest Basket Cell (1),bAC217_L23_NBC_421c200e4e_0_0
-34,NMLCL000113,Layer 2/3 Burst Accommodating Nest Basket Cell (2),bAC217_L23_NBC_55cf872277_0_0
-35,NMLCL000114,Layer 2/3 Burst Accommodating Nest Basket Cell (3),bAC217_L23_NBC_711b6a838e_0_0
-36,NMLCL000115,Layer 2/3 Burst Accommodating Nest Basket Cell (4),bAC217_L23_NBC_da24c6bffc_0_0
-37,NMLCL000116,Layer 2/3 Burst Accommodating Nest Basket Cell (5),bAC217_L23_NBC_dc5e34b933_0_0
-38,NMLCL000117,Layer 4 Burst Accommodating Bipolar Cell (1),bAC217_L4_BP_712c8549fc_0_0
-39,NMLCL000118,Layer 4 Burst Accommodating Bipolar Cell (2),bAC217_L4_BP_8c9cdc6683_0_0
-40,NMLCL000119,Layer 4 Burst Accommodating Bipolar Cell (3),bAC217_L4_BP_a0e639c5ea_0_0
-41,NMLCL000120,Layer 4 Burst Accommodating Bipolar Cell (4),bAC217_L4_BP_a8b6abe396_0_0
-42,NMLCL000121,Layer 4 Burst Accommodating Bipolar Cell (5),bAC217_L4_BP_d04c4872bd_0_0
-43,NMLCL000122,Layer 4 Burst Accommodating Bitufted Cell (1),bAC217_L4_BTC_070d4f32f0_0_0
-44,NMLCL000123,Layer 4 Burst Accommodating Bitufted Cell (2),bAC217_L4_BTC_49eddfe373_0_0
-45,NMLCL000124,Layer 4 Burst Accommodating Bitufted Cell (3),bAC217_L4_BTC_9f1127ad33_0_0
-46,NMLCL000125,Layer 4 Burst Accommodating Bitufted Cell (4),bAC217_L4_BTC_ede3831900_0_0
-47,NMLCL000126,Layer 4 Burst Accommodating Bitufted Cell (5),bAC217_L4_BTC_ee19c75ca3_0_0
-48,NMLCL000127,Layer 4 Burst Accommodating Double Bouquet Cell (1),bAC217_L4_DBC_78a99c338d_0_0
-49,NMLCL000128,Layer 4 Burst Accommodating Double Bouquet Cell (2),bAC217_L4_DBC_87482e342d_0_0
-50,NMLCL000129,Layer 4 Burst Accommodating Double Bouquet Cell (3),bAC217_L4_DBC_9827c5d3a7_0_0
-51,NMLCL000130,Layer 4 Burst Accommodating Double Bouquet Cell (4),bAC217_L4_DBC_99fd24de2c_0_0
-52,NMLCL000131,Layer 4 Burst Accommodating Double Bouquet Cell (5),bAC217_L4_DBC_ba1da59a9a_0_0
-53,NMLCL000132,Layer 4 Burst Accommodating Martinotti Cell (1),bAC217_L4_MC_29457dde26_0_0
-54,NMLCL000133,Layer 4 Burst Accommodating Martinotti Cell (2),bAC217_L4_MC_2eb83e1eed_0_0
-55,NMLCL000134,Layer 4 Burst Accommodating Martinotti Cell (3),bAC217_L4_MC_3110386c07_0_0
-56,NMLCL000135,Layer 4 Burst Accommodating Martinotti Cell (4),bAC217_L4_MC_5fa0a62bd0_0_0
-57,NMLCL000136,Layer 4 Burst Accommodating Martinotti Cell (5),bAC217_L4_MC_8a4a02932c_0_0
-58,NMLCL000137,Layer 5 Burst Accommodating Bipolar Cell (1),bAC217_L5_BP_4bf5a32d90_0_0
-59,NMLCL000138,Layer 5 Burst Accommodating Bipolar Cell (2),bAC217_L5_BP_55bc20256d_0_0
-60,NMLCL000139,Layer 5 Burst Accommodating Bipolar Cell (3),bAC217_L5_BP_a122f83294_0_0
-61,NMLCL000140,Layer 5 Burst Accommodating Bipolar Cell (4),bAC217_L5_BP_d0cc8d7615_0_0
-62,NMLCL000141,Layer 5 Burst Accommodating Bipolar Cell (5),bAC217_L5_BP_e3706556cb_0_0
-63,NMLCL000142,Layer 5 Burst Accommodating Bitufted Cell (1),bAC217_L5_BTC_160272643a_0_0
-64,NMLCL000143,Layer 5 Burst Accommodating Bitufted Cell (2),bAC217_L5_BTC_3d68fea85d_0_0
-65,NMLCL000144,Layer 5 Burst Accommodating Bitufted Cell (3),bAC217_L5_BTC_5b195d0631_0_0
-66,NMLCL000145,Layer 5 Burst Accommodating Bitufted Cell (4),bAC217_L5_BTC_8807af3a2b_0_0
-67,NMLCL000146,Layer 5 Burst Accommodating Bitufted Cell (5),bAC217_L5_BTC_9b82f426e5_0_0
-68,NMLCL000147,Layer 5 Burst Accommodating Double Bouquet Cell (1),bAC217_L5_DBC_4765d943f4_0_0
-69,NMLCL000148,Layer 5 Burst Accommodating Double Bouquet Cell (2),bAC217_L5_DBC_7f0bb8efe9_0_0
-70,NMLCL000149,Layer 5 Burst Accommodating Double Bouquet Cell (3),bAC217_L5_DBC_a60ab35166_0_0
-71,NMLCL000150,Layer 5 Burst Accommodating Double Bouquet Cell (4),bAC217_L5_DBC_e2f2301440_0_0
-72,NMLCL000151,Layer 5 Burst Accommodating Double Bouquet Cell (5),bAC217_L5_DBC_e731906688_0_0
-73,NMLCL000152,Layer 5 Burst Accommodating Large Basket Cell (1),bAC217_L5_LBC_01750e1e18_0_0
-74,NMLCL000153,Layer 5 Burst Accommodating Large Basket Cell (2),bAC217_L5_LBC_3daa582d70_0_0
-75,NMLCL000154,Layer 5 Burst Accommodating Large Basket Cell (3),bAC217_L5_LBC_5fcaa92b0e_0_0
-76,NMLCL000155,Layer 5 Burst Accommodating Large Basket Cell (4),bAC217_L5_LBC_b66dd6b653_0_0
-77,NMLCL000156,Layer 5 Burst Accommodating Large Basket Cell (5),bAC217_L5_LBC_c2cff91741_0_0
-78,NMLCL000157,Layer 5 Burst Accommodating Martinotti Cell (1),bAC217_L5_MC_7eeb7cff0f_0_0
-79,NMLCL000158,Layer 5 Burst Accommodating Martinotti Cell (2),bAC217_L5_MC_8a4a02932c_0_0
-80,NMLCL000159,Layer 5 Burst Accommodating Martinotti Cell (3),bAC217_L5_MC_bf2b2fbcbf_0_0
-81,NMLCL000160,Layer 5 Burst Accommodating Martinotti Cell (4),bAC217_L5_MC_c135727743_0_0
-82,NMLCL000161,Layer 5 Burst Accommodating Martinotti Cell (5),bAC217_L5_MC_cc2a170ef6_0_0
-83,NMLCL000162,Layer 5 Burst Accommodating Nest Basket Cell (1),bAC217_L5_NBC_2db880c523_0_0
-84,NMLCL000163,Layer 5 Burst Accommodating Nest Basket Cell (2),bAC217_L5_NBC_768f1bf7ac_0_0
-85,NMLCL000164,Layer 5 Burst Accommodating Nest Basket Cell (3),bAC217_L5_NBC_913c40083e_0_0
-86,NMLCL000165,Layer 5 Burst Accommodating Nest Basket Cell (4),bAC217_L5_NBC_a34c1bf418_0_0
-87,NMLCL000166,Layer 5 Burst Accommodating Nest Basket Cell (5),bAC217_L5_NBC_e943473349_0_0
-88,NMLCL000167,Layer 6 Burst Accommodating Bipolar Cell (1),bAC217_L6_BP_11e76689bf_0_0
-89,NMLCL000168,Layer 6 Burst Accommodating Bipolar Cell (2),bAC217_L6_BP_4617fbeed2_0_0
-90,NMLCL000169,Layer 6 Burst Accommodating Bipolar Cell (3),bAC217_L6_BP_b41e8e0c23_0_0
-91,NMLCL000170,Layer 6 Burst Accommodating Bipolar Cell (4),bAC217_L6_BP_f61a000b31_0_0
-92,NMLCL000171,Layer 6 Burst Accommodating Bipolar Cell (5),bAC217_L6_BP_f920d1af2c_0_0
-93,NMLCL000172,Layer 6 Burst Accommodating Bitufted Cell (1),bAC217_L6_BTC_0aac470ea8_0_0
-94,NMLCL000173,Layer 6 Burst Accommodating Bitufted Cell (2),bAC217_L6_BTC_459ef88946_0_0
-95,NMLCL000174,Layer 6 Burst Accommodating Bitufted Cell (3),bAC217_L6_BTC_9e335e53f6_0_0
-96,NMLCL000175,Layer 6 Burst Accommodating Bitufted Cell (4),bAC217_L6_BTC_bc69dce0ae_0_0
-97,NMLCL000176,Layer 6 Burst Accommodating Bitufted Cell (5),bAC217_L6_BTC_c021ea90e3_0_0
-98,NMLCL000177,Layer 6 Burst Accommodating Double Bouquet Cell (1),bAC217_L6_DBC_2005a958c4_0_0
-99,NMLCL000178,Layer 6 Burst Accommodating Double Bouquet Cell (2),bAC217_L6_DBC_3c23ead0b4_0_0
-100,NMLCL000179,Layer 6 Burst Accommodating Double Bouquet Cell (3),bAC217_L6_DBC_4fe83bdbb1_0_0
-101,NMLCL000180,Layer 6 Burst Accommodating Double Bouquet Cell (4),bAC217_L6_DBC_52e1730bbd_0_0
-102,NMLCL000181,Layer 6 Burst Accommodating Double Bouquet Cell (5),bAC217_L6_DBC_d59edbb45e_0_0
-103,NMLCL000182,Layer 6 Burst Accommodating Large Basket Cell (1),bAC217_L6_LBC_2571ecba02_0_0
-104,NMLCL000183,Layer 6 Burst Accommodating Large Basket Cell (2),bAC217_L6_LBC_5d73327936_0_0
-105,NMLCL000184,Layer 6 Burst Accommodating Large Basket Cell (3),bAC217_L6_LBC_a08d7d7c5e_0_0
-106,NMLCL000185,Layer 6 Burst Accommodating Large Basket Cell (4),bAC217_L6_LBC_e2449b7b3c_0_0
-107,NMLCL000186,Layer 6 Burst Accommodating Large Basket Cell (5),bAC217_L6_LBC_e85c51cdb8_0_0
-108,NMLCL000187,Layer 6 Burst Accommodating Martinotti Cell (1),bAC217_L6_MC_38015c3bc0_0_0
-109,NMLCL000188,Layer 6 Burst Accommodating Martinotti Cell (2),bAC217_L6_MC_6c575906a7_0_0
-110,NMLCL000189,Layer 6 Burst Accommodating Martinotti Cell (3),bAC217_L6_MC_792eb41cce_0_0
-111,NMLCL000190,Layer 6 Burst Accommodating Martinotti Cell (4),bAC217_L6_MC_d379cda689_0_0
-112,NMLCL000191,Layer 6 Burst Accommodating Martinotti Cell (5),bAC217_L6_MC_df869132b9_0_0
-113,NMLCL000192,Layer 6 Burst Accommodating Nest Basket Cell (1),bAC217_L6_NBC_1ef33fd873_0_0
-114,NMLCL000193,Layer 6 Burst Accommodating Nest Basket Cell (2),bAC217_L6_NBC_35ea10d24d_0_0
-115,NMLCL000194,Layer 6 Burst Accommodating Nest Basket Cell (3),bAC217_L6_NBC_3fc0dff69e_0_0
-116,NMLCL000195,Layer 6 Burst Accommodating Nest Basket Cell (4),bAC217_L6_NBC_656e1c0a2d_0_0
-117,NMLCL000196,Layer 6 Burst Accommodating Nest Basket Cell (5),bAC217_L6_NBC_ee7b52323f_0_0
-118,NMLCL000197,Layer 2/3 Burst Irregular Bipolar Cell (1),bIR215_L23_BP_01b2a216cc_0_0
-119,NMLCL000198,Layer 2/3 Burst Irregular Bipolar Cell (2),bIR215_L23_BP_a4d3f66d76_0_0
-120,NMLCL000199,Layer 2/3 Burst Irregular Bipolar Cell (3),bIR215_L23_BP_ab6ff08482_0_0
-121,NMLCL000200,Layer 2/3 Burst Irregular Bipolar Cell (4),bIR215_L23_BP_bfa0052ead_0_0
-122,NMLCL000201,Layer 2/3 Burst Irregular Bipolar Cell (5),bIR215_L23_BP_f03ecc7752_0_0
-123,NMLCL000202,Layer 2/3 Burst Irregular Bitufted Cell (1),bIR215_L23_BTC_a8491dac1c_0_0
-124,NMLCL000203,Layer 2/3 Burst Irregular Bitufted Cell (2),bIR215_L23_BTC_b7a569ac13_0_0
-125,NMLCL000204,Layer 2/3 Burst Irregular Bitufted Cell (3),bIR215_L23_BTC_e02ed2d076_0_0
-126,NMLCL000205,Layer 2/3 Burst Irregular Bitufted Cell (4),bIR215_L23_BTC_e051419629_0_0
-127,NMLCL000206,Layer 2/3 Burst Irregular Bitufted Cell (5),bIR215_L23_BTC_fcf6c1f59c_0_0
-128,NMLCL000207,Layer 2/3 Burst Irregular Double Bouquet Cell (1),bIR215_L23_DBC_4d1e2d44e8_0_0
-129,NMLCL000208,Layer 2/3 Burst Irregular Double Bouquet Cell (2),bIR215_L23_DBC_56fd12fad5_0_0
-130,NMLCL000209,Layer 2/3 Burst Irregular Double Bouquet Cell (3),bIR215_L23_DBC_8485afb4d4_0_0
-131,NMLCL000210,Layer 2/3 Burst Irregular Double Bouquet Cell (4),bIR215_L23_DBC_b0d0b3615e_0_0
-132,NMLCL000211,Layer 2/3 Burst Irregular Double Bouquet Cell (5),bIR215_L23_DBC_b0e6d189ec_0_0
-133,NMLCL000212,Layer 4 Burst Irregular Bipolar Cell (1),bIR215_L4_BP_2446cadf29_0_0
-134,NMLCL000213,Layer 4 Burst Irregular Bipolar Cell (2),bIR215_L4_BP_7d938499d8_0_0
-135,NMLCL000214,Layer 4 Burst Irregular Bipolar Cell (3),bIR215_L4_BP_7f9877b937_0_0
-136,NMLCL000215,Layer 4 Burst Irregular Bipolar Cell (4),bIR215_L4_BP_a8b6abe396_0_0
-137,NMLCL000216,Layer 4 Burst Irregular Bipolar Cell (5),bIR215_L4_BP_d04c4872bd_0_0
-138,NMLCL000217,Layer 4 Burst Irregular Bitufted Cell (1),bIR215_L4_BTC_22df25e508_0_0
-139,NMLCL000218,Layer 4 Burst Irregular Bitufted Cell (2),bIR215_L4_BTC_4e26f3a393_0_0
-140,NMLCL000219,Layer 4 Burst Irregular Bitufted Cell (3),bIR215_L4_BTC_7ea9933f77_0_0
-141,NMLCL000220,Layer 4 Burst Irregular Bitufted Cell (4),bIR215_L4_BTC_d58cc3840a_0_0
-142,NMLCL000221,Layer 4 Burst Irregular Bitufted Cell (5),bIR215_L4_BTC_d656c19ac5_0_0
-143,NMLCL000222,Layer 4 Burst Irregular Double Bouquet Cell (1),bIR215_L4_DBC_01d21bd888_0_0
-144,NMLCL000223,Layer 4 Burst Irregular Double Bouquet Cell (2),bIR215_L4_DBC_5a91010028_0_0
-145,NMLCL000224,Layer 4 Burst Irregular Double Bouquet Cell (3),bIR215_L4_DBC_78a99c338d_0_0
-146,NMLCL000225,Layer 4 Burst Irregular Double Bouquet Cell (4),bIR215_L4_DBC_e57b56d14c_0_0
-147,NMLCL000226,Layer 4 Burst Irregular Double Bouquet Cell (5),bIR215_L4_DBC_f339de2544_0_0
-148,NMLCL000227,Layer 5 Burst Irregular Bipolar Cell (1),bIR215_L5_BP_03b3d4a19f_0_0
-149,NMLCL000228,Layer 5 Burst Irregular Bipolar Cell (2),bIR215_L5_BP_15aa299646_0_0
-150,NMLCL000229,Layer 5 Burst Irregular Bipolar Cell (3),bIR215_L5_BP_6687408de7_0_0
-151,NMLCL000230,Layer 5 Burst Irregular Bipolar Cell (4),bIR215_L5_BP_706acf4049_0_0
-152,NMLCL000231,Layer 5 Burst Irregular Bipolar Cell (5),bIR215_L5_BP_f920d1af2c_0_0
-153,NMLCL000232,Layer 5 Burst Irregular Double Bouquet Cell (1),bIR215_L5_DBC_08b1fddce5_0_0
-154,NMLCL000233,Layer 5 Burst Irregular Double Bouquet Cell (2),bIR215_L5_DBC_50ea904e54_0_0
-155,NMLCL000234,Layer 5 Burst Irregular Double Bouquet Cell (3),bIR215_L5_DBC_7f0bb8efe9_0_0
-156,NMLCL000235,Layer 5 Burst Irregular Double Bouquet Cell (4),bIR215_L5_DBC_893b78d08e_0_0
-157,NMLCL000236,Layer 5 Burst Irregular Double Bouquet Cell (5),bIR215_L5_DBC_e2f2301440_0_0
-158,NMLCL000237,Layer 5 Burst Irregular Martinotti Cell (1),bIR215_L5_MC_7eeb7cff0f_0_0
-159,NMLCL000238,Layer 5 Burst Irregular Martinotti Cell (2),bIR215_L5_MC_8a4a02932c_0_0
-160,NMLCL000239,Layer 5 Burst Irregular Martinotti Cell (3),bIR215_L5_MC_bf2b2fbcbf_0_0
-161,NMLCL000240,Layer 5 Burst Irregular Martinotti Cell (4),bIR215_L5_MC_cc2a170ef6_0_0
-162,NMLCL000241,Layer 5 Burst Irregular Martinotti Cell (5),bIR215_L5_MC_fdc7bd1d07_0_0
-163,NMLCL000242,Layer 5 Burst Irregular Nest Basket Cell (1),bIR215_L5_NBC_0871cd68c5_0_0
-164,NMLCL000243,Layer 5 Burst Irregular Nest Basket Cell (2),bIR215_L5_NBC_809407f588_0_0
-165,NMLCL000244,Layer 5 Burst Irregular Nest Basket Cell (3),bIR215_L5_NBC_83f56a1270_0_0
-166,NMLCL000245,Layer 5 Burst Irregular Nest Basket Cell (4),bIR215_L5_NBC_913c40083e_0_0
-167,NMLCL000246,Layer 5 Burst Irregular Nest Basket Cell (5),bIR215_L5_NBC_cb87ec754a_0_0
-168,NMLCL000247,Layer 6 Burst Irregular Bipolar Cell (1),bIR215_L6_BP_41b33b48e3_0_0
-169,NMLCL000248,Layer 6 Burst Irregular Bipolar Cell (2),bIR215_L6_BP_5e5c39b863_0_0
-170,NMLCL000249,Layer 6 Burst Irregular Bipolar Cell (3),bIR215_L6_BP_c202839326_0_0
-171,NMLCL000250,Layer 6 Burst Irregular Bipolar Cell (4),bIR215_L6_BP_de7da8c370_0_0
-172,NMLCL000251,Layer 6 Burst Irregular Bipolar Cell (5),bIR215_L6_BP_ff30c6d80e_0_0
-173,NMLCL000252,Layer 6 Burst Irregular Double Bouquet Cell (1),bIR215_L6_DBC_0271760b42_0_0
-174,NMLCL000253,Layer 6 Burst Irregular Double Bouquet Cell (2),bIR215_L6_DBC_53b6888784_0_0
-175,NMLCL000254,Layer 6 Burst Irregular Double Bouquet Cell (3),bIR215_L6_DBC_84d9723b18_0_0
-176,NMLCL000255,Layer 6 Burst Irregular Double Bouquet Cell (4),bIR215_L6_DBC_a60ab35166_0_0
-177,NMLCL000256,Layer 6 Burst Irregular Double Bouquet Cell (5),bIR215_L6_DBC_e3438da2c9_0_0
-178,NMLCL000257,Layer 6 Burst Irregular Large Basket Cell (1),bIR215_L6_LBC_05f55c6541_0_0
-179,NMLCL000258,Layer 6 Burst Irregular Large Basket Cell (2),bIR215_L6_LBC_b4586f425b_0_0
-180,NMLCL000259,Layer 6 Burst Irregular Large Basket Cell (3),bIR215_L6_LBC_d854e4228e_0_0
-181,NMLCL000260,Layer 6 Burst Irregular Large Basket Cell (4),bIR215_L6_LBC_ef1920e6b8_0_0
-182,NMLCL000261,Layer 6 Burst Irregular Large Basket Cell (5),bIR215_L6_LBC_f0665c9d1a_0_0
-183,NMLCL000262,Layer 6 Burst Irregular Martinotti Cell (1),bIR215_L6_MC_62cf39b45d_0_0
-184,NMLCL000263,Layer 6 Burst Irregular Martinotti Cell (2),bIR215_L6_MC_6c575906a7_0_0
-185,NMLCL000264,Layer 6 Burst Irregular Martinotti Cell (3),bIR215_L6_MC_6ed36072e7_0_0
-186,NMLCL000265,Layer 6 Burst Irregular Martinotti Cell (4),bIR215_L6_MC_8f46a0ad62_0_0
-187,NMLCL000266,Layer 6 Burst Irregular Martinotti Cell (5),bIR215_L6_MC_d379cda689_0_0
-188,NMLCL000267,Layer 6 Burst Irregular Nest Basket Cell (1),bIR215_L6_NBC_5d97f161ff_0_0
-189,NMLCL000268,Layer 6 Burst Irregular Nest Basket Cell (2),bIR215_L6_NBC_8c6aecf604_0_0
-190,NMLCL000269,Layer 6 Burst Irregular Nest Basket Cell (3),bIR215_L6_NBC_a104961d30_0_0
-191,NMLCL000270,Layer 6 Burst Irregular Nest Basket Cell (4),bIR215_L6_NBC_ce39e26284_0_0
-192,NMLCL000271,Layer 6 Burst Irregular Nest Basket Cell (5),bIR215_L6_NBC_ebdeb060a6_0_0
-193,NMLCL000272,Layer 1 Burst Non-accommodating Descending Axon Cell (1),bNAC219_L1_DAC_0d58fdf14a_0_0
-194,NMLCL000273,Layer 1 Burst Non-accommodating Descending Axon Cell (2),bNAC219_L1_DAC_56906d7a99_0_0
-195,NMLCL000274,Layer 1 Burst Non-accommodating Descending Axon Cell (3),bNAC219_L1_DAC_81e928d216_0_0
-196,NMLCL000275,Layer 1 Burst Non-accommodating Descending Axon Cell (4),bNAC219_L1_DAC_a9ae5cbbf5_0_0
-197,NMLCL000276,Layer 1 Burst Non-accommodating Descending Axon Cell (5),bNAC219_L1_DAC_ec2fc5f0de_0_0
-198,NMLCL000277,Layer 1 Burst Non-accommodating Horizontal Axon Cell (1),bNAC219_L1_HAC_369e749269_0_0
-199,NMLCL000278,Layer 1 Burst Non-accommodating Horizontal Axon Cell (2),bNAC219_L1_HAC_5c847ea2ef_0_0
-200,NMLCL000279,Layer 1 Burst Non-accommodating Horizontal Axon Cell (3),bNAC219_L1_HAC_dfd993e67b_0_0
-201,NMLCL000280,Layer 1 Burst Non-accommodating Horizontal Axon Cell (4),bNAC219_L1_HAC_f7023f0666_0_0
-202,NMLCL000281,Layer 1 Burst Non-accommodating Horizontal Axon Cell (5),bNAC219_L1_HAC_f8c9772d9d_0_0
-203,NMLCL000282,Layer 1 Burst Non-accommodating Neurogliaform Cell with dense axonal arborization (1),bNAC219_L1_NGCDA_095997ce92_0_0
-204,NMLCL000283,Layer 1 Burst Non-accommodating Neurogliaform Cell with dense axonal arborization (2),bNAC219_L1_NGCDA_3d9c976fde_0_0
-205,NMLCL000284,Layer 1 Burst Non-accommodating Neurogliaform Cell with dense axonal arborization (3),bNAC219_L1_NGCDA_46b45974f4_0_0
-206,NMLCL000285,Layer 1 Burst Non-accommodating Neurogliaform Cell with dense axonal arborization (4),bNAC219_L1_NGCDA_b030a58a66_0_0
-207,NMLCL000286,Layer 1 Burst Non-accommodating Neurogliaform Cell with dense axonal arborization (5),bNAC219_L1_NGCDA_e7cec642c3_0_0
-208,NMLCL000287,Layer 1 Burst Non-accommodating Small Axon Cell (1),bNAC219_L1_SLAC_1aa0a09b13_0_0
-209,NMLCL000288,Layer 1 Burst Non-accommodating Small Axon Cell (2),bNAC219_L1_SLAC_8a5944f8ac_0_0
-210,NMLCL000289,Layer 1 Burst Non-accommodating Small Axon Cell (3),bNAC219_L1_SLAC_9f043bb71a_0_0
-211,NMLCL000290,Layer 1 Burst Non-accommodating Small Axon Cell (4),bNAC219_L1_SLAC_bb26216f9f_0_0
-212,NMLCL000291,Layer 1 Burst Non-accommodating Small Axon Cell (5),bNAC219_L1_SLAC_d22d584760_0_0
-213,NMLCL000292,Layer 2/3 Burst Non-accommodating Bipolar Cell (1),bNAC219_L23_BP_023bbf4d99_0_0
-214,NMLCL000293,Layer 2/3 Burst Non-accommodating Bipolar Cell (2),bNAC219_L23_BP_0ab57a7682_0_0
-215,NMLCL000294,Layer 2/3 Burst Non-accommodating Bipolar Cell (3),bNAC219_L23_BP_40adbb9f96_0_0
-216,NMLCL000295,Layer 2/3 Burst Non-accommodating Bipolar Cell (4),bNAC219_L23_BP_e8c88c2686_0_0
-217,NMLCL000296,Layer 2/3 Burst Non-accommodating Bipolar Cell (5),bNAC219_L23_BP_f03ecc7752_0_0
-218,NMLCL000297,Layer 2/3 Burst Non-accommodating Bitufted Cell (1),bNAC219_L23_BTC_07c7c10a30_0_0
-219,NMLCL000298,Layer 2/3 Burst Non-accommodating Bitufted Cell (2),bNAC219_L23_BTC_08c8d4004b_0_0
-220,NMLCL000299,Layer 2/3 Burst Non-accommodating Bitufted Cell (3),bNAC219_L23_BTC_38a5da4025_0_0
-221,NMLCL000300,Layer 2/3 Burst Non-accommodating Bitufted Cell (4),bNAC219_L23_BTC_62b9f5e9f6_0_0
-222,NMLCL000301,Layer 2/3 Burst Non-accommodating Bitufted Cell (5),bNAC219_L23_BTC_f83ba90238_0_0
-223,NMLCL000302,Layer 2/3 Burst Non-accommodating Double Bouquet Cell (1),bNAC219_L23_DBC_1441fd5669_0_0
-224,NMLCL000303,Layer 2/3 Burst Non-accommodating Double Bouquet Cell (2),bNAC219_L23_DBC_4c3b81ee8f_0_0
-225,NMLCL000304,Layer 2/3 Burst Non-accommodating Double Bouquet Cell (3),bNAC219_L23_DBC_8b03af6e83_0_0
-226,NMLCL000305,Layer 2/3 Burst Non-accommodating Double Bouquet Cell (4),bNAC219_L23_DBC_c9af6970b4_0_0
-227,NMLCL000306,Layer 2/3 Burst Non-accommodating Double Bouquet Cell (5),bNAC219_L23_DBC_f7a3d54a01_0_0
-228,NMLCL000307,Layer 2/3 Burst Non-accommodating Large Basket Cell (1),bNAC219_L23_LBC_91044b50b3_0_0
-229,NMLCL000308,Layer 2/3 Burst Non-accommodating Large Basket Cell (2),bNAC219_L23_LBC_936c35a9e1_0_0
-230,NMLCL000309,Layer 2/3 Burst Non-accommodating Large Basket Cell (3),bNAC219_L23_LBC_97118d2391_0_0
-231,NMLCL000310,Layer 2/3 Burst Non-accommodating Large Basket Cell (4),bNAC219_L23_LBC_b35128281c_0_0
-232,NMLCL000311,Layer 2/3 Burst Non-accommodating Large Basket Cell (5),bNAC219_L23_LBC_fe2122c75c_0_0
-233,NMLCL000312,Layer 2/3 Burst Non-accommodating Martinotti Cell (1),bNAC219_L23_MC_31f333a601_0_0
-234,NMLCL000313,Layer 2/3 Burst Non-accommodating Martinotti Cell (2),bNAC219_L23_MC_44b474bb8f_0_0
-235,NMLCL000314,Layer 2/3 Burst Non-accommodating Martinotti Cell (3),bNAC219_L23_MC_55e4a7c88f_0_0
-236,NMLCL000315,Layer 2/3 Burst Non-accommodating Martinotti Cell (4),bNAC219_L23_MC_940ffcbb27_0_0
-237,NMLCL000316,Layer 2/3 Burst Non-accommodating Martinotti Cell (5),bNAC219_L23_MC_b7a2c9d0ae_0_0
-238,NMLCL000317,Layer 2/3 Burst Non-accommodating Nest Basket Cell (1),bNAC219_L23_NBC_01d2e3caa6_0_0
-239,NMLCL000318,Layer 2/3 Burst Non-accommodating Nest Basket Cell (2),bNAC219_L23_NBC_6561f8d865_0_0
-240,NMLCL000319,Layer 2/3 Burst Non-accommodating Nest Basket Cell (3),bNAC219_L23_NBC_68416e1f93_0_0
-241,NMLCL000320,Layer 2/3 Burst Non-accommodating Nest Basket Cell (4),bNAC219_L23_NBC_d27deeaf6a_0_0
-242,NMLCL000321,Layer 2/3 Burst Non-accommodating Nest Basket Cell (5),bNAC219_L23_NBC_ff73785e1d_0_0
-243,NMLCL000322,Layer 2/3 Burst Non-accommodating Neurogliaform Cell (1),bNAC219_L23_NGC_025b2126a1_0_0
-244,NMLCL000323,Layer 2/3 Burst Non-accommodating Neurogliaform Cell (2),bNAC219_L23_NGC_1c20d72451_0_0
-245,NMLCL000324,Layer 2/3 Burst Non-accommodating Neurogliaform Cell (3),bNAC219_L23_NGC_2ed16864d8_0_0
-246,NMLCL000325,Layer 2/3 Burst Non-accommodating Neurogliaform Cell (4),bNAC219_L23_NGC_8d6df1ab35_0_0
-247,NMLCL000326,Layer 2/3 Burst Non-accommodating Neurogliaform Cell (5),bNAC219_L23_NGC_d600988347_0_0
-248,NMLCL000327,Layer 2/3 Burst Non-accommodating Small Basket Cell (1),bNAC219_L23_SBC_1361ded4e5_0_0
-249,NMLCL000328,Layer 2/3 Burst Non-accommodating Small Basket Cell (2),bNAC219_L23_SBC_6cab0b0a69_0_0
-250,NMLCL000329,Layer 2/3 Burst Non-accommodating Small Basket Cell (3),bNAC219_L23_SBC_6d12eabed9_0_0
-251,NMLCL000330,Layer 2/3 Burst Non-accommodating Small Basket Cell (4),bNAC219_L23_SBC_cf92e1b802_0_0
-252,NMLCL000331,Layer 2/3 Burst Non-accommodating Small Basket Cell (5),bNAC219_L23_SBC_da4a711a61_0_0
-253,NMLCL000332,Layer 4 Burst Non-accommodating Bipolar Cell (1),bNAC219_L4_BP_a436dc77d5_0_0
-254,NMLCL000333,Layer 4 Burst Non-accommodating Bipolar Cell (2),bNAC219_L4_BP_a90620dca0_0_0
-255,NMLCL000334,Layer 4 Burst Non-accommodating Bipolar Cell (3),bNAC219_L4_BP_b88746aff4_0_0
-256,NMLCL000335,Layer 4 Burst Non-accommodating Bipolar Cell (4),bNAC219_L4_BP_c99c259f39_0_0
-257,NMLCL000336,Layer 4 Burst Non-accommodating Bipolar Cell (5),bNAC219_L4_BP_ff2b6d7b3d_0_0
-258,NMLCL000337,Layer 4 Burst Non-accommodating Double Bouquet Cell (1),bNAC219_L4_DBC_0d7219bf46_0_0
-259,NMLCL000338,Layer 4 Burst Non-accommodating Double Bouquet Cell (2),bNAC219_L4_DBC_45e771bde6_0_0
-260,NMLCL000339,Layer 4 Burst Non-accommodating Double Bouquet Cell (3),bNAC219_L4_DBC_519f8feedc_0_0
-261,NMLCL000340,Layer 4 Burst Non-accommodating Double Bouquet Cell (4),bNAC219_L4_DBC_beb47bee0e_0_0
-262,NMLCL000341,Layer 4 Burst Non-accommodating Double Bouquet Cell (5),bNAC219_L4_DBC_cf9508af7b_0_0
-263,NMLCL000342,Layer 4 Burst Non-accommodating Martinotti Cell (1),bNAC219_L4_MC_29457dde26_0_0
-264,NMLCL000343,Layer 4 Burst Non-accommodating Martinotti Cell (2),bNAC219_L4_MC_2eb83e1eed_0_0
-265,NMLCL000344,Layer 4 Burst Non-accommodating Martinotti Cell (3),bNAC219_L4_MC_5fa0a62bd0_0_0
-266,NMLCL000345,Layer 4 Burst Non-accommodating Martinotti Cell (4),bNAC219_L4_MC_8a4a02932c_0_0
-267,NMLCL000346,Layer 4 Burst Non-accommodating Martinotti Cell (5),bNAC219_L4_MC_ba3c5063e4_0_0
-268,NMLCL000347,Layer 4 Burst Non-accommodating Neurogliaform Cell (1),bNAC219_L4_NGC_1fcc3e1a56_0_0
-269,NMLCL000348,Layer 4 Burst Non-accommodating Neurogliaform Cell (2),bNAC219_L4_NGC_3c9a6fcd96_0_0
-270,NMLCL000349,Layer 4 Burst Non-accommodating Neurogliaform Cell (3),bNAC219_L4_NGC_52e552f939_0_0
-271,NMLCL000350,Layer 4 Burst Non-accommodating Neurogliaform Cell (4),bNAC219_L4_NGC_c0136fa0a8_0_0
-272,NMLCL000351,Layer 4 Burst Non-accommodating Neurogliaform Cell (5),bNAC219_L4_NGC_f7ede76c77_0_0
-273,NMLCL000352,Layer 4 Burst Non-accommodating Small Basket Cell (1),bNAC219_L4_SBC_140df1eca7_0_0
-274,NMLCL000353,Layer 4 Burst Non-accommodating Small Basket Cell (2),bNAC219_L4_SBC_20e5caa0d2_0_0
-275,NMLCL000354,Layer 4 Burst Non-accommodating Small Basket Cell (3),bNAC219_L4_SBC_3845e9299a_0_0
-276,NMLCL000355,Layer 4 Burst Non-accommodating Small Basket Cell (4),bNAC219_L4_SBC_a69bd53bb1_0_0
-277,NMLCL000356,Layer 4 Burst Non-accommodating Small Basket Cell (5),bNAC219_L4_SBC_dbf40425f3_0_0
-278,NMLCL000357,Layer 5 Burst Non-accommodating Bipolar Cell (1),bNAC219_L5_BP_46b0f41def_0_0
-279,NMLCL000358,Layer 5 Burst Non-accommodating Bipolar Cell (2),bNAC219_L5_BP_77ea5abf2a_0_0
-280,NMLCL000359,Layer 5 Burst Non-accommodating Bipolar Cell (3),bNAC219_L5_BP_aae4b53a29_0_0
-281,NMLCL000360,Layer 5 Burst Non-accommodating Bipolar Cell (4),bNAC219_L5_BP_b022a66bd2_0_0
-282,NMLCL000361,Layer 5 Burst Non-accommodating Bipolar Cell (5),bNAC219_L5_BP_bc09d28ed4_0_0
-283,NMLCL000362,Layer 5 Burst Non-accommodating Double Bouquet Cell (1),bNAC219_L5_DBC_0024418c1a_0_0
-284,NMLCL000363,Layer 5 Burst Non-accommodating Double Bouquet Cell (2),bNAC219_L5_DBC_0271760b42_0_0
-285,NMLCL000364,Layer 5 Burst Non-accommodating Double Bouquet Cell (3),bNAC219_L5_DBC_8be7b81168_0_0
-286,NMLCL000365,Layer 5 Burst Non-accommodating Double Bouquet Cell (4),bNAC219_L5_DBC_d56fbcd5cf_0_0
-287,NMLCL000366,Layer 5 Burst Non-accommodating Double Bouquet Cell (5),bNAC219_L5_DBC_ec8ca02d79_0_0
-288,NMLCL000367,Layer 5 Burst Non-accommodating Neurogliaform Cell (1),bNAC219_L5_NGC_0a55b16adf_0_0
-289,NMLCL000368,Layer 5 Burst Non-accommodating Neurogliaform Cell (2),bNAC219_L5_NGC_59eea55c41_0_0
-290,NMLCL000369,Layer 5 Burst Non-accommodating Neurogliaform Cell (3),bNAC219_L5_NGC_6186b7e85e_0_0
-291,NMLCL000370,Layer 5 Burst Non-accommodating Neurogliaform Cell (4),bNAC219_L5_NGC_842d05dd57_0_0
-292,NMLCL000371,Layer 5 Burst Non-accommodating Neurogliaform Cell (5),bNAC219_L5_NGC_c05e76271c_0_0
-293,NMLCL000372,Layer 5 Burst Non-accommodating Small Basket Cell (1),bNAC219_L5_SBC_0e6ba49679_0_0
-294,NMLCL000373,Layer 5 Burst Non-accommodating Small Basket Cell (2),bNAC219_L5_SBC_30bda13a76_0_0
-295,NMLCL000374,Layer 5 Burst Non-accommodating Small Basket Cell (3),bNAC219_L5_SBC_77ab259b7f_0_0
-296,NMLCL000375,Layer 5 Burst Non-accommodating Small Basket Cell (4),bNAC219_L5_SBC_80f2f8b43e_0_0
-297,NMLCL000376,Layer 5 Burst Non-accommodating Small Basket Cell (5),bNAC219_L5_SBC_f02100dc02_0_0
-298,NMLCL000377,Layer 6 Burst Non-accommodating Bipolar Cell (1),bNAC219_L6_BP_6f14cec977_0_0
-299,NMLCL000378,Layer 6 Burst Non-accommodating Bipolar Cell (2),bNAC219_L6_BP_77ea5abf2a_0_0
-300,NMLCL000379,Layer 6 Burst Non-accommodating Bipolar Cell (3),bNAC219_L6_BP_94e814803e_0_0
-301,NMLCL000380,Layer 6 Burst Non-accommodating Bipolar Cell (4),bNAC219_L6_BP_b4ffa23859_0_0
-302,NMLCL000381,Layer 6 Burst Non-accommodating Bipolar Cell (5),bNAC219_L6_BP_bf9275d56a_0_0
-303,NMLCL000382,Layer 6 Burst Non-accommodating Double Bouquet Cell (1),bNAC219_L6_DBC_65305c1be2_0_0
-304,NMLCL000383,Layer 6 Burst Non-accommodating Double Bouquet Cell (2),bNAC219_L6_DBC_9daccafbcb_0_0
-305,NMLCL000384,Layer 6 Burst Non-accommodating Double Bouquet Cell (3),bNAC219_L6_DBC_b770304226_0_0
-306,NMLCL000385,Layer 6 Burst Non-accommodating Double Bouquet Cell (4),bNAC219_L6_DBC_b8f064ed89_0_0
-307,NMLCL000386,Layer 6 Burst Non-accommodating Double Bouquet Cell (5),bNAC219_L6_DBC_e08f2b8ef4_0_0
-308,NMLCL000387,Layer 6 Burst Non-accommodating Large Basket Cell (1),bNAC219_L6_LBC_0491f28d21_0_0
-309,NMLCL000388,Layer 6 Burst Non-accommodating Large Basket Cell (2),bNAC219_L6_LBC_9918304f5f_0_0
-310,NMLCL000389,Layer 6 Burst Non-accommodating Large Basket Cell (3),bNAC219_L6_LBC_9f176c343a_0_0
-311,NMLCL000390,Layer 6 Burst Non-accommodating Large Basket Cell (4),bNAC219_L6_LBC_c5d7d5e5ee_0_0
-312,NMLCL000391,Layer 6 Burst Non-accommodating Large Basket Cell (5),bNAC219_L6_LBC_dbef3c6e51_0_0
-313,NMLCL000392,Layer 6 Burst Non-accommodating Martinotti Cell (1),bNAC219_L6_MC_5597e4d536_0_0
-314,NMLCL000393,Layer 6 Burst Non-accommodating Martinotti Cell (2),bNAC219_L6_MC_62cf39b45d_0_0
-315,NMLCL000394,Layer 6 Burst Non-accommodating Martinotti Cell (3),bNAC219_L6_MC_6c575906a7_0_0
-316,NMLCL000395,Layer 6 Burst Non-accommodating Martinotti Cell (4),bNAC219_L6_MC_d379cda689_0_0
-317,NMLCL000396,Layer 6 Burst Non-accommodating Martinotti Cell (5),bNAC219_L6_MC_df869132b9_0_0
-318,NMLCL000397,Layer 6 Burst Non-accommodating Neurogliaform Cell (1),bNAC219_L6_NGC_1cbc449022_0_0
-319,NMLCL000398,Layer 6 Burst Non-accommodating Neurogliaform Cell (2),bNAC219_L6_NGC_6bf1113bb8_0_0
-320,NMLCL000399,Layer 6 Burst Non-accommodating Neurogliaform Cell (3),bNAC219_L6_NGC_72634352c5_0_0
-321,NMLCL000400,Layer 6 Burst Non-accommodating Neurogliaform Cell (4),bNAC219_L6_NGC_91137e1b70_0_0
-322,NMLCL000401,Layer 6 Burst Non-accommodating Neurogliaform Cell (5),bNAC219_L6_NGC_982f5b1a82_0_0
-323,NMLCL000402,Layer 6 Burst Non-accommodating Small Basket Cell (1),bNAC219_L6_SBC_28362da21f_0_0
-324,NMLCL000403,Layer 6 Burst Non-accommodating Small Basket Cell (2),bNAC219_L6_SBC_6c1acec83a_0_0
-325,NMLCL000404,Layer 6 Burst Non-accommodating Small Basket Cell (3),bNAC219_L6_SBC_6dbc1eb2b9_0_0
-326,NMLCL000405,Layer 6 Burst Non-accommodating Small Basket Cell (4),bNAC219_L6_SBC_d20c9b88b4_0_0
-327,NMLCL000406,Layer 6 Burst Non-accommodating Small Basket Cell (5),bNAC219_L6_SBC_fb9380858b_0_0
-328,NMLCL000407,Layer 4 Burst Stuttering Bitufted Cell (1),bSTUT213_L4_BTC_32b27576a9_0_0
-329,NMLCL000408,Layer 4 Burst Stuttering Bitufted Cell (2),bSTUT213_L4_BTC_62f17815ed_0_0
-330,NMLCL000409,Layer 4 Burst Stuttering Bitufted Cell (3),bSTUT213_L4_BTC_8637afc75f_0_0
-331,NMLCL000410,Layer 4 Burst Stuttering Bitufted Cell (4),bSTUT213_L4_BTC_93ff2bc104_0_0
-332,NMLCL000411,Layer 4 Burst Stuttering Bitufted Cell (5),bSTUT213_L4_BTC_9c68c60c2f_0_0
-333,NMLCL000412,Layer 4 Burst Stuttering Double Bouquet Cell (1),bSTUT213_L4_DBC_0c64ca4449_0_0
-334,NMLCL000413,Layer 4 Burst Stuttering Double Bouquet Cell (2),bSTUT213_L4_DBC_23ffe29c8b_0_0
-335,NMLCL000414,Layer 4 Burst Stuttering Double Bouquet Cell (3),bSTUT213_L4_DBC_c5d29c2b17_0_0
-336,NMLCL000415,Layer 4 Burst Stuttering Double Bouquet Cell (4),bSTUT213_L4_DBC_c6dae7aa61_0_0
-337,NMLCL000416,Layer 4 Burst Stuttering Double Bouquet Cell (5),bSTUT213_L4_DBC_cd818dfadf_0_0
-338,NMLCL000417,Layer 5 Burst Stuttering Double Bouquet Cell (1),bSTUT213_L5_DBC_44eae19442_0_0
-339,NMLCL000418,Layer 5 Burst Stuttering Double Bouquet Cell (2),bSTUT213_L5_DBC_ad487d347d_0_0
-340,NMLCL000419,Layer 5 Burst Stuttering Double Bouquet Cell (3),bSTUT213_L5_DBC_b475d0949a_0_0
-341,NMLCL000420,Layer 5 Burst Stuttering Double Bouquet Cell (4),bSTUT213_L5_DBC_b770304226_0_0
-342,NMLCL000421,Layer 5 Burst Stuttering Double Bouquet Cell (5),bSTUT213_L5_DBC_ec8ca02d79_0_0
-343,NMLCL000422,Layer 5 Burst Stuttering Martinotti Cell (1),bSTUT213_L5_MC_13c5267e91_0_0
-344,NMLCL000423,Layer 5 Burst Stuttering Martinotti Cell (2),bSTUT213_L5_MC_162814b80d_0_0
-345,NMLCL000424,Layer 5 Burst Stuttering Martinotti Cell (3),bSTUT213_L5_MC_8a4a02932c_0_0
-346,NMLCL000425,Layer 5 Burst Stuttering Martinotti Cell (4),bSTUT213_L5_MC_abb77ac4ef_0_0
-347,NMLCL000426,Layer 5 Burst Stuttering Martinotti Cell (5),bSTUT213_L5_MC_fdc7bd1d07_0_0
-348,NMLCL000427,Layer 5 Burst Stuttering Nest Basket Cell (1),bSTUT213_L5_NBC_650c18e6aa_0_0
-349,NMLCL000428,Layer 5 Burst Stuttering Nest Basket Cell (2),bSTUT213_L5_NBC_6c09f2f610_0_0
-350,NMLCL000429,Layer 5 Burst Stuttering Nest Basket Cell (3),bSTUT213_L5_NBC_bb8fc44e15_0_0
-351,NMLCL000430,Layer 5 Burst Stuttering Nest Basket Cell (4),bSTUT213_L5_NBC_e0eb22f024_0_0
-352,NMLCL000431,Layer 5 Burst Stuttering Nest Basket Cell (5),bSTUT213_L5_NBC_e7c18ce52f_0_0
-353,NMLCL000432,Layer 6 Burst Stuttering Double Bouquet Cell (1),bSTUT213_L6_DBC_4765d943f4_0_0
-354,NMLCL000433,Layer 6 Burst Stuttering Double Bouquet Cell (2),bSTUT213_L6_DBC_65305c1be2_0_0
-355,NMLCL000434,Layer 6 Burst Stuttering Double Bouquet Cell (3),bSTUT213_L6_DBC_eb2bf85006_0_0
-356,NMLCL000435,Layer 6 Burst Stuttering Double Bouquet Cell (4),bSTUT213_L6_DBC_ed383a5814_0_0
-357,NMLCL000436,Layer 6 Burst Stuttering Double Bouquet Cell (5),bSTUT213_L6_DBC_f56173144c_0_0
-358,NMLCL000437,Layer 6 Burst Stuttering Large Basket Cell (1),bSTUT213_L6_LBC_0823165631_0_0
-359,NMLCL000438,Layer 6 Burst Stuttering Large Basket Cell (2),bSTUT213_L6_LBC_40c756925d_0_0
-360,NMLCL000439,Layer 6 Burst Stuttering Large Basket Cell (3),bSTUT213_L6_LBC_9961376dfe_0_0
-361,NMLCL000440,Layer 6 Burst Stuttering Large Basket Cell (4),bSTUT213_L6_LBC_b4f69c277d_0_0
-362,NMLCL000441,Layer 6 Burst Stuttering Large Basket Cell (5),bSTUT213_L6_LBC_e36a750de6_0_0
-363,NMLCL000442,Layer 6 Burst Stuttering Martinotti Cell (1),bSTUT213_L6_MC_5597e4d536_0_0
-364,NMLCL000443,Layer 6 Burst Stuttering Martinotti Cell (2),bSTUT213_L6_MC_8f46a0ad62_0_0
-365,NMLCL000444,Layer 6 Burst Stuttering Martinotti Cell (3),bSTUT213_L6_MC_d379cda689_0_0
-366,NMLCL000445,Layer 6 Burst Stuttering Martinotti Cell (4),bSTUT213_L6_MC_df869132b9_0_0
-367,NMLCL000446,Layer 6 Burst Stuttering Martinotti Cell (5),bSTUT213_L6_MC_e8d04feaa6_0_0
-368,NMLCL000447,Layer 6 Burst Stuttering Nest Basket Cell (1),bSTUT213_L6_NBC_1873e25157_0_0
-369,NMLCL000448,Layer 6 Burst Stuttering Nest Basket Cell (2),bSTUT213_L6_NBC_4b88b7a151_0_0
-370,NMLCL000449,Layer 6 Burst Stuttering Nest Basket Cell (3),bSTUT213_L6_NBC_91e841ee63_0_0
-371,NMLCL000450,Layer 6 Burst Stuttering Nest Basket Cell (4),bSTUT213_L6_NBC_9c726011d7_0_0
-372,NMLCL000451,Layer 6 Burst Stuttering Nest Basket Cell (5),bSTUT213_L6_NBC_a3ddbb0af0_0_0
-373,NMLCL000452,Layer 1 Continuous Accommodating Neurogliaform Cell with dense axonal arborization (1),cACint209_L1_NGCDA_3037dfc60f_0_0
-374,NMLCL000453,Layer 1 Continuous Accommodating Neurogliaform Cell with dense axonal arborization (2),cACint209_L1_NGCDA_3f6ea7fdea_0_0
-375,NMLCL000454,Layer 1 Continuous Accommodating Neurogliaform Cell with dense axonal arborization (3),cACint209_L1_NGCDA_79c9f5c53c_0_0
-376,NMLCL000455,Layer 1 Continuous Accommodating Neurogliaform Cell with dense axonal arborization (4),cACint209_L1_NGCDA_d8569cb244_0_0
-377,NMLCL000456,Layer 1 Continuous Accommodating Neurogliaform Cell with dense axonal arborization (5),cACint209_L1_NGCDA_f0e0c9b323_0_0
-378,NMLCL000457,Layer 1 Continuous Accommodating Small Axon Cell (1),cACint209_L1_SLAC_0a908934ff_0_0
-379,NMLCL000458,Layer 1 Continuous Accommodating Small Axon Cell (2),cACint209_L1_SLAC_23649a0c82_0_0
-380,NMLCL000459,Layer 1 Continuous Accommodating Small Axon Cell (3),cACint209_L1_SLAC_76ffc1f69e_0_0
-381,NMLCL000460,Layer 1 Continuous Accommodating Small Axon Cell (4),cACint209_L1_SLAC_8c41d76d82_0_0
-382,NMLCL000461,Layer 1 Continuous Accommodating Small Axon Cell (5),cACint209_L1_SLAC_9fb2ec760b_0_0
-383,NMLCL000462,Layer 2/3 Continuous Accommodating Bipolar Cell (1),cACint209_L23_BP_13d0a0f335_0_0
-384,NMLCL000463,Layer 2/3 Continuous Accommodating Bipolar Cell (2),cACint209_L23_BP_4c3a004bfc_0_0
-385,NMLCL000464,Layer 2/3 Continuous Accommodating Bipolar Cell (3),cACint209_L23_BP_898fda8796_0_0
-386,NMLCL000465,Layer 2/3 Continuous Accommodating Bipolar Cell (4),cACint209_L23_BP_ca85cefc69_0_0
-387,NMLCL000466,Layer 2/3 Continuous Accommodating Bipolar Cell (5),cACint209_L23_BP_e106330a2e_0_0
-388,NMLCL000467,Layer 2/3 Continuous Accommodating Bitufted Cell (1),cACint209_L23_BTC_3ac7d39218_0_0
-389,NMLCL000468,Layer 2/3 Continuous Accommodating Bitufted Cell (2),cACint209_L23_BTC_4f730ef7d0_0_0
-390,NMLCL000469,Layer 2/3 Continuous Accommodating Bitufted Cell (3),cACint209_L23_BTC_59062d6e7d_0_0
-391,NMLCL000470,Layer 2/3 Continuous Accommodating Bitufted Cell (4),cACint209_L23_BTC_acb33d4029_0_0
-392,NMLCL000471,Layer 2/3 Continuous Accommodating Bitufted Cell (5),cACint209_L23_BTC_c745595fbe_0_0
-393,NMLCL000472,Layer 2/3 Continuous Accommodating Chandelier Cell (1),cACint209_L23_ChC_34ad1ccef7_0_0
-394,NMLCL000473,Layer 2/3 Continuous Accommodating Chandelier Cell (2),cACint209_L23_ChC_87b9dd7336_0_0
-395,NMLCL000474,Layer 2/3 Continuous Accommodating Chandelier Cell (3),cACint209_L23_ChC_9b21151736_0_0
-396,NMLCL000475,Layer 2/3 Continuous Accommodating Chandelier Cell (4),cACint209_L23_ChC_a7e068ee2e_0_0
-397,NMLCL000476,Layer 2/3 Continuous Accommodating Chandelier Cell (5),cACint209_L23_ChC_cfcfe12e37_0_0
-398,NMLCL000477,Layer 2/3 Continuous Accommodating Double Bouquet Cell (1),cACint209_L23_DBC_2907e308d8_0_0
-399,NMLCL000478,Layer 2/3 Continuous Accommodating Double Bouquet Cell (2),cACint209_L23_DBC_4041312e0d_0_0
-400,NMLCL000479,Layer 2/3 Continuous Accommodating Double Bouquet Cell (3),cACint209_L23_DBC_4114c4c36c_0_0
-401,NMLCL000480,Layer 2/3 Continuous Accommodating Double Bouquet Cell (4),cACint209_L23_DBC_8060414f1a_0_0
-402,NMLCL000481,Layer 2/3 Continuous Accommodating Double Bouquet Cell (5),cACint209_L23_DBC_d6b3e3e96c_0_0
-403,NMLCL000482,Layer 2/3 Continuous Accommodating Large Basket Cell (1),cACint209_L23_LBC_10ecac904b_0_0
-404,NMLCL000483,Layer 2/3 Continuous Accommodating Large Basket Cell (2),cACint209_L23_LBC_78b571a886_0_0
-405,NMLCL000484,Layer 2/3 Continuous Accommodating Large Basket Cell (3),cACint209_L23_LBC_c6138544ab_0_0
-406,NMLCL000485,Layer 2/3 Continuous Accommodating Large Basket Cell (4),cACint209_L23_LBC_d5fa8128ae_0_0
-407,NMLCL000486,Layer 2/3 Continuous Accommodating Large Basket Cell (5),cACint209_L23_LBC_fece30537a_0_0
-408,NMLCL000487,Layer 2/3 Continuous Accommodating Martinotti Cell (1),cACint209_L23_MC_31f333a601_0_0
-409,NMLCL000488,Layer 2/3 Continuous Accommodating Martinotti Cell (2),cACint209_L23_MC_3303d0ff68_0_0
-410,NMLCL000489,Layer 2/3 Continuous Accommodating Martinotti Cell (3),cACint209_L23_MC_55e4a7c88f_0_0
-411,NMLCL000490,Layer 2/3 Continuous Accommodating Martinotti Cell (4),cACint209_L23_MC_940ffcbb27_0_0
-412,NMLCL000491,Layer 2/3 Continuous Accommodating Martinotti Cell (5),cACint209_L23_MC_ba3c5063e4_0_0
-413,NMLCL000492,Layer 2/3 Continuous Accommodating Nest Basket Cell (1),cACint209_L23_NBC_2d5f9c7a57_0_0
-414,NMLCL000493,Layer 2/3 Continuous Accommodating Nest Basket Cell (2),cACint209_L23_NBC_2f018ce735_0_0
-415,NMLCL000494,Layer 2/3 Continuous Accommodating Nest Basket Cell (3),cACint209_L23_NBC_7e8781b0f2_0_0
-416,NMLCL000495,Layer 2/3 Continuous Accommodating Nest Basket Cell (4),cACint209_L23_NBC_ad562fc72b_0_0
-417,NMLCL000496,Layer 2/3 Continuous Accommodating Nest Basket Cell (5),cACint209_L23_NBC_f831ad7a1f_0_0
-418,NMLCL000497,Layer 2/3 Continuous Accommodating Neurogliaform Cell (1),cACint209_L23_NGC_5d66592f99_0_0
-419,NMLCL000498,Layer 2/3 Continuous Accommodating Neurogliaform Cell (2),cACint209_L23_NGC_8a9ea95bee_0_0
-420,NMLCL000499,Layer 2/3 Continuous Accommodating Neurogliaform Cell (3),cACint209_L23_NGC_90d34530b4_0_0
-421,NMLCL000500,Layer 2/3 Continuous Accommodating Neurogliaform Cell (4),cACint209_L23_NGC_be2ffb9c7d_0_0
-422,NMLCL000501,Layer 2/3 Continuous Accommodating Neurogliaform Cell (5),cACint209_L23_NGC_ec67e9ba9b_0_0
-423,NMLCL000502,Layer 2/3 Continuous Accommodating Small Basket Cell (1),cACint209_L23_SBC_0869c1fd12_0_0
-424,NMLCL000503,Layer 2/3 Continuous Accommodating Small Basket Cell (2),cACint209_L23_SBC_1fa95380bf_0_0
-425,NMLCL000504,Layer 2/3 Continuous Accommodating Small Basket Cell (3),cACint209_L23_SBC_7b122f5ac9_0_0
-426,NMLCL000505,Layer 2/3 Continuous Accommodating Small Basket Cell (4),cACint209_L23_SBC_afc0be559d_0_0
-427,NMLCL000506,Layer 2/3 Continuous Accommodating Small Basket Cell (5),cACint209_L23_SBC_c2414afe0b_0_0
-428,NMLCL000507,Layer 4 Continuous Accommodating Bipolar Cell (1),cACint209_L4_BP_5e74f0aae9_0_0
-429,NMLCL000508,Layer 4 Continuous Accommodating Bipolar Cell (2),cACint209_L4_BP_a436dc77d5_0_0
-430,NMLCL000509,Layer 4 Continuous Accommodating Bipolar Cell (3),cACint209_L4_BP_a90620dca0_0_0
-431,NMLCL000510,Layer 4 Continuous Accommodating Bipolar Cell (4),cACint209_L4_BP_c99c259f39_0_0
-432,NMLCL000511,Layer 4 Continuous Accommodating Bipolar Cell (5),cACint209_L4_BP_ff2b6d7b3d_0_0
-433,NMLCL000512,Layer 4 Continuous Accommodating Bitufted Cell (1),cACint209_L4_BTC_04273604d2_0_0
-434,NMLCL000513,Layer 4 Continuous Accommodating Bitufted Cell (2),cACint209_L4_BTC_20d24e55d5_0_0
-435,NMLCL000514,Layer 4 Continuous Accommodating Bitufted Cell (3),cACint209_L4_BTC_6909c18187_0_0
-436,NMLCL000515,Layer 4 Continuous Accommodating Bitufted Cell (4),cACint209_L4_BTC_87c80e7368_0_0
-437,NMLCL000516,Layer 4 Continuous Accommodating Bitufted Cell (5),cACint209_L4_BTC_8af90b418f_0_0
-438,NMLCL000517,Layer 4 Continuous Accommodating Chandelier Cell (1),cACint209_L4_ChC_2d707a8bcb_0_0
-439,NMLCL000518,Layer 4 Continuous Accommodating Chandelier Cell (2),cACint209_L4_ChC_55f3c5c127_0_0
-440,NMLCL000519,Layer 4 Continuous Accommodating Chandelier Cell (3),cACint209_L4_ChC_6d90400381_0_0
-441,NMLCL000520,Layer 4 Continuous Accommodating Chandelier Cell (4),cACint209_L4_ChC_85076eeecc_0_0
-442,NMLCL000521,Layer 4 Continuous Accommodating Chandelier Cell (5),cACint209_L4_ChC_a78ee53c37_0_0
-443,NMLCL000522,Layer 4 Continuous Accommodating Double Bouquet Cell (1),cACint209_L4_DBC_280e20a247_0_0
-444,NMLCL000523,Layer 4 Continuous Accommodating Double Bouquet Cell (2),cACint209_L4_DBC_78b422a17a_0_0
-445,NMLCL000524,Layer 4 Continuous Accommodating Double Bouquet Cell (3),cACint209_L4_DBC_a7aa7154d8_0_0
-446,NMLCL000525,Layer 4 Continuous Accommodating Double Bouquet Cell (4),cACint209_L4_DBC_cd818dfadf_0_0
-447,NMLCL000526,Layer 4 Continuous Accommodating Double Bouquet Cell (5),cACint209_L4_DBC_e8a6fe8924_0_0
-448,NMLCL000527,Layer 4 Continuous Accommodating Large Basket Cell (1),cACint209_L4_LBC_45f62e2816_0_0
-449,NMLCL000528,Layer 4 Continuous Accommodating Large Basket Cell (2),cACint209_L4_LBC_66ec8fed8f_0_0
-450,NMLCL000529,Layer 4 Continuous Accommodating Large Basket Cell (3),cACint209_L4_LBC_852c3c018f_0_0
-451,NMLCL000530,Layer 4 Continuous Accommodating Large Basket Cell (4),cACint209_L4_LBC_baa757490e_0_0
-452,NMLCL000531,Layer 4 Continuous Accommodating Large Basket Cell (5),cACint209_L4_LBC_db543bcdea_0_0
-453,NMLCL000532,Layer 4 Continuous Accommodating Martinotti Cell (1),cACint209_L4_MC_5fa0a62bd0_0_0
-454,NMLCL000533,Layer 4 Continuous Accommodating Martinotti Cell (2),cACint209_L4_MC_8a4a02932c_0_0
-455,NMLCL000534,Layer 4 Continuous Accommodating Martinotti Cell (3),cACint209_L4_MC_ba3c5063e4_0_0
-456,NMLCL000535,Layer 4 Continuous Accommodating Martinotti Cell (4),cACint209_L4_MC_f8c62d11b0_0_0
-457,NMLCL000536,Layer 4 Continuous Accommodating Martinotti Cell (5),cACint209_L4_MC_fa0d941a0b_0_0
-458,NMLCL000537,Layer 4 Continuous Accommodating Nest Basket Cell (1),cACint209_L4_NBC_2eca058e75_0_0
-459,NMLCL000538,Layer 4 Continuous Accommodating Nest Basket Cell (2),cACint209_L4_NBC_3552e1f34a_0_0
-460,NMLCL000539,Layer 4 Continuous Accommodating Nest Basket Cell (3),cACint209_L4_NBC_70775a2036_0_0
-461,NMLCL000540,Layer 4 Continuous Accommodating Nest Basket Cell (4),cACint209_L4_NBC_7b7132634e_0_0
-462,NMLCL000541,Layer 4 Continuous Accommodating Nest Basket Cell (5),cACint209_L4_NBC_9060dda08b_0_0
-463,NMLCL000542,Layer 4 Continuous Accommodating Neurogliaform Cell (1),cACint209_L4_NGC_00ae03b116_0_0
-464,NMLCL000543,Layer 4 Continuous Accommodating Neurogliaform Cell (2),cACint209_L4_NGC_5afa44ef6a_0_0
-465,NMLCL000544,Layer 4 Continuous Accommodating Neurogliaform Cell (3),cACint209_L4_NGC_5c53c04d48_0_0
-466,NMLCL000545,Layer 4 Continuous Accommodating Neurogliaform Cell (4),cACint209_L4_NGC_9f0f008375_0_0
-467,NMLCL000546,Layer 4 Continuous Accommodating Neurogliaform Cell (5),cACint209_L4_NGC_ceb889b1bc_0_0
-468,NMLCL000547,Layer 4 Continuous Accommodating Small Basket Cell (1),cACint209_L4_SBC_12caedd28c_0_0
-469,NMLCL000548,Layer 4 Continuous Accommodating Small Basket Cell (2),cACint209_L4_SBC_4148f86d4f_0_0
-470,NMLCL000549,Layer 4 Continuous Accommodating Small Basket Cell (3),cACint209_L4_SBC_684e05d4eb_0_0
-471,NMLCL000550,Layer 4 Continuous Accommodating Small Basket Cell (4),cACint209_L4_SBC_7382b080d8_0_0
-472,NMLCL000551,Layer 4 Continuous Accommodating Small Basket Cell (5),cACint209_L4_SBC_fc7c18ae57_0_0
-473,NMLCL000552,Layer 5 Continuous Accommodating Bipolar Cell (1),cACint209_L5_BP_46b07f0520_0_0
-474,NMLCL000553,Layer 5 Continuous Accommodating Bipolar Cell (2),cACint209_L5_BP_946d6468c0_0_0
-475,NMLCL000554,Layer 5 Continuous Accommodating Bipolar Cell (3),cACint209_L5_BP_94d2820eba_0_0
-476,NMLCL000555,Layer 5 Continuous Accommodating Bipolar Cell (4),cACint209_L5_BP_b43315e986_0_0
-477,NMLCL000556,Layer 5 Continuous Accommodating Bipolar Cell (5),cACint209_L5_BP_f600080385_0_0
-478,NMLCL000557,Layer 5 Continuous Accommodating Bitufted Cell (1),cACint209_L5_BTC_0a7f6392e3_0_0
-479,NMLCL000558,Layer 5 Continuous Accommodating Bitufted Cell (2),cACint209_L5_BTC_41f7db5b85_0_0
-480,NMLCL000559,Layer 5 Continuous Accommodating Bitufted Cell (3),cACint209_L5_BTC_6ab22ae2e0_0_0
-481,NMLCL000560,Layer 5 Continuous Accommodating Bitufted Cell (4),cACint209_L5_BTC_7412fd9a84_0_0
-482,NMLCL000561,Layer 5 Continuous Accommodating Bitufted Cell (5),cACint209_L5_BTC_a4bce5d682_0_0
-483,NMLCL000562,Layer 5 Continuous Accommodating Chandelier Cell (1),cACint209_L5_ChC_759d7f7dc1_0_0
-484,NMLCL000563,Layer 5 Continuous Accommodating Chandelier Cell (2),cACint209_L5_ChC_8eec342856_0_0
-485,NMLCL000564,Layer 5 Continuous Accommodating Chandelier Cell (3),cACint209_L5_ChC_ab30296908_0_0
-486,NMLCL000565,Layer 5 Continuous Accommodating Chandelier Cell (4),cACint209_L5_ChC_c38923facb_0_0
-487,NMLCL000566,Layer 5 Continuous Accommodating Chandelier Cell (5),cACint209_L5_ChC_e98f63217d_0_0
-488,NMLCL000567,Layer 5 Continuous Accommodating Double Bouquet Cell (1),cACint209_L5_DBC_189fcfd9e0_0_0
-489,NMLCL000568,Layer 5 Continuous Accommodating Double Bouquet Cell (2),cACint209_L5_DBC_5f1980557e_0_0
-490,NMLCL000569,Layer 5 Continuous Accommodating Double Bouquet Cell (3),cACint209_L5_DBC_6a2bbf2a1b_0_0
-491,NMLCL000570,Layer 5 Continuous Accommodating Double Bouquet Cell (4),cACint209_L5_DBC_74050baf6d_0_0
-492,NMLCL000571,Layer 5 Continuous Accommodating Double Bouquet Cell (5),cACint209_L5_DBC_e2f2301440_0_0
-493,NMLCL000572,Layer 5 Continuous Accommodating Large Basket Cell (1),cACint209_L5_LBC_09c47b4905_0_0
-494,NMLCL000573,Layer 5 Continuous Accommodating Large Basket Cell (2),cACint209_L5_LBC_126a82ac08_0_0
-495,NMLCL000574,Layer 5 Continuous Accommodating Large Basket Cell (3),cACint209_L5_LBC_3285d77dba_0_0
-496,NMLCL000575,Layer 5 Continuous Accommodating Large Basket Cell (4),cACint209_L5_LBC_b1fb5cc4b0_0_0
-497,NMLCL000576,Layer 5 Continuous Accommodating Large Basket Cell (5),cACint209_L5_LBC_e7a596714b_0_0
-498,NMLCL000577,Layer 5 Continuous Accommodating Martinotti Cell (1),cACint209_L5_MC_42542e071a_0_0
-499,NMLCL000578,Layer 5 Continuous Accommodating Martinotti Cell (2),cACint209_L5_MC_575d31ccfd_0_0
-500,NMLCL000579,Layer 5 Continuous Accommodating Martinotti Cell (3),cACint209_L5_MC_bf2b2fbcbf_0_0
-501,NMLCL000580,Layer 5 Continuous Accommodating Martinotti Cell (4),cACint209_L5_MC_cc2a170ef6_0_0
-502,NMLCL000581,Layer 5 Continuous Accommodating Martinotti Cell (5),cACint209_L5_MC_fdc7bd1d07_0_0
-503,NMLCL000582,Layer 5 Continuous Accommodating Nest Basket Cell (1),cACint209_L5_NBC_3064d86d49_0_0
-504,NMLCL000583,Layer 5 Continuous Accommodating Nest Basket Cell (2),cACint209_L5_NBC_3bb78a3daa_0_0
-505,NMLCL000584,Layer 5 Continuous Accommodating Nest Basket Cell (3),cACint209_L5_NBC_63fe8b2e25_0_0
-506,NMLCL000585,Layer 5 Continuous Accommodating Nest Basket Cell (4),cACint209_L5_NBC_ac16f8ddcb_0_0
-507,NMLCL000586,Layer 5 Continuous Accommodating Nest Basket Cell (5),cACint209_L5_NBC_e9641cafc3_0_0
-508,NMLCL000587,Layer 5 Continuous Accommodating Neurogliaform Cell (1),cACint209_L5_NGC_182e4f4a95_0_0
-509,NMLCL000588,Layer 5 Continuous Accommodating Neurogliaform Cell (2),cACint209_L5_NGC_2ab508e906_0_0
-510,NMLCL000589,Layer 5 Continuous Accommodating Neurogliaform Cell (3),cACint209_L5_NGC_82e62003c9_0_0
-511,NMLCL000590,Layer 5 Continuous Accommodating Neurogliaform Cell (4),cACint209_L5_NGC_9ee242e8ff_0_0
-512,NMLCL000591,Layer 5 Continuous Accommodating Neurogliaform Cell (5),cACint209_L5_NGC_a22132f37b_0_0
-513,NMLCL000592,Layer 5 Continuous Accommodating Small Basket Cell (1),cACint209_L5_SBC_0e6ba49679_0_0
-514,NMLCL000593,Layer 5 Continuous Accommodating Small Basket Cell (2),cACint209_L5_SBC_3ba116236f_0_0
-515,NMLCL000594,Layer 5 Continuous Accommodating Small Basket Cell (3),cACint209_L5_SBC_5318cbf0cb_0_0
-516,NMLCL000595,Layer 5 Continuous Accommodating Small Basket Cell (4),cACint209_L5_SBC_61a753bff1_0_0
-517,NMLCL000596,Layer 5 Continuous Accommodating Small Basket Cell (5),cACint209_L5_SBC_e8567af242_0_0
-518,NMLCL000597,Layer 6 Continuous Accommodating Bipolar Cell (1),cACint209_L6_BP_31899e6d75_0_0
-519,NMLCL000598,Layer 6 Continuous Accommodating Bipolar Cell (2),cACint209_L6_BP_52bbfb0292_0_0
-520,NMLCL000599,Layer 6 Continuous Accommodating Bipolar Cell (3),cACint209_L6_BP_a6fb2fe3a5_0_0
-521,NMLCL000600,Layer 6 Continuous Accommodating Bipolar Cell (4),cACint209_L6_BP_b4ffa23859_0_0
-522,NMLCL000601,Layer 6 Continuous Accommodating Bipolar Cell (5),cACint209_L6_BP_ce89d46a17_0_0
-523,NMLCL000602,Layer 6 Continuous Accommodating Bitufted Cell (1),cACint209_L6_BTC_045fb87685_0_0
-524,NMLCL000603,Layer 6 Continuous Accommodating Bitufted Cell (2),cACint209_L6_BTC_0aac470ea8_0_0
-525,NMLCL000604,Layer 6 Continuous Accommodating Bitufted Cell (3),cACint209_L6_BTC_2d87a29e8a_0_0
-526,NMLCL000605,Layer 6 Continuous Accommodating Bitufted Cell (4),cACint209_L6_BTC_bc69dce0ae_0_0
-527,NMLCL000606,Layer 6 Continuous Accommodating Bitufted Cell (5),cACint209_L6_BTC_c021ea90e3_0_0
-528,NMLCL000607,Layer 6 Continuous Accommodating Chandelier Cell (1),cACint209_L6_ChC_14a89428ba_0_0
-529,NMLCL000608,Layer 6 Continuous Accommodating Chandelier Cell (2),cACint209_L6_ChC_6a369a07f4_0_0
-530,NMLCL000609,Layer 6 Continuous Accommodating Chandelier Cell (3),cACint209_L6_ChC_8eec342856_0_0
-531,NMLCL000610,Layer 6 Continuous Accommodating Chandelier Cell (4),cACint209_L6_ChC_9060a4c27e_0_0
-532,NMLCL000611,Layer 6 Continuous Accommodating Chandelier Cell (5),cACint209_L6_ChC_9cc7bcef1d_0_0
-533,NMLCL000612,Layer 6 Continuous Accommodating Double Bouquet Cell (1),cACint209_L6_DBC_0271760b42_0_0
-534,NMLCL000613,Layer 6 Continuous Accommodating Double Bouquet Cell (2),cACint209_L6_DBC_42ed26968e_0_0
-535,NMLCL000614,Layer 6 Continuous Accommodating Double Bouquet Cell (3),cACint209_L6_DBC_98012db3f3_0_0
-536,NMLCL000615,Layer 6 Continuous Accommodating Double Bouquet Cell (4),cACint209_L6_DBC_d59edbb45e_0_0
-537,NMLCL000616,Layer 6 Continuous Accommodating Double Bouquet Cell (5),cACint209_L6_DBC_e432520e46_0_0
-538,NMLCL000617,Layer 6 Continuous Accommodating Martinotti Cell (1),cACint209_L6_MC_0686f3517c_0_0
-539,NMLCL000618,Layer 6 Continuous Accommodating Martinotti Cell (2),cACint209_L6_MC_5597e4d536_0_0
-540,NMLCL000619,Layer 6 Continuous Accommodating Martinotti Cell (3),cACint209_L6_MC_62cf39b45d_0_0
-541,NMLCL000620,Layer 6 Continuous Accommodating Martinotti Cell (4),cACint209_L6_MC_792eb41cce_0_0
-542,NMLCL000621,Layer 6 Continuous Accommodating Martinotti Cell (5),cACint209_L6_MC_df869132b9_0_0
-543,NMLCL000622,Layer 6 Continuous Accommodating Nest Basket Cell (1),cACint209_L6_NBC_0de57faa51_0_0
-544,NMLCL000623,Layer 6 Continuous Accommodating Nest Basket Cell (2),cACint209_L6_NBC_495063b057_0_0
-545,NMLCL000624,Layer 6 Continuous Accommodating Nest Basket Cell (3),cACint209_L6_NBC_780c5f5ae3_0_0
-546,NMLCL000625,Layer 6 Continuous Accommodating Nest Basket Cell (4),cACint209_L6_NBC_a3972c5d97_0_0
-547,NMLCL000626,Layer 6 Continuous Accommodating Nest Basket Cell (5),cACint209_L6_NBC_ad3dd575d2_0_0
-548,NMLCL000627,Layer 6 Continuous Accommodating Neurogliaform Cell (1),cACint209_L6_NGC_2ab508e906_0_0
-549,NMLCL000628,Layer 6 Continuous Accommodating Neurogliaform Cell (2),cACint209_L6_NGC_48dc33e388_0_0
-550,NMLCL000629,Layer 6 Continuous Accommodating Neurogliaform Cell (3),cACint209_L6_NGC_913febfa36_0_0
-551,NMLCL000630,Layer 6 Continuous Accommodating Neurogliaform Cell (4),cACint209_L6_NGC_a5e20f50a4_0_0
-552,NMLCL000631,Layer 6 Continuous Accommodating Neurogliaform Cell (5),cACint209_L6_NGC_c750503224_0_0
-553,NMLCL000632,Layer 6 Continuous Accommodating Small Basket Cell (1),cACint209_L6_SBC_02fff5e56a_0_0
-554,NMLCL000633,Layer 6 Continuous Accommodating Small Basket Cell (2),cACint209_L6_SBC_1994e395b2_0_0
-555,NMLCL000634,Layer 6 Continuous Accommodating Small Basket Cell (3),cACint209_L6_SBC_48827298f3_0_0
-556,NMLCL000635,Layer 6 Continuous Accommodating Small Basket Cell (4),cACint209_L6_SBC_63156a236c_0_0
-557,NMLCL000636,Layer 6 Continuous Accommodating Small Basket Cell (5),cACint209_L6_SBC_6c406e9f09_0_0
-558,NMLCL000637,Layer 2/3 Continuous Accommodating Pyramidal Cell (1),cADpyr229_L23_PC_5ecbf9b163_0_0
-559,NMLCL000638,Layer 2/3 Continuous Accommodating Pyramidal Cell (2),cADpyr229_L23_PC_863902f300_0_0
-560,NMLCL000639,Layer 2/3 Continuous Accommodating Pyramidal Cell (3),cADpyr229_L23_PC_8ef1aa6602_0_0
-561,NMLCL000640,Layer 2/3 Continuous Accommodating Pyramidal Cell (4),cADpyr229_L23_PC_c292d67a2e_0_0
-562,NMLCL000641,Layer 2/3 Continuous Accommodating Pyramidal Cell (5),cADpyr229_L23_PC_c2e79db05a_0_0
-563,NMLCL000642,Layer 4 Continuous Accommodating Pyramidal Cell (1),cADpyr230_L4_PC_0dbf678e7f_0_0
-564,NMLCL000643,Layer 4 Continuous Accommodating Pyramidal Cell (2),cADpyr230_L4_PC_2d5807a37b_0_0
-565,NMLCL000644,Layer 4 Continuous Accommodating Pyramidal Cell (3),cADpyr230_L4_PC_75e11d6cee_0_0
-566,NMLCL000645,Layer 4 Continuous Accommodating Pyramidal Cell (4),cADpyr230_L4_PC_d3b8beb606_0_0
-567,NMLCL000646,Layer 4 Continuous Accommodating Pyramidal Cell (5),cADpyr230_L4_PC_f15e35e578_0_0
-568,NMLCL000647,Layer 4 Continuous Accommodating Star Pyramidal Cell (1),cADpyr230_L4_SP_0dc3a9acaf_0_0
-569,NMLCL000648,Layer 4 Continuous Accommodating Star Pyramidal Cell (2),cADpyr230_L4_SP_1c98df1fde_0_0
-570,NMLCL000649,Layer 4 Continuous Accommodating Star Pyramidal Cell (3),cADpyr230_L4_SP_274e5a90fb_0_0
-571,NMLCL000650,Layer 4 Continuous Accommodating Star Pyramidal Cell (4),cADpyr230_L4_SP_6fe41ae9cd_0_0
-572,NMLCL000651,Layer 4 Continuous Accommodating Star Pyramidal Cell (5),cADpyr230_L4_SP_c3f779f565_0_0
-573,NMLCL000652,Layer 4 Continuous Accommodating Spiny Stellate Cell (1),cADpyr230_L4_SS_08eefff078_0_0
-574,NMLCL000653,Layer 4 Continuous Accommodating Spiny Stellate Cell (2),cADpyr230_L4_SS_1afeb14f17_0_0
-575,NMLCL000654,Layer 4 Continuous Accommodating Spiny Stellate Cell (3),cADpyr230_L4_SS_9e49de205b_0_0
-576,NMLCL000655,Layer 4 Continuous Accommodating Spiny Stellate Cell (4),cADpyr230_L4_SS_a5ca6392b3_0_0
-577,NMLCL000656,Layer 4 Continuous Accommodating Spiny Stellate Cell (5),cADpyr230_L4_SS_a8ef0f9d97_0_0
-578,NMLCL000657,Layer 6 Continuous Accommodating Pyramidal Cell with bipolar apical-like dendrites (1),cADpyr231_L6_BPC_05f7073f5f_0_0
-579,NMLCL000658,Layer 6 Continuous Accommodating Pyramidal Cell with bipolar apical-like dendrites (2),cADpyr231_L6_BPC_1ed55c8860_0_0
-580,NMLCL000659,Layer 6 Continuous Accommodating Pyramidal Cell with bipolar apical-like dendrites (3),cADpyr231_L6_BPC_2f96fbbd13_0_0
-581,NMLCL000660,Layer 6 Continuous Accommodating Pyramidal Cell with bipolar apical-like dendrites (4),cADpyr231_L6_BPC_3406e7f0b2_0_0
-582,NMLCL000661,Layer 6 Continuous Accommodating Pyramidal Cell with bipolar apical-like dendrites (5),cADpyr231_L6_BPC_4e9a9465d3_0_0
-583,NMLCL000662,Layer 6 Continuous Accommodating Pyramidal Cell with inverted apical-like dendrites (1),cADpyr231_L6_IPC_5ada6448ea_0_0
-584,NMLCL000663,Layer 6 Continuous Accommodating Pyramidal Cell with inverted apical-like dendrites (2),cADpyr231_L6_IPC_80ec904753_0_0
-585,NMLCL000664,Layer 6 Continuous Accommodating Pyramidal Cell with inverted apical-like dendrites (3),cADpyr231_L6_IPC_8d0f3a7d2e_0_0
-586,NMLCL000665,Layer 6 Continuous Accommodating Pyramidal Cell with inverted apical-like dendrites (4),cADpyr231_L6_IPC_c56c0e0779_0_0
-587,NMLCL000666,Layer 6 Continuous Accommodating Pyramidal Cell with inverted apical-like dendrites (5),cADpyr231_L6_IPC_c95b8bde99_0_0
-588,NMLCL000667,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 1 (1),cADpyr231_L6_TPC_L1_1856ba2db5_0_0
-589,NMLCL000668,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 1 (2),cADpyr231_L6_TPC_L1_44f2206f70_0_0
-590,NMLCL000669,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 1 (3),cADpyr231_L6_TPC_L1_68efb03f39_0_0
-591,NMLCL000670,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 1 (4),cADpyr231_L6_TPC_L1_7fc2c927c9_0_0
-592,NMLCL000671,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 1 (5),cADpyr231_L6_TPC_L1_f2d985e7ff_0_0
-593,NMLCL000672,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 4 (1),cADpyr231_L6_TPC_L4_0cb1e9aa6b_0_0
-594,NMLCL000673,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 4 (2),cADpyr231_L6_TPC_L4_117b9dfb71_0_0
-595,NMLCL000674,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 4 (3),cADpyr231_L6_TPC_L4_184fd5677b_0_0
-596,NMLCL000675,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 4 (4),cADpyr231_L6_TPC_L4_3f1b0bd478_0_0
-597,NMLCL000676,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 4 (5),cADpyr231_L6_TPC_L4_91b667d362_0_0
-598,NMLCL000677,Layer 6 Continuous Accommodating Untufted Pyramidal Cell (1),cADpyr231_L6_UTPC_15731e5081_0_0
-599,NMLCL000678,Layer 6 Continuous Accommodating Untufted Pyramidal Cell (2),cADpyr231_L6_UTPC_186e8dd6aa_0_0
-600,NMLCL000679,Layer 6 Continuous Accommodating Untufted Pyramidal Cell (3),cADpyr231_L6_UTPC_295f0e6025_0_0
-601,NMLCL000680,Layer 6 Continuous Accommodating Untufted Pyramidal Cell (4),cADpyr231_L6_UTPC_9d28264fcd_0_0
-602,NMLCL000681,Layer 6 Continuous Accommodating Untufted Pyramidal Cell (5),cADpyr231_L6_UTPC_9f3da79327_0_0
-603,NMLCL000682,Layer 5 Continuous Accommodating Slender-tufted Pyramidal Cell (1),cADpyr232_L5_STPC_4ec7a36770_0_0
-604,NMLCL000683,Layer 5 Continuous Accommodating Slender-tufted Pyramidal Cell (2),cADpyr232_L5_STPC_6d41d50fcb_0_0
-605,NMLCL000684,Layer 5 Continuous Accommodating Slender-tufted Pyramidal Cell (3),cADpyr232_L5_STPC_a78c3cbca8_0_0
-606,NMLCL000685,Layer 5 Continuous Accommodating Slender-tufted Pyramidal Cell (4),cADpyr232_L5_STPC_d16b0be14e_0_0
-607,NMLCL000686,Layer 5 Continuous Accommodating Slender-tufted Pyramidal Cell (5),cADpyr232_L5_STPC_d63221b7a8_0_0
-608,NMLCL000687,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with a late bifurcating apical tuft (1),cADpyr232_L5_TTPC1_0fb1ca4724_0_0
-609,NMLCL000688,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with a late bifurcating apical tuft (2),cADpyr232_L5_TTPC1_b6836fcf6f_0_0
-610,NMLCL000689,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with a late bifurcating apical tuft (3),cADpyr232_L5_TTPC1_da1088139b_0_0
-611,NMLCL000690,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with a late bifurcating apical tuft (4),cADpyr232_L5_TTPC1_ded64abc4d_0_0
-612,NMLCL000691,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with a late bifurcating apical tuft (5),cADpyr232_L5_TTPC1_fc944c2cf3_0_0
-613,NMLCL000692,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with an early bifurcating apical tuft (1),cADpyr232_L5_TTPC2_8052133265_0_0
-614,NMLCL000693,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with an early bifurcating apical tuft (2),cADpyr232_L5_TTPC2_8bab918b58_0_0
-615,NMLCL000694,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with an early bifurcating apical tuft (3),cADpyr232_L5_TTPC2_a28017c6c7_0_0
-616,NMLCL000695,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with an early bifurcating apical tuft (4),cADpyr232_L5_TTPC2_a467781f53_0_0
-617,NMLCL000696,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with an early bifurcating apical tuft (5),cADpyr232_L5_TTPC2_c46a93702c_0_0
-618,NMLCL000697,Layer 5 Continuous Accommodating Untufted Pyramidal Cell (1),cADpyr232_L5_UTPC_34f655e7f8_0_0
-619,NMLCL000698,Layer 5 Continuous Accommodating Untufted Pyramidal Cell (2),cADpyr232_L5_UTPC_5e3840b51e_0_0
-620,NMLCL000699,Layer 5 Continuous Accommodating Untufted Pyramidal Cell (3),cADpyr232_L5_UTPC_79412a7e72_0_0
-621,NMLCL000700,Layer 5 Continuous Accommodating Untufted Pyramidal Cell (4),cADpyr232_L5_UTPC_d736225429_0_0
-622,NMLCL000701,Layer 5 Continuous Accommodating Untufted Pyramidal Cell (5),cADpyr232_L5_UTPC_da1143b075_0_0
-623,NMLCL000702,Layer 1 Continuous Irregular Horizontal Axon Cell (1),cIR216_L1_HAC_5c847ea2ef_0_0
-624,NMLCL000703,Layer 1 Continuous Irregular Horizontal Axon Cell (2),cIR216_L1_HAC_84f0f8f321_0_0
-625,NMLCL000704,Layer 1 Continuous Irregular Horizontal Axon Cell (3),cIR216_L1_HAC_a67a175a7c_0_0
-626,NMLCL000705,Layer 1 Continuous Irregular Horizontal Axon Cell (4),cIR216_L1_HAC_cc210b8244_0_0
-627,NMLCL000706,Layer 1 Continuous Irregular Horizontal Axon Cell (5),cIR216_L1_HAC_edfad4a560_0_0
-628,NMLCL000707,Layer 2/3 Continuous Irregular Nest Basket Cell (1),cIR216_L23_NBC_1f21a64cc1_0_0
-629,NMLCL000708,Layer 2/3 Continuous Irregular Nest Basket Cell (2),cIR216_L23_NBC_2ee5947bbf_0_0
-630,NMLCL000709,Layer 2/3 Continuous Irregular Nest Basket Cell (3),cIR216_L23_NBC_84b7be2a4c_0_0
-631,NMLCL000710,Layer 2/3 Continuous Irregular Nest Basket Cell (4),cIR216_L23_NBC_a489bc1d50_0_0
-632,NMLCL000711,Layer 2/3 Continuous Irregular Nest Basket Cell (5),cIR216_L23_NBC_d359064733_0_0
-633,NMLCL000712,Layer 4 Continuous Irregular Double Bouquet Cell (1),cIR216_L4_DBC_6649d38fd5_0_0
-634,NMLCL000713,Layer 4 Continuous Irregular Double Bouquet Cell (2),cIR216_L4_DBC_8e5844bb23_0_0
-635,NMLCL000714,Layer 4 Continuous Irregular Double Bouquet Cell (3),cIR216_L4_DBC_90f039ca46_0_0
-636,NMLCL000715,Layer 4 Continuous Irregular Double Bouquet Cell (4),cIR216_L4_DBC_972df9520e_0_0
-637,NMLCL000716,Layer 4 Continuous Irregular Double Bouquet Cell (5),cIR216_L4_DBC_e15869b926_0_0
-638,NMLCL000717,Layer 4 Continuous Irregular Nest Basket Cell (1),cIR216_L4_NBC_724d9652d6_0_0
-639,NMLCL000718,Layer 4 Continuous Irregular Nest Basket Cell (2),cIR216_L4_NBC_7eb58fa61e_0_0
-640,NMLCL000719,Layer 4 Continuous Irregular Nest Basket Cell (3),cIR216_L4_NBC_8773d50bcd_0_0
-641,NMLCL000720,Layer 4 Continuous Irregular Nest Basket Cell (4),cIR216_L4_NBC_c28326d13b_0_0
-642,NMLCL000721,Layer 4 Continuous Irregular Nest Basket Cell (5),cIR216_L4_NBC_f53cc303cc_0_0
-643,NMLCL000722,Layer 5 Continuous Irregular Double Bouquet Cell (1),cIR216_L5_DBC_30f853b5ca_0_0
-644,NMLCL000723,Layer 5 Continuous Irregular Double Bouquet Cell (2),cIR216_L5_DBC_44eae19442_0_0
-645,NMLCL000724,Layer 5 Continuous Irregular Double Bouquet Cell (3),cIR216_L5_DBC_5f1980557e_0_0
-646,NMLCL000725,Layer 5 Continuous Irregular Double Bouquet Cell (4),cIR216_L5_DBC_b81a484394_0_0
-647,NMLCL000726,Layer 5 Continuous Irregular Double Bouquet Cell (5),cIR216_L5_DBC_d8e0abdc7c_0_0
-648,NMLCL000727,Layer 5 Continuous Irregular Large Basket Cell (1),cIR216_L5_LBC_34458d6725_0_0
-649,NMLCL000728,Layer 5 Continuous Irregular Large Basket Cell (2),cIR216_L5_LBC_8ce13ea42d_0_0
-650,NMLCL000729,Layer 5 Continuous Irregular Large Basket Cell (3),cIR216_L5_LBC_b2c5f59c1a_0_0
-651,NMLCL000730,Layer 5 Continuous Irregular Large Basket Cell (4),cIR216_L5_LBC_c3984af99c_0_0
-652,NMLCL000731,Layer 5 Continuous Irregular Large Basket Cell (5),cIR216_L5_LBC_c5448109e7_0_0
-653,NMLCL000732,Layer 5 Continuous Irregular Nest Basket Cell (1),cIR216_L5_NBC_12baea0593_0_0
-654,NMLCL000733,Layer 5 Continuous Irregular Nest Basket Cell (2),cIR216_L5_NBC_650c18e6aa_0_0
-655,NMLCL000734,Layer 5 Continuous Irregular Nest Basket Cell (3),cIR216_L5_NBC_a17b13fac2_0_0
-656,NMLCL000735,Layer 5 Continuous Irregular Nest Basket Cell (4),cIR216_L5_NBC_d30015ad95_0_0
-657,NMLCL000736,Layer 5 Continuous Irregular Nest Basket Cell (5),cIR216_L5_NBC_ded84149de_0_0
-658,NMLCL000737,Layer 6 Continuous Irregular Double Bouquet Cell (1),cIR216_L6_DBC_64c3ef1172_0_0
-659,NMLCL000738,Layer 6 Continuous Irregular Double Bouquet Cell (2),cIR216_L6_DBC_65305c1be2_0_0
-660,NMLCL000739,Layer 6 Continuous Irregular Double Bouquet Cell (3),cIR216_L6_DBC_9e6b867e51_0_0
-661,NMLCL000740,Layer 6 Continuous Irregular Double Bouquet Cell (4),cIR216_L6_DBC_be42e7893c_0_0
-662,NMLCL000741,Layer 6 Continuous Irregular Double Bouquet Cell (5),cIR216_L6_DBC_f7446db64e_0_0
-663,NMLCL000742,Layer 6 Continuous Irregular Martinotti Cell (1),cIR216_L6_MC_87e499e11e_0_0
-664,NMLCL000743,Layer 6 Continuous Irregular Martinotti Cell (2),cIR216_L6_MC_8f96a2b924_0_0
-665,NMLCL000744,Layer 6 Continuous Irregular Martinotti Cell (3),cIR216_L6_MC_a405be0ec4_0_0
-666,NMLCL000745,Layer 6 Continuous Irregular Martinotti Cell (4),cIR216_L6_MC_dc1f55aab0_0_0
-667,NMLCL000746,Layer 6 Continuous Irregular Martinotti Cell (5),cIR216_L6_MC_e8d04feaa6_0_0
-668,NMLCL000747,Layer 6 Continuous Irregular Nest Basket Cell (1),cIR216_L6_NBC_0546dde601_0_0
-669,NMLCL000748,Layer 6 Continuous Irregular Nest Basket Cell (2),cIR216_L6_NBC_38e0d4fd81_0_0
-670,NMLCL000749,Layer 6 Continuous Irregular Nest Basket Cell (3),cIR216_L6_NBC_4eea8c6853_0_0
-671,NMLCL000750,Layer 6 Continuous Irregular Nest Basket Cell (4),cIR216_L6_NBC_656e1c0a2d_0_0
-672,NMLCL000751,Layer 6 Continuous Irregular Nest Basket Cell (5),cIR216_L6_NBC_e6f3e8d1f4_0_0
-673,NMLCL000752,Layer 1 Continuous Non-accommodating Descending Axon Cell (1),cNAC187_L1_DAC_1e259ec3b0_0_0
-674,NMLCL000753,Layer 1 Continuous Non-accommodating Descending Axon Cell (2),cNAC187_L1_DAC_2e9c9967f8_0_0
-675,NMLCL000754,Layer 1 Continuous Non-accommodating Descending Axon Cell (3),cNAC187_L1_DAC_81e928d216_0_0
-676,NMLCL000755,Layer 1 Continuous Non-accommodating Descending Axon Cell (4),cNAC187_L1_DAC_8c45268d6a_0_0
-677,NMLCL000756,Layer 1 Continuous Non-accommodating Descending Axon Cell (5),cNAC187_L1_DAC_a4cb1c245c_0_0
-678,NMLCL000757,Layer 1 Continuous Non-accommodating Large Axon Cell (1),cNAC187_L1_DLAC_3a1208130a_0_0
-679,NMLCL000758,Layer 1 Continuous Non-accommodating Large Axon Cell (2),cNAC187_L1_DLAC_4822ddb519_0_0
-680,NMLCL000759,Layer 1 Continuous Non-accommodating Large Axon Cell (3),cNAC187_L1_DLAC_612b4ae64f_0_0
-681,NMLCL000760,Layer 1 Continuous Non-accommodating Large Axon Cell (4),cNAC187_L1_DLAC_d51b8a96ed_0_0
-682,NMLCL000761,Layer 1 Continuous Non-accommodating Large Axon Cell (5),cNAC187_L1_DLAC_d80e9f2875_0_0
-683,NMLCL000762,Layer 1 Continuous Non-accommodating Horizontal Axon Cell (1),cNAC187_L1_HAC_369e749269_0_0
-684,NMLCL000763,Layer 1 Continuous Non-accommodating Horizontal Axon Cell (2),cNAC187_L1_HAC_cc210b8244_0_0
-685,NMLCL000764,Layer 1 Continuous Non-accommodating Horizontal Axon Cell (3),cNAC187_L1_HAC_dfd993e67b_0_0
-686,NMLCL000765,Layer 1 Continuous Non-accommodating Horizontal Axon Cell (4),cNAC187_L1_HAC_f7023f0666_0_0
-687,NMLCL000766,Layer 1 Continuous Non-accommodating Horizontal Axon Cell (5),cNAC187_L1_HAC_f8c9772d9d_0_0
-688,NMLCL000767,Layer 1 Continuous Non-accommodating Neurogliaform Cell with dense axonal arborization (1),cNAC187_L1_NGCDA_35e9de081b_0_0
-689,NMLCL000768,Layer 1 Continuous Non-accommodating Neurogliaform Cell with dense axonal arborization (2),cNAC187_L1_NGCDA_886ddf503d_0_0
-690,NMLCL000769,Layer 1 Continuous Non-accommodating Neurogliaform Cell with dense axonal arborization (3),cNAC187_L1_NGCDA_9c428321ae_0_0
-691,NMLCL000770,Layer 1 Continuous Non-accommodating Neurogliaform Cell with dense axonal arborization (4),cNAC187_L1_NGCDA_c1b837d894_0_0
-692,NMLCL000771,Layer 1 Continuous Non-accommodating Neurogliaform Cell with dense axonal arborization (5),cNAC187_L1_NGCDA_cef6c2b159_0_0
-693,NMLCL000772,Layer 1 Continuous Non-accommodating Neurogliaform Cell with slender axonal arborization (1),cNAC187_L1_NGCSA_51e1d4ecd6_0_0
-694,NMLCL000773,Layer 1 Continuous Non-accommodating Neurogliaform Cell with slender axonal arborization (2),cNAC187_L1_NGCSA_569d800dfe_0_0
-695,NMLCL000774,Layer 1 Continuous Non-accommodating Neurogliaform Cell with slender axonal arborization (3),cNAC187_L1_NGCSA_6fcd70b510_0_0
-696,NMLCL000775,Layer 1 Continuous Non-accommodating Neurogliaform Cell with slender axonal arborization (4),cNAC187_L1_NGCSA_96296dfc3f_0_0
-697,NMLCL000776,Layer 1 Continuous Non-accommodating Neurogliaform Cell with slender axonal arborization (5),cNAC187_L1_NGCSA_eb27dd33ff_0_0
-698,NMLCL000777,Layer 1 Continuous Non-accommodating Small Axon Cell (1),cNAC187_L1_SLAC_16735ed026_0_0
-699,NMLCL000778,Layer 1 Continuous Non-accommodating Small Axon Cell (2),cNAC187_L1_SLAC_1b78a7b294_0_0
-700,NMLCL000779,Layer 1 Continuous Non-accommodating Small Axon Cell (3),cNAC187_L1_SLAC_26e7460577_0_0
-701,NMLCL000780,Layer 1 Continuous Non-accommodating Small Axon Cell (4),cNAC187_L1_SLAC_3759bf3d94_0_0
-702,NMLCL000781,Layer 1 Continuous Non-accommodating Small Axon Cell (5),cNAC187_L1_SLAC_9d4b6f19da_0_0
-703,NMLCL000782,Layer 2/3 Continuous Non-accommodating Bipolar Cell (1),cNAC187_L23_BP_2004171a4c_0_0
-704,NMLCL000783,Layer 2/3 Continuous Non-accommodating Bipolar Cell (2),cNAC187_L23_BP_847bf46ccf_0_0
-705,NMLCL000784,Layer 2/3 Continuous Non-accommodating Bipolar Cell (3),cNAC187_L23_BP_84f37d935d_0_0
-706,NMLCL000785,Layer 2/3 Continuous Non-accommodating Bipolar Cell (4),cNAC187_L23_BP_911ebd8254_0_0
-707,NMLCL000786,Layer 2/3 Continuous Non-accommodating Bipolar Cell (5),cNAC187_L23_BP_a9d486b0d6_0_0
-708,NMLCL000787,Layer 2/3 Continuous Non-accommodating Bitufted Cell (1),cNAC187_L23_BTC_13a502998f_0_0
-709,NMLCL000788,Layer 2/3 Continuous Non-accommodating Bitufted Cell (2),cNAC187_L23_BTC_9902cd4960_0_0
-710,NMLCL000789,Layer 2/3 Continuous Non-accommodating Bitufted Cell (3),cNAC187_L23_BTC_9deeb00a62_0_0
-711,NMLCL000790,Layer 2/3 Continuous Non-accommodating Bitufted Cell (4),cNAC187_L23_BTC_b7a569ac13_0_0
-712,NMLCL000791,Layer 2/3 Continuous Non-accommodating Bitufted Cell (5),cNAC187_L23_BTC_eb8366ca09_0_0
-713,NMLCL000792,Layer 2/3 Continuous Non-accommodating Chandelier Cell (1),cNAC187_L23_ChC_2baab5270e_0_0
-714,NMLCL000793,Layer 2/3 Continuous Non-accommodating Chandelier Cell (2),cNAC187_L23_ChC_6f06a0ce3d_0_0
-715,NMLCL000794,Layer 2/3 Continuous Non-accommodating Chandelier Cell (3),cNAC187_L23_ChC_85582ca6d2_0_0
-716,NMLCL000795,Layer 2/3 Continuous Non-accommodating Chandelier Cell (4),cNAC187_L23_ChC_88b9ee8f5d_0_0
-717,NMLCL000796,Layer 2/3 Continuous Non-accommodating Chandelier Cell (5),cNAC187_L23_ChC_ec689de5f2_0_0
-718,NMLCL000797,Layer 2/3 Continuous Non-accommodating Large Basket Cell (1),cNAC187_L23_LBC_95f37b59ec_0_0
-719,NMLCL000798,Layer 2/3 Continuous Non-accommodating Large Basket Cell (2),cNAC187_L23_LBC_d031f0be22_0_0
-720,NMLCL000799,Layer 2/3 Continuous Non-accommodating Large Basket Cell (3),cNAC187_L23_LBC_d3f79b893e_0_0
-721,NMLCL000800,Layer 2/3 Continuous Non-accommodating Large Basket Cell (4),cNAC187_L23_LBC_df15689e81_0_0
-722,NMLCL000801,Layer 2/3 Continuous Non-accommodating Large Basket Cell (5),cNAC187_L23_LBC_f39fa9100b_0_0
-723,NMLCL000802,Layer 2/3 Continuous Non-accommodating Martinotti Cell (1),cNAC187_L23_MC_2c0a7badf4_0_0
-724,NMLCL000803,Layer 2/3 Continuous Non-accommodating Martinotti Cell (2),cNAC187_L23_MC_3110386c07_0_0
-725,NMLCL000804,Layer 2/3 Continuous Non-accommodating Martinotti Cell (3),cNAC187_L23_MC_44b474bb8f_0_0
-726,NMLCL000805,Layer 2/3 Continuous Non-accommodating Martinotti Cell (4),cNAC187_L23_MC_4a274f4915_0_0
-727,NMLCL000806,Layer 2/3 Continuous Non-accommodating Martinotti Cell (5),cNAC187_L23_MC_940ffcbb27_0_0
-728,NMLCL000807,Layer 2/3 Continuous Non-accommodating Nest Basket Cell (1),cNAC187_L23_NBC_1bb1c095e5_0_0
-729,NMLCL000808,Layer 2/3 Continuous Non-accommodating Nest Basket Cell (2),cNAC187_L23_NBC_7f97b8e83f_0_0
-730,NMLCL000809,Layer 2/3 Continuous Non-accommodating Nest Basket Cell (3),cNAC187_L23_NBC_9004ab9cec_0_0
-731,NMLCL000810,Layer 2/3 Continuous Non-accommodating Nest Basket Cell (4),cNAC187_L23_NBC_98c1faeec7_0_0
-732,NMLCL000811,Layer 2/3 Continuous Non-accommodating Nest Basket Cell (5),cNAC187_L23_NBC_9d37c4b1f8_0_0
-733,NMLCL000812,Layer 2/3 Continuous Non-accommodating Neurogliaform Cell (1),cNAC187_L23_NGC_2477403bcb_0_0
-734,NMLCL000813,Layer 2/3 Continuous Non-accommodating Neurogliaform Cell (2),cNAC187_L23_NGC_3c9a6fcd96_0_0
-735,NMLCL000814,Layer 2/3 Continuous Non-accommodating Neurogliaform Cell (3),cNAC187_L23_NGC_4cc11d30bc_0_0
-736,NMLCL000815,Layer 2/3 Continuous Non-accommodating Neurogliaform Cell (4),cNAC187_L23_NGC_d79ffc246d_0_0
-737,NMLCL000816,Layer 2/3 Continuous Non-accommodating Neurogliaform Cell (5),cNAC187_L23_NGC_e831b433a9_0_0
-738,NMLCL000817,Layer 4 Continuous Non-accommodating Bipolar Cell (1),cNAC187_L4_BP_29d7636cbc_0_0
-739,NMLCL000818,Layer 4 Continuous Non-accommodating Bipolar Cell (2),cNAC187_L4_BP_2a2ec4bfaa_0_0
-740,NMLCL000819,Layer 4 Continuous Non-accommodating Bipolar Cell (3),cNAC187_L4_BP_a436dc77d5_0_0
-741,NMLCL000820,Layer 4 Continuous Non-accommodating Bipolar Cell (4),cNAC187_L4_BP_ad80b53045_0_0
-742,NMLCL000821,Layer 4 Continuous Non-accommodating Bipolar Cell (5),cNAC187_L4_BP_e936f4d8ba_0_0
-743,NMLCL000822,Layer 4 Continuous Non-accommodating Bitufted Cell (1),cNAC187_L4_BTC_32b27576a9_0_0
-744,NMLCL000823,Layer 4 Continuous Non-accommodating Bitufted Cell (2),cNAC187_L4_BTC_5612242ada_0_0
-745,NMLCL000824,Layer 4 Continuous Non-accommodating Bitufted Cell (3),cNAC187_L4_BTC_d58cc3840a_0_0
-746,NMLCL000825,Layer 4 Continuous Non-accommodating Bitufted Cell (4),cNAC187_L4_BTC_dbb05c9cf3_0_0
-747,NMLCL000826,Layer 4 Continuous Non-accommodating Bitufted Cell (5),cNAC187_L4_BTC_ff1cebdea2_0_0
-748,NMLCL000827,Layer 4 Continuous Non-accommodating Chandelier Cell (1),cNAC187_L4_ChC_0f9f727230_0_0
-749,NMLCL000828,Layer 4 Continuous Non-accommodating Chandelier Cell (2),cNAC187_L4_ChC_22d43e8e41_0_0
-750,NMLCL000829,Layer 4 Continuous Non-accommodating Chandelier Cell (3),cNAC187_L4_ChC_38a9a8850a_0_0
-751,NMLCL000830,Layer 4 Continuous Non-accommodating Chandelier Cell (4),cNAC187_L4_ChC_56a32cfcf2_0_0
-752,NMLCL000831,Layer 4 Continuous Non-accommodating Chandelier Cell (5),cNAC187_L4_ChC_fa7ba30f35_0_0
-753,NMLCL000832,Layer 4 Continuous Non-accommodating Double Bouquet Cell (1),cNAC187_L4_DBC_23ffe29c8b_0_0
-754,NMLCL000833,Layer 4 Continuous Non-accommodating Double Bouquet Cell (2),cNAC187_L4_DBC_c6dae7aa61_0_0
-755,NMLCL000834,Layer 4 Continuous Non-accommodating Double Bouquet Cell (3),cNAC187_L4_DBC_cf9508af7b_0_0
-756,NMLCL000835,Layer 4 Continuous Non-accommodating Double Bouquet Cell (4),cNAC187_L4_DBC_d99bd73381_0_0
-757,NMLCL000836,Layer 4 Continuous Non-accommodating Double Bouquet Cell (5),cNAC187_L4_DBC_efeb05a196_0_0
-758,NMLCL000837,Layer 4 Continuous Non-accommodating Large Basket Cell (1),cNAC187_L4_LBC_0226c205f1_0_0
-759,NMLCL000838,Layer 4 Continuous Non-accommodating Large Basket Cell (2),cNAC187_L4_LBC_1cf329956f_0_0
-760,NMLCL000839,Layer 4 Continuous Non-accommodating Large Basket Cell (3),cNAC187_L4_LBC_8e834c24cb_0_0
-761,NMLCL000840,Layer 4 Continuous Non-accommodating Large Basket Cell (4),cNAC187_L4_LBC_990b7ac7df_0_0
-762,NMLCL000841,Layer 4 Continuous Non-accommodating Large Basket Cell (5),cNAC187_L4_LBC_cf3f064b85_0_0
-763,NMLCL000842,Layer 4 Continuous Non-accommodating Martinotti Cell (1),cNAC187_L4_MC_29457dde26_0_0
-764,NMLCL000843,Layer 4 Continuous Non-accommodating Martinotti Cell (2),cNAC187_L4_MC_2eb83e1eed_0_0
-765,NMLCL000844,Layer 4 Continuous Non-accommodating Martinotti Cell (3),cNAC187_L4_MC_3110386c07_0_0
-766,NMLCL000845,Layer 4 Continuous Non-accommodating Martinotti Cell (4),cNAC187_L4_MC_8a4a02932c_0_0
-767,NMLCL000846,Layer 4 Continuous Non-accommodating Martinotti Cell (5),cNAC187_L4_MC_f8c62d11b0_0_0
-768,NMLCL000847,Layer 4 Continuous Non-accommodating Nest Basket Cell (1),cNAC187_L4_NBC_0bf743ff25_0_0
-769,NMLCL000848,Layer 4 Continuous Non-accommodating Nest Basket Cell (2),cNAC187_L4_NBC_327fc63584_0_0
-770,NMLCL000849,Layer 4 Continuous Non-accommodating Nest Basket Cell (3),cNAC187_L4_NBC_36cd91dc08_0_0
-771,NMLCL000850,Layer 4 Continuous Non-accommodating Nest Basket Cell (4),cNAC187_L4_NBC_900ac15b61_0_0
-772,NMLCL000851,Layer 4 Continuous Non-accommodating Nest Basket Cell (5),cNAC187_L4_NBC_bfc793de90_0_0
-773,NMLCL000852,Layer 4 Continuous Non-accommodating Neurogliaform Cell (1),cNAC187_L4_NGC_025b2126a1_0_0
-774,NMLCL000853,Layer 4 Continuous Non-accommodating Neurogliaform Cell (2),cNAC187_L4_NGC_226ca78646_0_0
-775,NMLCL000854,Layer 4 Continuous Non-accommodating Neurogliaform Cell (3),cNAC187_L4_NGC_b606225da8_0_0
-776,NMLCL000855,Layer 4 Continuous Non-accommodating Neurogliaform Cell (4),cNAC187_L4_NGC_cf97ea357c_0_0
-777,NMLCL000856,Layer 4 Continuous Non-accommodating Neurogliaform Cell (5),cNAC187_L4_NGC_d376f2b459_0_0
-778,NMLCL000857,Layer 5 Continuous Non-accommodating Bipolar Cell (1),cNAC187_L5_BP_3085e9694e_0_0
-779,NMLCL000858,Layer 5 Continuous Non-accommodating Bipolar Cell (2),cNAC187_L5_BP_491c00476b_0_0
-780,NMLCL000859,Layer 5 Continuous Non-accommodating Bipolar Cell (3),cNAC187_L5_BP_94e814803e_0_0
-781,NMLCL000860,Layer 5 Continuous Non-accommodating Bipolar Cell (4),cNAC187_L5_BP_bf9275d56a_0_0
-782,NMLCL000861,Layer 5 Continuous Non-accommodating Bipolar Cell (5),cNAC187_L5_BP_d97748152f_0_0
-783,NMLCL000862,Layer 5 Continuous Non-accommodating Bitufted Cell (1),cNAC187_L5_BTC_0a43e2f3e5_0_0
-784,NMLCL000863,Layer 5 Continuous Non-accommodating Bitufted Cell (2),cNAC187_L5_BTC_18584bfae6_0_0
-785,NMLCL000864,Layer 5 Continuous Non-accommodating Bitufted Cell (3),cNAC187_L5_BTC_87f7404d17_0_0
-786,NMLCL000865,Layer 5 Continuous Non-accommodating Bitufted Cell (4),cNAC187_L5_BTC_a47bfc03bb_0_0
-787,NMLCL000866,Layer 5 Continuous Non-accommodating Bitufted Cell (5),cNAC187_L5_BTC_af3d0dad8e_0_0
-788,NMLCL000867,Layer 5 Continuous Non-accommodating Chandelier Cell (1),cNAC187_L5_ChC_6c89541c26_0_0
-789,NMLCL000868,Layer 5 Continuous Non-accommodating Chandelier Cell (2),cNAC187_L5_ChC_7c8be3c828_0_0
-790,NMLCL000869,Layer 5 Continuous Non-accommodating Chandelier Cell (3),cNAC187_L5_ChC_8901e742c7_0_0
-791,NMLCL000870,Layer 5 Continuous Non-accommodating Chandelier Cell (4),cNAC187_L5_ChC_b51988187a_0_0
-792,NMLCL000871,Layer 5 Continuous Non-accommodating Chandelier Cell (5),cNAC187_L5_ChC_dfe3a6b301_0_0
-793,NMLCL000872,Layer 5 Continuous Non-accommodating Double Bouquet Cell (1),cNAC187_L5_DBC_893b78d08e_0_0
-794,NMLCL000873,Layer 5 Continuous Non-accommodating Double Bouquet Cell (2),cNAC187_L5_DBC_8be7b81168_0_0
-795,NMLCL000874,Layer 5 Continuous Non-accommodating Double Bouquet Cell (3),cNAC187_L5_DBC_ad487d347d_0_0
-796,NMLCL000875,Layer 5 Continuous Non-accommodating Double Bouquet Cell (4),cNAC187_L5_DBC_d8e0abdc7c_0_0
-797,NMLCL000876,Layer 5 Continuous Non-accommodating Double Bouquet Cell (5),cNAC187_L5_DBC_d900bc4e97_0_0
-798,NMLCL000877,Layer 5 Continuous Non-accommodating Large Basket Cell (1),cNAC187_L5_LBC_078d827ab9_0_0
-799,NMLCL000878,Layer 5 Continuous Non-accommodating Large Basket Cell (2),cNAC187_L5_LBC_1e4112fe69_0_0
-800,NMLCL000879,Layer 5 Continuous Non-accommodating Large Basket Cell (3),cNAC187_L5_LBC_b883da43ff_0_0
-801,NMLCL000880,Layer 5 Continuous Non-accommodating Large Basket Cell (4),cNAC187_L5_LBC_d19674cc92_0_0
-802,NMLCL000881,Layer 5 Continuous Non-accommodating Large Basket Cell (5),cNAC187_L5_LBC_ebed230edd_0_0
-803,NMLCL000882,Layer 5 Continuous Non-accommodating Martinotti Cell (1),cNAC187_L5_MC_42542e071a_0_0
-804,NMLCL000883,Layer 5 Continuous Non-accommodating Martinotti Cell (2),cNAC187_L5_MC_575d31ccfd_0_0
-805,NMLCL000884,Layer 5 Continuous Non-accommodating Martinotti Cell (3),cNAC187_L5_MC_8a4a02932c_0_0
-806,NMLCL000885,Layer 5 Continuous Non-accommodating Martinotti Cell (4),cNAC187_L5_MC_9935c06ba6_0_0
-807,NMLCL000886,Layer 5 Continuous Non-accommodating Martinotti Cell (5),cNAC187_L5_MC_bf2b2fbcbf_0_0
-808,NMLCL000887,Layer 5 Continuous Non-accommodating Nest Basket Cell (1),cNAC187_L5_NBC_2444ed2bac_0_0
-809,NMLCL000888,Layer 5 Continuous Non-accommodating Nest Basket Cell (2),cNAC187_L5_NBC_8d74f99eef_0_0
-810,NMLCL000889,Layer 5 Continuous Non-accommodating Nest Basket Cell (3),cNAC187_L5_NBC_a91e150b71_0_0
-811,NMLCL000890,Layer 5 Continuous Non-accommodating Nest Basket Cell (4),cNAC187_L5_NBC_d4cc42ae25_0_0
-812,NMLCL000891,Layer 5 Continuous Non-accommodating Nest Basket Cell (5),cNAC187_L5_NBC_ded84149de_0_0
-813,NMLCL000892,Layer 5 Continuous Non-accommodating Neurogliaform Cell (1),cNAC187_L5_NGC_73e8f0de9d_0_0
-814,NMLCL000893,Layer 5 Continuous Non-accommodating Neurogliaform Cell (2),cNAC187_L5_NGC_86e570892b_0_0
-815,NMLCL000894,Layer 5 Continuous Non-accommodating Neurogliaform Cell (3),cNAC187_L5_NGC_a85710f771_0_0
-816,NMLCL000895,Layer 5 Continuous Non-accommodating Neurogliaform Cell (4),cNAC187_L5_NGC_e39fbbf8e7_0_0
-817,NMLCL000896,Layer 5 Continuous Non-accommodating Neurogliaform Cell (5),cNAC187_L5_NGC_ea12cd3d1a_0_0
-818,NMLCL000897,Layer 6 Continuous Non-accommodating Bipolar Cell (1),cNAC187_L6_BP_368ba2d07d_0_0
-819,NMLCL000898,Layer 6 Continuous Non-accommodating Bipolar Cell (2),cNAC187_L6_BP_41b33b48e3_0_0
-820,NMLCL000899,Layer 6 Continuous Non-accommodating Bipolar Cell (3),cNAC187_L6_BP_46b0f41def_0_0
-821,NMLCL000900,Layer 6 Continuous Non-accommodating Bipolar Cell (4),cNAC187_L6_BP_b022a66bd2_0_0
-822,NMLCL000901,Layer 6 Continuous Non-accommodating Bipolar Cell (5),cNAC187_L6_BP_e2f954f49d_0_0
-823,NMLCL000902,Layer 6 Continuous Non-accommodating Bitufted Cell (1),cNAC187_L6_BTC_459ef88946_0_0
-824,NMLCL000903,Layer 6 Continuous Non-accommodating Bitufted Cell (2),cNAC187_L6_BTC_6b85c850ab_0_0
-825,NMLCL000904,Layer 6 Continuous Non-accommodating Bitufted Cell (3),cNAC187_L6_BTC_844c3bba88_0_0
-826,NMLCL000905,Layer 6 Continuous Non-accommodating Bitufted Cell (4),cNAC187_L6_BTC_bc69dce0ae_0_0
-827,NMLCL000906,Layer 6 Continuous Non-accommodating Bitufted Cell (5),cNAC187_L6_BTC_c021ea90e3_0_0
-828,NMLCL000907,Layer 6 Continuous Non-accommodating Chandelier Cell (1),cNAC187_L6_ChC_44806c5355_0_0
-829,NMLCL000908,Layer 6 Continuous Non-accommodating Chandelier Cell (2),cNAC187_L6_ChC_9b41babcdb_0_0
-830,NMLCL000909,Layer 6 Continuous Non-accommodating Chandelier Cell (3),cNAC187_L6_ChC_a3c657441e_0_0
-831,NMLCL000910,Layer 6 Continuous Non-accommodating Chandelier Cell (4),cNAC187_L6_ChC_b51988187a_0_0
-832,NMLCL000911,Layer 6 Continuous Non-accommodating Chandelier Cell (5),cNAC187_L6_ChC_d1b33e54c2_0_0
-833,NMLCL000912,Layer 6 Continuous Non-accommodating Double Bouquet Cell (1),cNAC187_L6_DBC_166d3f579a_0_0
-834,NMLCL000913,Layer 6 Continuous Non-accommodating Double Bouquet Cell (2),cNAC187_L6_DBC_2bb1f65738_0_0
-835,NMLCL000914,Layer 6 Continuous Non-accommodating Double Bouquet Cell (3),cNAC187_L6_DBC_3fe85d9b5d_0_0
-836,NMLCL000915,Layer 6 Continuous Non-accommodating Double Bouquet Cell (4),cNAC187_L6_DBC_8be7b81168_0_0
-837,NMLCL000916,Layer 6 Continuous Non-accommodating Double Bouquet Cell (5),cNAC187_L6_DBC_d59edbb45e_0_0
-838,NMLCL000917,Layer 6 Continuous Non-accommodating Large Basket Cell (1),cNAC187_L6_LBC_41f715f2d0_0_0
-839,NMLCL000918,Layer 6 Continuous Non-accommodating Large Basket Cell (2),cNAC187_L6_LBC_7fd94465af_0_0
-840,NMLCL000919,Layer 6 Continuous Non-accommodating Large Basket Cell (3),cNAC187_L6_LBC_9ab2498c23_0_0
-841,NMLCL000920,Layer 6 Continuous Non-accommodating Large Basket Cell (4),cNAC187_L6_LBC_ae0d738c6e_0_0
-842,NMLCL000921,Layer 6 Continuous Non-accommodating Large Basket Cell (5),cNAC187_L6_LBC_f9ea5d0925_0_0
-843,NMLCL000922,Layer 6 Continuous Non-accommodating Martinotti Cell (1),cNAC187_L6_MC_5597e4d536_0_0
-844,NMLCL000923,Layer 6 Continuous Non-accommodating Martinotti Cell (2),cNAC187_L6_MC_6c575906a7_0_0
-845,NMLCL000924,Layer 6 Continuous Non-accommodating Martinotti Cell (3),cNAC187_L6_MC_8f46a0ad62_0_0
-846,NMLCL000925,Layer 6 Continuous Non-accommodating Martinotti Cell (4),cNAC187_L6_MC_d379cda689_0_0
-847,NMLCL000926,Layer 6 Continuous Non-accommodating Martinotti Cell (5),cNAC187_L6_MC_df869132b9_0_0
-848,NMLCL000927,Layer 6 Continuous Non-accommodating Nest Basket Cell (1),cNAC187_L6_NBC_4225ab5b52_0_0
-849,NMLCL000928,Layer 6 Continuous Non-accommodating Nest Basket Cell (2),cNAC187_L6_NBC_777b9bec91_0_0
-850,NMLCL000929,Layer 6 Continuous Non-accommodating Nest Basket Cell (3),cNAC187_L6_NBC_81f6eae6fc_0_0
-851,NMLCL000930,Layer 6 Continuous Non-accommodating Nest Basket Cell (4),cNAC187_L6_NBC_96f68bef66_0_0
-852,NMLCL000931,Layer 6 Continuous Non-accommodating Nest Basket Cell (5),cNAC187_L6_NBC_c0fd8f67e2_0_0
-853,NMLCL000932,Layer 6 Continuous Non-accommodating Neurogliaform Cell (1),cNAC187_L6_NGC_43bfe487c7_0_0
-854,NMLCL000933,Layer 6 Continuous Non-accommodating Neurogliaform Cell (2),cNAC187_L6_NGC_4eb0813b69_0_0
-855,NMLCL000934,Layer 6 Continuous Non-accommodating Neurogliaform Cell (3),cNAC187_L6_NGC_aa5e388292_0_0
-856,NMLCL000935,Layer 6 Continuous Non-accommodating Neurogliaform Cell (4),cNAC187_L6_NGC_b77f2e2b21_0_0
-857,NMLCL000936,Layer 6 Continuous Non-accommodating Neurogliaform Cell (5),cNAC187_L6_NGC_f566e0b2a9_0_0
-858,NMLCL000937,Layer 1 Continuous Stuttering Neurogliaform Cell with dense axonal arborization (1),cSTUT189_L1_NGCDA_0112c85cf0_0_0
-859,NMLCL000938,Layer 1 Continuous Stuttering Neurogliaform Cell with dense axonal arborization (2),cSTUT189_L1_NGCDA_3d9c976fde_0_0
-860,NMLCL000939,Layer 1 Continuous Stuttering Neurogliaform Cell with dense axonal arborization (3),cSTUT189_L1_NGCDA_810ad6a571_0_0
-861,NMLCL000940,Layer 1 Continuous Stuttering Neurogliaform Cell with dense axonal arborization (4),cSTUT189_L1_NGCDA_daa2d6b6a9_0_0
-862,NMLCL000941,Layer 1 Continuous Stuttering Neurogliaform Cell with dense axonal arborization (5),cSTUT189_L1_NGCDA_e1a52c74bf_0_0
-863,NMLCL000942,Layer 2/3 Continuous Stuttering Large Basket Cell (1),cSTUT189_L23_LBC_1fb6d0ce77_0_0
-864,NMLCL000943,Layer 2/3 Continuous Stuttering Large Basket Cell (2),cSTUT189_L23_LBC_222e20da8f_0_0
-865,NMLCL000944,Layer 2/3 Continuous Stuttering Large Basket Cell (3),cSTUT189_L23_LBC_91044b50b3_0_0
-866,NMLCL000945,Layer 2/3 Continuous Stuttering Large Basket Cell (4),cSTUT189_L23_LBC_d2eb341534_0_0
-867,NMLCL000946,Layer 2/3 Continuous Stuttering Large Basket Cell (5),cSTUT189_L23_LBC_e6e8f83407_0_0
-868,NMLCL000947,Layer 2/3 Continuous Stuttering Neurogliaform Cell (1),cSTUT189_L23_NGC_157802f324_0_0
-869,NMLCL000948,Layer 2/3 Continuous Stuttering Neurogliaform Cell (2),cSTUT189_L23_NGC_4cc11d30bc_0_0
-870,NMLCL000949,Layer 2/3 Continuous Stuttering Neurogliaform Cell (3),cSTUT189_L23_NGC_565b9e8b55_0_0
-871,NMLCL000950,Layer 2/3 Continuous Stuttering Neurogliaform Cell (4),cSTUT189_L23_NGC_b606225da8_0_0
-872,NMLCL000951,Layer 2/3 Continuous Stuttering Neurogliaform Cell (5),cSTUT189_L23_NGC_efe076107a_0_0
-873,NMLCL000952,Layer 4 Continuous Stuttering Large Basket Cell (1),cSTUT189_L4_LBC_11016afdad_0_0
-874,NMLCL000953,Layer 4 Continuous Stuttering Large Basket Cell (2),cSTUT189_L4_LBC_1d4118b33e_0_0
-875,NMLCL000954,Layer 4 Continuous Stuttering Large Basket Cell (3),cSTUT189_L4_LBC_28153c03c4_0_0
-876,NMLCL000955,Layer 4 Continuous Stuttering Large Basket Cell (4),cSTUT189_L4_LBC_2a3578f975_0_0
-877,NMLCL000956,Layer 4 Continuous Stuttering Large Basket Cell (5),cSTUT189_L4_LBC_fe3c0498a4_0_0
-878,NMLCL000957,Layer 4 Continuous Stuttering Neurogliaform Cell (1),cSTUT189_L4_NGC_1b7f7c63b1_0_0
-879,NMLCL000958,Layer 4 Continuous Stuttering Neurogliaform Cell (2),cSTUT189_L4_NGC_1c20d72451_0_0
-880,NMLCL000959,Layer 4 Continuous Stuttering Neurogliaform Cell (3),cSTUT189_L4_NGC_40d6a8f682_0_0
-881,NMLCL000960,Layer 4 Continuous Stuttering Neurogliaform Cell (4),cSTUT189_L4_NGC_5ab1c21d20_0_0
-882,NMLCL000961,Layer 4 Continuous Stuttering Neurogliaform Cell (5),cSTUT189_L4_NGC_ec67e9ba9b_0_0
-883,NMLCL000962,Layer 5 Continuous Stuttering Large Basket Cell (1),cSTUT189_L5_LBC_0ffcc91920_0_0
-884,NMLCL000963,Layer 5 Continuous Stuttering Large Basket Cell (2),cSTUT189_L5_LBC_29803173bd_0_0
-885,NMLCL000964,Layer 5 Continuous Stuttering Large Basket Cell (3),cSTUT189_L5_LBC_640a1cef1d_0_0
-886,NMLCL000965,Layer 5 Continuous Stuttering Large Basket Cell (4),cSTUT189_L5_LBC_6f185d799a_0_0
-887,NMLCL000966,Layer 5 Continuous Stuttering Large Basket Cell (5),cSTUT189_L5_LBC_7e5297a36c_0_0
-888,NMLCL000967,Layer 5 Continuous Stuttering Martinotti Cell (1),cSTUT189_L5_MC_42542e071a_0_0
-889,NMLCL000968,Layer 5 Continuous Stuttering Martinotti Cell (2),cSTUT189_L5_MC_575d31ccfd_0_0
-890,NMLCL000969,Layer 5 Continuous Stuttering Martinotti Cell (3),cSTUT189_L5_MC_8a4a02932c_0_0
-891,NMLCL000970,Layer 5 Continuous Stuttering Martinotti Cell (4),cSTUT189_L5_MC_bf2b2fbcbf_0_0
-892,NMLCL000971,Layer 5 Continuous Stuttering Martinotti Cell (5),cSTUT189_L5_MC_cc2a170ef6_0_0
-893,NMLCL000972,Layer 5 Continuous Stuttering Nest Basket Cell (1),cSTUT189_L5_NBC_031c89778f_0_0
-894,NMLCL000973,Layer 5 Continuous Stuttering Nest Basket Cell (2),cSTUT189_L5_NBC_4126235f8b_0_0
-895,NMLCL000974,Layer 5 Continuous Stuttering Nest Basket Cell (3),cSTUT189_L5_NBC_42f781cf08_0_0
-896,NMLCL000975,Layer 5 Continuous Stuttering Nest Basket Cell (4),cSTUT189_L5_NBC_adc0ce53be_0_0
-897,NMLCL000976,Layer 5 Continuous Stuttering Nest Basket Cell (5),cSTUT189_L5_NBC_cb87ec754a_0_0
-898,NMLCL000977,Layer 5 Continuous Stuttering Neurogliaform Cell (1),cSTUT189_L5_NGC_95430123f5_0_0
-899,NMLCL000978,Layer 5 Continuous Stuttering Neurogliaform Cell (2),cSTUT189_L5_NGC_d5718b222e_0_0
-900,NMLCL000979,Layer 5 Continuous Stuttering Neurogliaform Cell (3),cSTUT189_L5_NGC_d83e8a122b_0_0
-901,NMLCL000980,Layer 5 Continuous Stuttering Neurogliaform Cell (4),cSTUT189_L5_NGC_de4f4a2b62_0_0
-902,NMLCL000981,Layer 5 Continuous Stuttering Neurogliaform Cell (5),cSTUT189_L5_NGC_ed87bd926f_0_0
-903,NMLCL000982,Layer 6 Continuous Stuttering Large Basket Cell (1),cSTUT189_L6_LBC_040eb0bc59_0_0
-904,NMLCL000983,Layer 6 Continuous Stuttering Large Basket Cell (2),cSTUT189_L6_LBC_0f06cad592_0_0
-905,NMLCL000984,Layer 6 Continuous Stuttering Large Basket Cell (3),cSTUT189_L6_LBC_1f1d59d3f5_0_0
-906,NMLCL000985,Layer 6 Continuous Stuttering Large Basket Cell (4),cSTUT189_L6_LBC_530a402f3f_0_0
-907,NMLCL000986,Layer 6 Continuous Stuttering Large Basket Cell (5),cSTUT189_L6_LBC_6e6465f06a_0_0
-908,NMLCL000987,Layer 6 Continuous Stuttering Nest Basket Cell (1),cSTUT189_L6_NBC_23c8220f56_0_0
-909,NMLCL000988,Layer 6 Continuous Stuttering Nest Basket Cell (2),cSTUT189_L6_NBC_55825b9e30_0_0
-910,NMLCL000989,Layer 6 Continuous Stuttering Nest Basket Cell (3),cSTUT189_L6_NBC_63dc8fdbb5_0_0
-911,NMLCL000990,Layer 6 Continuous Stuttering Nest Basket Cell (4),cSTUT189_L6_NBC_b88c4c3f75_0_0
-912,NMLCL000991,Layer 6 Continuous Stuttering Nest Basket Cell (5),cSTUT189_L6_NBC_df448fd9b1_0_0
-913,NMLCL000992,Layer 6 Continuous Stuttering Neurogliaform Cell (1),cSTUT189_L6_NGC_4cb459d73b_0_0
-914,NMLCL000993,Layer 6 Continuous Stuttering Neurogliaform Cell (2),cSTUT189_L6_NGC_8e98a9c78c_0_0
-915,NMLCL000994,Layer 6 Continuous Stuttering Neurogliaform Cell (3),cSTUT189_L6_NGC_a138b95b10_0_0
-916,NMLCL000995,Layer 6 Continuous Stuttering Neurogliaform Cell (4),cSTUT189_L6_NGC_d2971f01cf_0_0
-917,NMLCL000996,Layer 6 Continuous Stuttering Neurogliaform Cell (5),cSTUT189_L6_NGC_ed011e4f05_0_0
-918,NMLCL000997,Layer 2/3 Delayed Non-accommodating Chandelier Cell (1),dNAC222_L23_ChC_2a16475c82_0_0
-919,NMLCL000998,Layer 2/3 Delayed Non-accommodating Chandelier Cell (2),dNAC222_L23_ChC_4587365020_0_0
-920,NMLCL000999,Layer 2/3 Delayed Non-accommodating Chandelier Cell (3),dNAC222_L23_ChC_97f4d271eb_0_0
-921,NMLCL001000,Layer 2/3 Delayed Non-accommodating Chandelier Cell (4),dNAC222_L23_ChC_9b0e709c9c_0_0
-922,NMLCL001001,Layer 2/3 Delayed Non-accommodating Chandelier Cell (5),dNAC222_L23_ChC_cfcfe12e37_0_0
-923,NMLCL001002,Layer 2/3 Delayed Non-accommodating Large Basket Cell (1),dNAC222_L23_LBC_19cea46eb3_0_0
-924,NMLCL001003,Layer 2/3 Delayed Non-accommodating Large Basket Cell (2),dNAC222_L23_LBC_1b6313448d_0_0
-925,NMLCL001004,Layer 2/3 Delayed Non-accommodating Large Basket Cell (3),dNAC222_L23_LBC_3872d55b42_0_0
-926,NMLCL001005,Layer 2/3 Delayed Non-accommodating Large Basket Cell (4),dNAC222_L23_LBC_936c35a9e1_0_0
-927,NMLCL001006,Layer 2/3 Delayed Non-accommodating Large Basket Cell (5),dNAC222_L23_LBC_df15689e81_0_0
-928,NMLCL001007,Layer 2/3 Delayed Non-accommodating Martinotti Cell (1),dNAC222_L23_MC_1490f15199_0_0
-929,NMLCL001008,Layer 2/3 Delayed Non-accommodating Martinotti Cell (2),dNAC222_L23_MC_31f333a601_0_0
-930,NMLCL001009,Layer 2/3 Delayed Non-accommodating Martinotti Cell (3),dNAC222_L23_MC_55e4a7c88f_0_0
-931,NMLCL001010,Layer 2/3 Delayed Non-accommodating Martinotti Cell (4),dNAC222_L23_MC_940ffcbb27_0_0
-932,NMLCL001011,Layer 2/3 Delayed Non-accommodating Martinotti Cell (5),dNAC222_L23_MC_b7a2c9d0ae_0_0
-933,NMLCL001012,Layer 2/3 Delayed Non-accommodating Nest Basket Cell (1),dNAC222_L23_NBC_2f216c0d74_0_0
-934,NMLCL001013,Layer 2/3 Delayed Non-accommodating Nest Basket Cell (2),dNAC222_L23_NBC_46256e0cca_0_0
-935,NMLCL001014,Layer 2/3 Delayed Non-accommodating Nest Basket Cell (3),dNAC222_L23_NBC_df01e73cd3_0_0
-936,NMLCL001015,Layer 2/3 Delayed Non-accommodating Nest Basket Cell (4),dNAC222_L23_NBC_ec4aba2351_0_0
-937,NMLCL001016,Layer 2/3 Delayed Non-accommodating Nest Basket Cell (5),dNAC222_L23_NBC_ed12f3afab_0_0
-938,NMLCL001017,Layer 2/3 Delayed Non-accommodating Small Basket Cell (1),dNAC222_L23_SBC_0c85d8e325_0_0
-939,NMLCL001018,Layer 2/3 Delayed Non-accommodating Small Basket Cell (2),dNAC222_L23_SBC_48c120ddd5_0_0
-940,NMLCL001019,Layer 2/3 Delayed Non-accommodating Small Basket Cell (3),dNAC222_L23_SBC_7b122f5ac9_0_0
-941,NMLCL001020,Layer 2/3 Delayed Non-accommodating Small Basket Cell (4),dNAC222_L23_SBC_cf92e1b802_0_0
-942,NMLCL001021,Layer 2/3 Delayed Non-accommodating Small Basket Cell (5),dNAC222_L23_SBC_ef99b8a177_0_0
-943,NMLCL001022,Layer 4 Delayed Non-accommodating Bitufted Cell (1),dNAC222_L4_BTC_2d64e36d0b_0_0
-944,NMLCL001023,Layer 4 Delayed Non-accommodating Bitufted Cell (2),dNAC222_L4_BTC_5612242ada_0_0
-945,NMLCL001024,Layer 4 Delayed Non-accommodating Bitufted Cell (3),dNAC222_L4_BTC_627d6addbc_0_0
-946,NMLCL001025,Layer 4 Delayed Non-accommodating Bitufted Cell (4),dNAC222_L4_BTC_7345a3c5cd_0_0
-947,NMLCL001026,Layer 4 Delayed Non-accommodating Bitufted Cell (5),dNAC222_L4_BTC_e8dd2ca96e_0_0
-948,NMLCL001027,Layer 4 Delayed Non-accommodating Chandelier Cell (1),dNAC222_L4_ChC_5e109d198d_0_0
-949,NMLCL001028,Layer 4 Delayed Non-accommodating Chandelier Cell (2),dNAC222_L4_ChC_7a1b7e3c70_0_0
-950,NMLCL001029,Layer 4 Delayed Non-accommodating Chandelier Cell (3),dNAC222_L4_ChC_9060a4c27e_0_0
-951,NMLCL001030,Layer 4 Delayed Non-accommodating Chandelier Cell (4),dNAC222_L4_ChC_9b41babcdb_0_0
-952,NMLCL001031,Layer 4 Delayed Non-accommodating Chandelier Cell (5),dNAC222_L4_ChC_a3c657441e_0_0
-953,NMLCL001032,Layer 4 Delayed Non-accommodating Large Basket Cell (1),dNAC222_L4_LBC_3530c2c05e_0_0
-954,NMLCL001033,Layer 4 Delayed Non-accommodating Large Basket Cell (2),dNAC222_L4_LBC_992411393b_0_0
-955,NMLCL001034,Layer 4 Delayed Non-accommodating Large Basket Cell (3),dNAC222_L4_LBC_a6205ed0df_0_0
-956,NMLCL001035,Layer 4 Delayed Non-accommodating Large Basket Cell (4),dNAC222_L4_LBC_f0975c96e7_0_0
-957,NMLCL001036,Layer 4 Delayed Non-accommodating Large Basket Cell (5),dNAC222_L4_LBC_f6a71a338d_0_0
-958,NMLCL001037,Layer 4 Delayed Non-accommodating Martinotti Cell (1),dNAC222_L4_MC_29457dde26_0_0
-959,NMLCL001038,Layer 4 Delayed Non-accommodating Martinotti Cell (2),dNAC222_L4_MC_2eb83e1eed_0_0
-960,NMLCL001039,Layer 4 Delayed Non-accommodating Martinotti Cell (3),dNAC222_L4_MC_3110386c07_0_0
-961,NMLCL001040,Layer 4 Delayed Non-accommodating Martinotti Cell (4),dNAC222_L4_MC_8a4a02932c_0_0
-962,NMLCL001041,Layer 4 Delayed Non-accommodating Martinotti Cell (5),dNAC222_L4_MC_f8c62d11b0_0_0
-963,NMLCL001042,Layer 4 Delayed Non-accommodating Nest Basket Cell (1),dNAC222_L4_NBC_0dd32b6386_0_0
-964,NMLCL001043,Layer 4 Delayed Non-accommodating Nest Basket Cell (2),dNAC222_L4_NBC_4cad2587d3_0_0
-965,NMLCL001044,Layer 4 Delayed Non-accommodating Nest Basket Cell (3),dNAC222_L4_NBC_695ce74c39_0_0
-966,NMLCL001045,Layer 4 Delayed Non-accommodating Nest Basket Cell (4),dNAC222_L4_NBC_aa36da75a3_0_0
-967,NMLCL001046,Layer 4 Delayed Non-accommodating Nest Basket Cell (5),dNAC222_L4_NBC_c61eec6aeb_0_0
-968,NMLCL001047,Layer 4 Delayed Non-accommodating Small Basket Cell (1),dNAC222_L4_SBC_1bad5bb92b_0_0
-969,NMLCL001048,Layer 4 Delayed Non-accommodating Small Basket Cell (2),dNAC222_L4_SBC_799e027057_0_0
-970,NMLCL001049,Layer 4 Delayed Non-accommodating Small Basket Cell (3),dNAC222_L4_SBC_9995bf5c97_0_0
-971,NMLCL001050,Layer 4 Delayed Non-accommodating Small Basket Cell (4),dNAC222_L4_SBC_dcee829578_0_0
-972,NMLCL001051,Layer 4 Delayed Non-accommodating Small Basket Cell (5),dNAC222_L4_SBC_f48f4f7670_0_0
-973,NMLCL001052,Layer 5 Delayed Non-accommodating Chandelier Cell (1),dNAC222_L5_ChC_03143d1e9b_0_0
-974,NMLCL001053,Layer 5 Delayed Non-accommodating Chandelier Cell (2),dNAC222_L5_ChC_13b6218d56_0_0
-975,NMLCL001054,Layer 5 Delayed Non-accommodating Chandelier Cell (3),dNAC222_L5_ChC_2f130a9db3_0_0
-976,NMLCL001055,Layer 5 Delayed Non-accommodating Chandelier Cell (4),dNAC222_L5_ChC_6493f67bad_0_0
-977,NMLCL001056,Layer 5 Delayed Non-accommodating Chandelier Cell (5),dNAC222_L5_ChC_75c658c9b8_0_0
-978,NMLCL001057,Layer 5 Delayed Non-accommodating Large Basket Cell (1),dNAC222_L5_LBC_0ffcc91920_0_0
-979,NMLCL001058,Layer 5 Delayed Non-accommodating Large Basket Cell (2),dNAC222_L5_LBC_58bb1b2407_0_0
-980,NMLCL001059,Layer 5 Delayed Non-accommodating Large Basket Cell (3),dNAC222_L5_LBC_93c04dc3d5_0_0
-981,NMLCL001060,Layer 5 Delayed Non-accommodating Large Basket Cell (4),dNAC222_L5_LBC_99ab75ea98_0_0
-982,NMLCL001061,Layer 5 Delayed Non-accommodating Large Basket Cell (5),dNAC222_L5_LBC_f906bb679c_0_0
-983,NMLCL001062,Layer 5 Delayed Non-accommodating Martinotti Cell (1),dNAC222_L5_MC_7eeb7cff0f_0_0
-984,NMLCL001063,Layer 5 Delayed Non-accommodating Martinotti Cell (2),dNAC222_L5_MC_8a4a02932c_0_0
-985,NMLCL001064,Layer 5 Delayed Non-accommodating Martinotti Cell (3),dNAC222_L5_MC_9935c06ba6_0_0
-986,NMLCL001065,Layer 5 Delayed Non-accommodating Martinotti Cell (4),dNAC222_L5_MC_bf2b2fbcbf_0_0
-987,NMLCL001066,Layer 5 Delayed Non-accommodating Martinotti Cell (5),dNAC222_L5_MC_c135727743_0_0
-988,NMLCL001067,Layer 5 Delayed Non-accommodating Small Basket Cell (1),dNAC222_L5_SBC_365080b27f_0_0
-989,NMLCL001068,Layer 5 Delayed Non-accommodating Small Basket Cell (2),dNAC222_L5_SBC_513d1f1596_0_0
-990,NMLCL001069,Layer 5 Delayed Non-accommodating Small Basket Cell (3),dNAC222_L5_SBC_64157b3c40_0_0
-991,NMLCL001070,Layer 5 Delayed Non-accommodating Small Basket Cell (4),dNAC222_L5_SBC_655c77b594_0_0
-992,NMLCL001071,Layer 5 Delayed Non-accommodating Small Basket Cell (5),dNAC222_L5_SBC_e37bc9bae0_0_0
-993,NMLCL001072,Layer 6 Delayed Non-accommodating Chandelier Cell (1),dNAC222_L6_ChC_9060a4c27e_0_0
-994,NMLCL001073,Layer 6 Delayed Non-accommodating Chandelier Cell (2),dNAC222_L6_ChC_ac94876fe9_0_0
-995,NMLCL001074,Layer 6 Delayed Non-accommodating Chandelier Cell (3),dNAC222_L6_ChC_df66841015_0_0
-996,NMLCL001075,Layer 6 Delayed Non-accommodating Chandelier Cell (4),dNAC222_L6_ChC_dfe3a6b301_0_0
-997,NMLCL001076,Layer 6 Delayed Non-accommodating Chandelier Cell (5),dNAC222_L6_ChC_feef7b2013_0_0
-998,NMLCL001077,Layer 6 Delayed Non-accommodating Small Basket Cell (1),dNAC222_L6_SBC_1404bc18ce_0_0
-999,NMLCL001078,Layer 6 Delayed Non-accommodating Small Basket Cell (2),dNAC222_L6_SBC_194972ee43_0_0
-1000,NMLCL001079,Layer 6 Delayed Non-accommodating Small Basket Cell (3),dNAC222_L6_SBC_846dc20ea0_0_0
-1001,NMLCL001080,Layer 6 Delayed Non-accommodating Small Basket Cell (4),dNAC222_L6_SBC_f2d2498fe5_0_0
-1002,NMLCL001081,Layer 6 Delayed Non-accommodating Small Basket Cell (5),dNAC222_L6_SBC_fb9380858b_0_0
-1003,NMLCL001082,Layer 2/3 Delayed Stuttering Bipolar Cell (1),dSTUT214_L23_BP_5a18c05889_0_0
-1004,NMLCL001083,Layer 2/3 Delayed Stuttering Bipolar Cell (2),dSTUT214_L23_BP_5f35d83447_0_0
-1005,NMLCL001084,Layer 2/3 Delayed Stuttering Bipolar Cell (3),dSTUT214_L23_BP_90ce41b9ce_0_0
-1006,NMLCL001085,Layer 2/3 Delayed Stuttering Bipolar Cell (4),dSTUT214_L23_BP_ed3c32ad7e_0_0
-1007,NMLCL001086,Layer 2/3 Delayed Stuttering Bipolar Cell (5),dSTUT214_L23_BP_f03ecc7752_0_0
-1008,NMLCL001087,Layer 4 Delayed Stuttering Bipolar Cell (1),dSTUT214_L4_BP_0b51bbc21b_0_0
-1009,NMLCL001088,Layer 4 Delayed Stuttering Bipolar Cell (2),dSTUT214_L4_BP_a62582b74c_0_0
-1010,NMLCL001089,Layer 4 Delayed Stuttering Bipolar Cell (3),dSTUT214_L4_BP_a8b6abe396_0_0
-1011,NMLCL001090,Layer 4 Delayed Stuttering Bipolar Cell (4),dSTUT214_L4_BP_af68a93e57_0_0
-1012,NMLCL001091,Layer 4 Delayed Stuttering Bipolar Cell (5),dSTUT214_L4_BP_b88746aff4_0_0
-1013,NMLCL001092,Layer 4 Delayed Stuttering Large Basket Cell (1),dSTUT214_L4_LBC_057a5b90cc_0_0
-1014,NMLCL001093,Layer 4 Delayed Stuttering Large Basket Cell (2),dSTUT214_L4_LBC_23aa2e3048_0_0
-1015,NMLCL001094,Layer 4 Delayed Stuttering Large Basket Cell (3),dSTUT214_L4_LBC_396684f644_0_0
-1016,NMLCL001095,Layer 4 Delayed Stuttering Large Basket Cell (4),dSTUT214_L4_LBC_84318d400f_0_0
-1017,NMLCL001096,Layer 4 Delayed Stuttering Large Basket Cell (5),dSTUT214_L4_LBC_aecec7aee9_0_0
-1018,NMLCL001097,Layer 5 Delayed Stuttering Bipolar Cell (1),dSTUT214_L5_BP_0cbab2a2ce_0_0
-1019,NMLCL001098,Layer 5 Delayed Stuttering Bipolar Cell (2),dSTUT214_L5_BP_15aa299646_0_0
-1020,NMLCL001099,Layer 5 Delayed Stuttering Bipolar Cell (3),dSTUT214_L5_BP_55f9b731a1_0_0
-1021,NMLCL001100,Layer 5 Delayed Stuttering Bipolar Cell (4),dSTUT214_L5_BP_60923f9e40_0_0
-1022,NMLCL001101,Layer 5 Delayed Stuttering Bipolar Cell (5),dSTUT214_L5_BP_f600080385_0_0
-1023,NMLCL001102,Layer 5 Delayed Stuttering Large Basket Cell (1),dSTUT214_L5_LBC_5dc27443f3_0_0
-1024,NMLCL001103,Layer 5 Delayed Stuttering Large Basket Cell (2),dSTUT214_L5_LBC_6a6d472ca8_0_0
-1025,NMLCL001104,Layer 5 Delayed Stuttering Large Basket Cell (3),dSTUT214_L5_LBC_82d782e650_0_0
-1026,NMLCL001105,Layer 5 Delayed Stuttering Large Basket Cell (4),dSTUT214_L5_LBC_a7bdd51160_0_0
-1027,NMLCL001106,Layer 5 Delayed Stuttering Large Basket Cell (5),dSTUT214_L5_LBC_bf8ea1e366_0_0
-1028,NMLCL001107,Layer 5 Delayed Stuttering Nest Basket Cell (1),dSTUT214_L5_NBC_2518b7a9e0_0_0
-1029,NMLCL001108,Layer 5 Delayed Stuttering Nest Basket Cell (2),dSTUT214_L5_NBC_283ce5d859_0_0
-1030,NMLCL001109,Layer 5 Delayed Stuttering Nest Basket Cell (3),dSTUT214_L5_NBC_3a23cf60a6_0_0
-1031,NMLCL001110,Layer 5 Delayed Stuttering Nest Basket Cell (4),dSTUT214_L5_NBC_4a41f068df_0_0
-1032,NMLCL001111,Layer 5 Delayed Stuttering Nest Basket Cell (5),dSTUT214_L5_NBC_d4cc42ae25_0_0
-1033,NMLCL001112,Layer 6 Delayed Stuttering Bipolar Cell (1),dSTUT214_L6_BP_82b6294190_0_0
-1034,NMLCL001113,Layer 6 Delayed Stuttering Bipolar Cell (2),dSTUT214_L6_BP_871d8b9502_0_0
-1035,NMLCL001114,Layer 6 Delayed Stuttering Bipolar Cell (3),dSTUT214_L6_BP_b9592b27fd_0_0
-1036,NMLCL001115,Layer 6 Delayed Stuttering Bipolar Cell (4),dSTUT214_L6_BP_be00ceca27_0_0
-1037,NMLCL001116,Layer 6 Delayed Stuttering Bipolar Cell (5),dSTUT214_L6_BP_c8c05ef109_0_0
-1038,NMLCL001117,Layer 6 Delayed Stuttering Nest Basket Cell (1),dSTUT214_L6_NBC_1c98947546_0_0
-1039,NMLCL001118,Layer 6 Delayed Stuttering Nest Basket Cell (2),dSTUT214_L6_NBC_242af4db7d_0_0
-1040,NMLCL001119,Layer 6 Delayed Stuttering Nest Basket Cell (3),dSTUT214_L6_NBC_5d97f161ff_0_0
-1041,NMLCL001120,Layer 6 Delayed Stuttering Nest Basket Cell (4),dSTUT214_L6_NBC_73114eff1a_0_0
-1042,NMLCL001121,Layer 6 Delayed Stuttering Nest Basket Cell (5),dSTUT214_L6_NBC_750f7ba17d_0_0
-1044,NMLCL001123,Fast Spiking (FS),FS
-1045,NMLCL001124,Intrinsically Bursting (IB),IB
-1046,NMLCL001125,Intrinsically Repetitive Bursting (IBR),IBR
-1048,NMLCL001127,Regular Spiking (RS),RS
-1055,NMLCL001134,Deep Axoaxonic,DeepAxAx
-1056,NMLCL001135,Deep Basket,DeepBasket
-1057,NMLCL001136,Deep Low Threshold Spiking (LTS) Interneuron,DeepLTSInter
-1058,NMLCL001137,Superficial Layer 2/3 Fast Rhythmic Bursting (FRB) Pyramidal,L23PyrFRB_varInit
-1059,NMLCL001138,Superficial Layer 2/3 Regular Spiking (RS) Pyramidal,L23PyrRS
-1060,NMLCL001139,Layer 4 Spiny Stellate,L4SpinyStellate
-1061,NMLCL001140,Layer 5 Tufted Intrinsic Bursting (IB) Pyramidal,L5TuftedPyrIB
-1062,NMLCL001141,Layer 5 Tufted Regular Spiking (RS) Pyramidal,L5TuftedPyrRS
-1063,NMLCL001142,Layer 6 Nontufted Regular Spiking (RS) Pyramidal,L6NonTuftedPyrRS
-1064,NMLCL001143,Superficial Axoaxonic (Chandelier),SupAxAx
-1065,NMLCL001144,Superficial Basket,SupBasket
-1066,NMLCL001145,Superficial Low Threshold Spiking (LTS) Interneuron,SupLTSInter
-1089,NMLCL001428,Primary visual area layer 2/3 spiny 486175203,GLIF_486557295
-1090,NMLCL001430,Primary visual area layer 6a spiny 466632464,Cell_480631402
-1091,NMLCL001431,Primary visual area layer 4 spiny 478586295,Cell_479427516
-1092,NMLCL001432,Primary visual area layer 4 aspiny 485184849,Cell_485694403
-1093,NMLCL001433,Primary visual area layer 4 spiny 469798159,Cell_473872986
-1094,NMLCL001434,Primary visual area layer 4 spiny 476451456,Cell_477840124
-1095,NMLCL001435,Primary visual area layer 4 spiny 479179020,Cell_480051220
-1096,NMLCL001437,Primary visual area layer 5 aspiny 330080937,Cell_472912177
-1097,NMLCL001438,Lateral visual area layer 4 aspiny 313862167,Cell_471086533
-1098,NMLCL001439,posteromedial visual area layer 4 spiny 485912047,Cell_486511108
-1099,NMLCL001440,Primary visual area layer 2/3 aspiny 469753383,Cell_478513187
-1100,NMLCL001441,Primary visual area layer 5 spiny 471758398,Cell_478513445
-1101,NMLCL001442,Primary visual area layer 5 aspiny 466664172,Cell_478513461
-1102,NMLCL001443,Primary visual area layer 4 spiny 370351753,Cell_472442377
-1103,NMLCL001444,Primary visual area layer 4 spiny 476087653,Cell_478047816
-1104,NMLCL001445,Primary visual area layer 2/3 aspiny 333604946,Cell_472306616
-1105,NMLCL001447,Primary visual area layer 5 aspiny 478110866,Cell_479234506
-1106,NMLCL001448,Primary visual area layer 5 aspiny 478396248,Cell_479234670
-1107,NMLCL001449,Primary visual area layer 5 spiny 480116737,Cell_482655070
-1108,NMLCL001450,Lateral visual area layer 4 spiny 478499902,Cell_479427369
-1109,NMLCL001451,Primary visual area layer 5 aspiny 464212183,Cell_472299363
-1110,NMLCL001452,Primary visual area layer 2/3 aspiny 478107198,Cell_479234530
-1111,NMLCL001453,Primary visual area layer 5 spiny 314831019,Cell_473863578
-1112,NMLCL001454,Primary visual area layer 4 spiny 313862022,Cell_473465456
-1113,NMLCL001455,Postrhinal area layer 5 aspiny 464198958,GLIF_480629475
-1114,NMLCL001456,Primary visual area layer 5 aspiny 475517090,Cell_478043748
-1115,NMLCL001457,Primary visual area layer 6a spiny 471789504,Cell_472430904
-1116,NMLCL001458,Primary visual area layer 5 spiny 314822529,Cell_471087975
-1117,NMLCL001459,Primary visual area layer 5 aspiny 313861608,Cell_471085845
-1118,NMLCL001460,Primary visual area layer 4 spiny 476054887,Cell_478047737
-1119,NMLCL001461,posteromedial visual area layer 5 spiny 479770916,Cell_482525264
-1120,NMLCL001462,Primary visual area layer 4 spiny 386049446,Cell_472451419
-1121,NMLCL001463,Primary visual area layer 4 spiny 486146717,Cell_486557284
-1122,NMLCL001464,Primary visual area layer 5 aspiny 396968721,Cell_472447460
-1123,NMLCL001466,Primary visual area layer 5 spiny 483061182,Cell_485510685
-1124,NMLCL001467,Primary visual area layer 5 spiny 484559000,Cell_485591806
-1125,NMLCL001468,Primary visual area layer 5 spiny 485909730,Cell_486509232
-1126,NMLCL001469,Primary visual area layer 4 spiny 318733871,Cell_329322394
-1127,NMLCL001470,Primary visual area layer 6a spiny 325941643,Cell_473871592
-1128,NMLCL001472,Primary visual area layer 4 spiny 324032509,GLIF_472308324
-1129,NMLCL001474,Postrhinal area layer 5 aspiny 464198958,Cell_472450023
-1130,NMLCL001475,Primary visual area layer 5 spiny 485880739,Cell_486509010
-1131,NMLCL001476,Primary visual area layer 5 aspiny 469801569,Cell_473465774
-1132,NMLCL001477,Primary visual area layer 4 spiny 483020137,Cell_485507735
-1133,NMLCL001478,Primary visual area layer 4 spiny 314642645,Cell_472299294
-1134,NMLCL001479,Primary visual area layer 4 spiny 395830185,Cell_472363762
-1135,NMLCL001481,Primary visual area layer 4 spiny 348592897,Cell_472912107
-1136,NMLCL001482,Primary visual area layer 6a aspiny 488504814,Cell_489931963
-1137,NMLCL001483,Primary visual area layer 5 aspiny 323475862,Cell_478513459
-1138,NMLCL001484,Anterolateral visual area layer 4 aspiny 321923685,Cell_478513224
-1139,NMLCL001485,Primary visual area layer 4 spiny 470098860,GLIF_472451425
-1140,NMLCL001488,Primary visual area layer 4 spiny 324025371,Cell_472434498
-1141,NMLCL001489,Primary visual area layer 2/3 sparsely spiny 324266189,Cell_480629276
-1142,NMLCL001491,Postrhinal area layer 5 aspiny 323834998,GLIF_472455459
-1143,NMLCL001492,Primary visual area layer 5 spiny 475744706,Cell_478045347
-1144,NMLCL001493,Primary visual area layer 2/3 aspiny 464188580,Cell_472421285
-1145,NMLCL001494,Primary visual area layer 5 aspiny 484742372,Cell_485611914
-1146,NMLCL001495,Primary visual area layer 5 spiny 478888052,Cell_479694721
-1147,NMLCL001496,Primary visual area layer 4 spiny 487601493,Cell_488461970
-1148,NMLCL001497,Primary visual area layer 5 spiny 354190013,Cell_472306460
-1149,NMLCL001498,Primary visual area layer 6a spiny 471786879,Cell_480632594
-1150,NMLCL001499,Primary visual area layer 2/3 aspiny 327962063,Cell_472352327
-1151,NMLCL001500,posteromedial visual area layer 4 spiny 321906005,Cell_473834758
-1152,NMLCL001501,Primary visual area layer 5 spiny 485574832,Cell_486052412
-1153,NMLCL001502,Primary visual area layer 4 spiny 320207387,Cell_329321704
-1154,NMLCL001503,Primary visual area layer 6a aspiny 313862306,Cell_472440759
-1155,NMLCL001504,Primary visual area layer 4 spiny 479704527,Cell_483108201
-1156,NMLCL001505,Postrhinal area layer 5 aspiny 464198958,GLIF_480629471
-1157,NMLCL001506,Primary visual area layer 6a spiny 471819401,Cell_478513398
-1158,NMLCL001507,Primary visual area layer 4 spiny 476457450,Cell_477876583
-1159,NMLCL001508,Primary visual area layer 4 spiny 479728896,Cell_482525598
-1160,NMLCL001509,Primary visual area layer 5 aspiny 318556138,GLIF_480633674
-1161,NMLCL001510,Primary visual area layer 5 spiny 487664663,Cell_488462820
-1162,NMLCL001512,Postrhinal area layer 5 aspiny 323834998,Cell_472455509
-1163,NMLCL001513,Primary visual area layer 2/3 aspiny 324493977,Cell_472304676
-1164,NMLCL001514,Primary visual area layer 4 spiny 314900022,Cell_473862845
-1165,NMLCL001515,Primary visual area layer 4 aspiny 318331342,Cell_473862421
-1166,NMLCL001516,Primary visual area layer 6a spiny 471410185,Cell_478513396
-1167,NMLCL001517,Primary visual area layer 5 aspiny 321023397,Cell_496930338
-1168,NMLCL001519,Primary visual area layer 5 spiny 486111903,Cell_486556811
-1169,NMLCL001521,Primary visual area layer 4 spiny 422738880,Cell_480633088
-1170,NMLCL001522,Primary visual area layer 2/3 spiny 480124551,Cell_482657381
-1171,NMLCL001524,Primary visual area layer 5 sparsely spiny 324466858,Cell_473835796
-1172,NMLCL001525,Primary visual area layer 5 spiny 314804042,Cell_473863510
-1173,NMLCL001526,Primary visual area layer 4 spiny 397351623,Cell_472306544
-1174,NMLCL001527,Primary visual area layer 4 spiny 476616076,Cell_478810017
-1175,NMLCL001530,Primary visual area layer 5 spiny 468120757,Cell_473871773
-1176,NMLCL001531,Primary visual area layer 6a aspiny 466245544,Cell_471081668
-1177,NMLCL001532,Primary visual area layer 4 aspiny 474626527,Cell_477494382
-1178,NMLCL001533,Primary visual area layer 4 spiny 320668879,Cell_472300877
-1179,NMLCL001534,Primary visual area layer 4 aspiny 471077468,Cell_478513411
-1180,NMLCL001535,Primary visual area layer 2/3 spiny 318808427,Cell_473863035
-1181,NMLCL001537,Primary visual area layer 2/3 aspiny 473540161,Cell_476637699
-1182,NMLCL001538,Primary visual area layer 5 aspiny 467782778,Cell_478513451
-1183,NMLCL001539,Primary visual area layer 4 aspiny 486783119,Cell_487245869
-1184,NMLCL001540,Primary visual area layer 5 aspiny 328031983,GLIF_473875489
-1185,NMLCL001541,Primary visual area layer 2/3 spiny 382982932,Cell_473862496
-1186,NMLCL001542,Primary visual area layer 5 spiny 471767045,Cell_478513443
-1205,NMLCL001594,Visual Cortex Layer 2/3 Pyramidal Cell,L23_NoHotSpot
-1217,NMLCL001650,CT,CT
-1218,NMLCL001657,SOM,SOM
-1219,NMLCL001660,PT,PT
-1220,NMLCL001663,IT,IT
-1221,NMLCL001664,PV,PV
+,Model_ID,Name
+5,NMLCL000073,Layer 5b Pyramidal cell 
+8,NMLCL000087,Layer 2/3 Burst Accommodating Bipolar Cell (1)
+9,NMLCL000088,Layer 2/3 Burst Accommodating Bipolar Cell (2)
+10,NMLCL000089,Layer 2/3 Burst Accommodating Bipolar Cell (3)
+11,NMLCL000090,Layer 2/3 Burst Accommodating Bipolar Cell (4)
+12,NMLCL000091,Layer 2/3 Burst Accommodating Bipolar Cell (5)
+13,NMLCL000092,Layer 2/3 Burst Accommodating Bitufted Cell (1)
+14,NMLCL000093,Layer 2/3 Burst Accommodating Bitufted Cell (2)
+15,NMLCL000094,Layer 2/3 Burst Accommodating Bitufted Cell (3)
+16,NMLCL000095,Layer 2/3 Burst Accommodating Bitufted Cell (4)
+17,NMLCL000096,Layer 2/3 Burst Accommodating Bitufted Cell (5)
+18,NMLCL000097,Layer 2/3 Burst Accommodating Double Bouquet Cell (1)
+19,NMLCL000098,Layer 2/3 Burst Accommodating Double Bouquet Cell (2)
+20,NMLCL000099,Layer 2/3 Burst Accommodating Double Bouquet Cell (3)
+21,NMLCL000100,Layer 2/3 Burst Accommodating Double Bouquet Cell (4)
+22,NMLCL000101,Layer 2/3 Burst Accommodating Double Bouquet Cell (5)
+23,NMLCL000102,Layer 2/3 Burst Accommodating Large Basket Cell (1)
+24,NMLCL000103,Layer 2/3 Burst Accommodating Large Basket Cell (2)
+25,NMLCL000104,Layer 2/3 Burst Accommodating Large Basket Cell (3)
+26,NMLCL000105,Layer 2/3 Burst Accommodating Large Basket Cell (4)
+27,NMLCL000106,Layer 2/3 Burst Accommodating Large Basket Cell (5)
+28,NMLCL000107,Layer 2/3 Burst Accommodating Martinotti Cell (1)
+29,NMLCL000108,Layer 2/3 Burst Accommodating Martinotti Cell (2)
+30,NMLCL000109,Layer 2/3 Burst Accommodating Martinotti Cell (3)
+31,NMLCL000110,Layer 2/3 Burst Accommodating Martinotti Cell (4)
+32,NMLCL000111,Layer 2/3 Burst Accommodating Martinotti Cell (5)
+33,NMLCL000112,Layer 2/3 Burst Accommodating Nest Basket Cell (1)
+34,NMLCL000113,Layer 2/3 Burst Accommodating Nest Basket Cell (2)
+35,NMLCL000114,Layer 2/3 Burst Accommodating Nest Basket Cell (3)
+36,NMLCL000115,Layer 2/3 Burst Accommodating Nest Basket Cell (4)
+37,NMLCL000116,Layer 2/3 Burst Accommodating Nest Basket Cell (5)
+38,NMLCL000117,Layer 4 Burst Accommodating Bipolar Cell (1)
+39,NMLCL000118,Layer 4 Burst Accommodating Bipolar Cell (2)
+40,NMLCL000119,Layer 4 Burst Accommodating Bipolar Cell (3)
+41,NMLCL000120,Layer 4 Burst Accommodating Bipolar Cell (4)
+42,NMLCL000121,Layer 4 Burst Accommodating Bipolar Cell (5)
+43,NMLCL000122,Layer 4 Burst Accommodating Bitufted Cell (1)
+44,NMLCL000123,Layer 4 Burst Accommodating Bitufted Cell (2)
+45,NMLCL000124,Layer 4 Burst Accommodating Bitufted Cell (3)
+46,NMLCL000125,Layer 4 Burst Accommodating Bitufted Cell (4)
+47,NMLCL000126,Layer 4 Burst Accommodating Bitufted Cell (5)
+48,NMLCL000127,Layer 4 Burst Accommodating Double Bouquet Cell (1)
+49,NMLCL000128,Layer 4 Burst Accommodating Double Bouquet Cell (2)
+50,NMLCL000129,Layer 4 Burst Accommodating Double Bouquet Cell (3)
+51,NMLCL000130,Layer 4 Burst Accommodating Double Bouquet Cell (4)
+52,NMLCL000131,Layer 4 Burst Accommodating Double Bouquet Cell (5)
+53,NMLCL000132,Layer 4 Burst Accommodating Martinotti Cell (1)
+54,NMLCL000133,Layer 4 Burst Accommodating Martinotti Cell (2)
+55,NMLCL000134,Layer 4 Burst Accommodating Martinotti Cell (3)
+56,NMLCL000135,Layer 4 Burst Accommodating Martinotti Cell (4)
+57,NMLCL000136,Layer 4 Burst Accommodating Martinotti Cell (5)
+58,NMLCL000137,Layer 5 Burst Accommodating Bipolar Cell (1)
+59,NMLCL000138,Layer 5 Burst Accommodating Bipolar Cell (2)
+60,NMLCL000139,Layer 5 Burst Accommodating Bipolar Cell (3)
+61,NMLCL000140,Layer 5 Burst Accommodating Bipolar Cell (4)
+62,NMLCL000141,Layer 5 Burst Accommodating Bipolar Cell (5)
+63,NMLCL000142,Layer 5 Burst Accommodating Bitufted Cell (1)
+64,NMLCL000143,Layer 5 Burst Accommodating Bitufted Cell (2)
+65,NMLCL000144,Layer 5 Burst Accommodating Bitufted Cell (3)
+66,NMLCL000145,Layer 5 Burst Accommodating Bitufted Cell (4)
+67,NMLCL000146,Layer 5 Burst Accommodating Bitufted Cell (5)
+68,NMLCL000147,Layer 5 Burst Accommodating Double Bouquet Cell (1)
+69,NMLCL000148,Layer 5 Burst Accommodating Double Bouquet Cell (2)
+70,NMLCL000149,Layer 5 Burst Accommodating Double Bouquet Cell (3)
+71,NMLCL000150,Layer 5 Burst Accommodating Double Bouquet Cell (4)
+72,NMLCL000151,Layer 5 Burst Accommodating Double Bouquet Cell (5)
+73,NMLCL000152,Layer 5 Burst Accommodating Large Basket Cell (1)
+74,NMLCL000153,Layer 5 Burst Accommodating Large Basket Cell (2)
+75,NMLCL000154,Layer 5 Burst Accommodating Large Basket Cell (3)
+76,NMLCL000155,Layer 5 Burst Accommodating Large Basket Cell (4)
+77,NMLCL000156,Layer 5 Burst Accommodating Large Basket Cell (5)
+78,NMLCL000157,Layer 5 Burst Accommodating Martinotti Cell (1)
+79,NMLCL000158,Layer 5 Burst Accommodating Martinotti Cell (2)
+80,NMLCL000159,Layer 5 Burst Accommodating Martinotti Cell (3)
+81,NMLCL000160,Layer 5 Burst Accommodating Martinotti Cell (4)
+82,NMLCL000161,Layer 5 Burst Accommodating Martinotti Cell (5)
+83,NMLCL000162,Layer 5 Burst Accommodating Nest Basket Cell (1)
+84,NMLCL000163,Layer 5 Burst Accommodating Nest Basket Cell (2)
+85,NMLCL000164,Layer 5 Burst Accommodating Nest Basket Cell (3)
+86,NMLCL000165,Layer 5 Burst Accommodating Nest Basket Cell (4)
+87,NMLCL000166,Layer 5 Burst Accommodating Nest Basket Cell (5)
+88,NMLCL000167,Layer 6 Burst Accommodating Bipolar Cell (1)
+89,NMLCL000168,Layer 6 Burst Accommodating Bipolar Cell (2)
+90,NMLCL000169,Layer 6 Burst Accommodating Bipolar Cell (3)
+91,NMLCL000170,Layer 6 Burst Accommodating Bipolar Cell (4)
+92,NMLCL000171,Layer 6 Burst Accommodating Bipolar Cell (5)
+93,NMLCL000172,Layer 6 Burst Accommodating Bitufted Cell (1)
+94,NMLCL000173,Layer 6 Burst Accommodating Bitufted Cell (2)
+95,NMLCL000174,Layer 6 Burst Accommodating Bitufted Cell (3)
+96,NMLCL000175,Layer 6 Burst Accommodating Bitufted Cell (4)
+97,NMLCL000176,Layer 6 Burst Accommodating Bitufted Cell (5)
+98,NMLCL000177,Layer 6 Burst Accommodating Double Bouquet Cell (1)
+99,NMLCL000178,Layer 6 Burst Accommodating Double Bouquet Cell (2)
+100,NMLCL000179,Layer 6 Burst Accommodating Double Bouquet Cell (3)
+101,NMLCL000180,Layer 6 Burst Accommodating Double Bouquet Cell (4)
+102,NMLCL000181,Layer 6 Burst Accommodating Double Bouquet Cell (5)
+103,NMLCL000182,Layer 6 Burst Accommodating Large Basket Cell (1)
+104,NMLCL000183,Layer 6 Burst Accommodating Large Basket Cell (2)
+105,NMLCL000184,Layer 6 Burst Accommodating Large Basket Cell (3)
+106,NMLCL000185,Layer 6 Burst Accommodating Large Basket Cell (4)
+107,NMLCL000186,Layer 6 Burst Accommodating Large Basket Cell (5)
+108,NMLCL000187,Layer 6 Burst Accommodating Martinotti Cell (1)
+109,NMLCL000188,Layer 6 Burst Accommodating Martinotti Cell (2)
+110,NMLCL000189,Layer 6 Burst Accommodating Martinotti Cell (3)
+111,NMLCL000190,Layer 6 Burst Accommodating Martinotti Cell (4)
+112,NMLCL000191,Layer 6 Burst Accommodating Martinotti Cell (5)
+113,NMLCL000192,Layer 6 Burst Accommodating Nest Basket Cell (1)
+114,NMLCL000193,Layer 6 Burst Accommodating Nest Basket Cell (2)
+115,NMLCL000194,Layer 6 Burst Accommodating Nest Basket Cell (3)
+116,NMLCL000195,Layer 6 Burst Accommodating Nest Basket Cell (4)
+117,NMLCL000196,Layer 6 Burst Accommodating Nest Basket Cell (5)
+118,NMLCL000197,Layer 2/3 Burst Irregular Bipolar Cell (1)
+119,NMLCL000198,Layer 2/3 Burst Irregular Bipolar Cell (2)
+120,NMLCL000199,Layer 2/3 Burst Irregular Bipolar Cell (3)
+121,NMLCL000200,Layer 2/3 Burst Irregular Bipolar Cell (4)
+122,NMLCL000201,Layer 2/3 Burst Irregular Bipolar Cell (5)
+123,NMLCL000202,Layer 2/3 Burst Irregular Bitufted Cell (1)
+124,NMLCL000203,Layer 2/3 Burst Irregular Bitufted Cell (2)
+125,NMLCL000204,Layer 2/3 Burst Irregular Bitufted Cell (3)
+126,NMLCL000205,Layer 2/3 Burst Irregular Bitufted Cell (4)
+127,NMLCL000206,Layer 2/3 Burst Irregular Bitufted Cell (5)
+128,NMLCL000207,Layer 2/3 Burst Irregular Double Bouquet Cell (1)
+129,NMLCL000208,Layer 2/3 Burst Irregular Double Bouquet Cell (2)
+130,NMLCL000209,Layer 2/3 Burst Irregular Double Bouquet Cell (3)
+131,NMLCL000210,Layer 2/3 Burst Irregular Double Bouquet Cell (4)
+132,NMLCL000211,Layer 2/3 Burst Irregular Double Bouquet Cell (5)
+133,NMLCL000212,Layer 4 Burst Irregular Bipolar Cell (1)
+134,NMLCL000213,Layer 4 Burst Irregular Bipolar Cell (2)
+135,NMLCL000214,Layer 4 Burst Irregular Bipolar Cell (3)
+136,NMLCL000215,Layer 4 Burst Irregular Bipolar Cell (4)
+137,NMLCL000216,Layer 4 Burst Irregular Bipolar Cell (5)
+138,NMLCL000217,Layer 4 Burst Irregular Bitufted Cell (1)
+139,NMLCL000218,Layer 4 Burst Irregular Bitufted Cell (2)
+140,NMLCL000219,Layer 4 Burst Irregular Bitufted Cell (3)
+141,NMLCL000220,Layer 4 Burst Irregular Bitufted Cell (4)
+142,NMLCL000221,Layer 4 Burst Irregular Bitufted Cell (5)
+143,NMLCL000222,Layer 4 Burst Irregular Double Bouquet Cell (1)
+144,NMLCL000223,Layer 4 Burst Irregular Double Bouquet Cell (2)
+145,NMLCL000224,Layer 4 Burst Irregular Double Bouquet Cell (3)
+146,NMLCL000225,Layer 4 Burst Irregular Double Bouquet Cell (4)
+147,NMLCL000226,Layer 4 Burst Irregular Double Bouquet Cell (5)
+148,NMLCL000227,Layer 5 Burst Irregular Bipolar Cell (1)
+149,NMLCL000228,Layer 5 Burst Irregular Bipolar Cell (2)
+150,NMLCL000229,Layer 5 Burst Irregular Bipolar Cell (3)
+151,NMLCL000230,Layer 5 Burst Irregular Bipolar Cell (4)
+152,NMLCL000231,Layer 5 Burst Irregular Bipolar Cell (5)
+153,NMLCL000232,Layer 5 Burst Irregular Double Bouquet Cell (1)
+154,NMLCL000233,Layer 5 Burst Irregular Double Bouquet Cell (2)
+155,NMLCL000234,Layer 5 Burst Irregular Double Bouquet Cell (3)
+156,NMLCL000235,Layer 5 Burst Irregular Double Bouquet Cell (4)
+157,NMLCL000236,Layer 5 Burst Irregular Double Bouquet Cell (5)
+158,NMLCL000237,Layer 5 Burst Irregular Martinotti Cell (1)
+159,NMLCL000238,Layer 5 Burst Irregular Martinotti Cell (2)
+160,NMLCL000239,Layer 5 Burst Irregular Martinotti Cell (3)
+161,NMLCL000240,Layer 5 Burst Irregular Martinotti Cell (4)
+162,NMLCL000241,Layer 5 Burst Irregular Martinotti Cell (5)
+163,NMLCL000242,Layer 5 Burst Irregular Nest Basket Cell (1)
+164,NMLCL000243,Layer 5 Burst Irregular Nest Basket Cell (2)
+165,NMLCL000244,Layer 5 Burst Irregular Nest Basket Cell (3)
+166,NMLCL000245,Layer 5 Burst Irregular Nest Basket Cell (4)
+167,NMLCL000246,Layer 5 Burst Irregular Nest Basket Cell (5)
+168,NMLCL000247,Layer 6 Burst Irregular Bipolar Cell (1)
+169,NMLCL000248,Layer 6 Burst Irregular Bipolar Cell (2)
+170,NMLCL000249,Layer 6 Burst Irregular Bipolar Cell (3)
+171,NMLCL000250,Layer 6 Burst Irregular Bipolar Cell (4)
+172,NMLCL000251,Layer 6 Burst Irregular Bipolar Cell (5)
+173,NMLCL000252,Layer 6 Burst Irregular Double Bouquet Cell (1)
+174,NMLCL000253,Layer 6 Burst Irregular Double Bouquet Cell (2)
+175,NMLCL000254,Layer 6 Burst Irregular Double Bouquet Cell (3)
+176,NMLCL000255,Layer 6 Burst Irregular Double Bouquet Cell (4)
+177,NMLCL000256,Layer 6 Burst Irregular Double Bouquet Cell (5)
+178,NMLCL000257,Layer 6 Burst Irregular Large Basket Cell (1)
+179,NMLCL000258,Layer 6 Burst Irregular Large Basket Cell (2)
+180,NMLCL000259,Layer 6 Burst Irregular Large Basket Cell (3)
+181,NMLCL000260,Layer 6 Burst Irregular Large Basket Cell (4)
+182,NMLCL000261,Layer 6 Burst Irregular Large Basket Cell (5)
+183,NMLCL000262,Layer 6 Burst Irregular Martinotti Cell (1)
+184,NMLCL000263,Layer 6 Burst Irregular Martinotti Cell (2)
+185,NMLCL000264,Layer 6 Burst Irregular Martinotti Cell (3)
+186,NMLCL000265,Layer 6 Burst Irregular Martinotti Cell (4)
+187,NMLCL000266,Layer 6 Burst Irregular Martinotti Cell (5)
+188,NMLCL000267,Layer 6 Burst Irregular Nest Basket Cell (1)
+189,NMLCL000268,Layer 6 Burst Irregular Nest Basket Cell (2)
+190,NMLCL000269,Layer 6 Burst Irregular Nest Basket Cell (3)
+191,NMLCL000270,Layer 6 Burst Irregular Nest Basket Cell (4)
+192,NMLCL000271,Layer 6 Burst Irregular Nest Basket Cell (5)
+193,NMLCL000272,Layer 1 Burst Non-accommodating Descending Axon Cell (1)
+194,NMLCL000273,Layer 1 Burst Non-accommodating Descending Axon Cell (2)
+195,NMLCL000274,Layer 1 Burst Non-accommodating Descending Axon Cell (3)
+196,NMLCL000275,Layer 1 Burst Non-accommodating Descending Axon Cell (4)
+197,NMLCL000276,Layer 1 Burst Non-accommodating Descending Axon Cell (5)
+198,NMLCL000277,Layer 1 Burst Non-accommodating Horizontal Axon Cell (1)
+199,NMLCL000278,Layer 1 Burst Non-accommodating Horizontal Axon Cell (2)
+200,NMLCL000279,Layer 1 Burst Non-accommodating Horizontal Axon Cell (3)
+201,NMLCL000280,Layer 1 Burst Non-accommodating Horizontal Axon Cell (4)
+202,NMLCL000281,Layer 1 Burst Non-accommodating Horizontal Axon Cell (5)
+203,NMLCL000282,Layer 1 Burst Non-accommodating Neurogliaform Cell with dense axonal arborization (1)
+204,NMLCL000283,Layer 1 Burst Non-accommodating Neurogliaform Cell with dense axonal arborization (2)
+205,NMLCL000284,Layer 1 Burst Non-accommodating Neurogliaform Cell with dense axonal arborization (3)
+206,NMLCL000285,Layer 1 Burst Non-accommodating Neurogliaform Cell with dense axonal arborization (4)
+207,NMLCL000286,Layer 1 Burst Non-accommodating Neurogliaform Cell with dense axonal arborization (5)
+208,NMLCL000287,Layer 1 Burst Non-accommodating Small Axon Cell (1)
+209,NMLCL000288,Layer 1 Burst Non-accommodating Small Axon Cell (2)
+210,NMLCL000289,Layer 1 Burst Non-accommodating Small Axon Cell (3)
+211,NMLCL000290,Layer 1 Burst Non-accommodating Small Axon Cell (4)
+212,NMLCL000291,Layer 1 Burst Non-accommodating Small Axon Cell (5)
+213,NMLCL000292,Layer 2/3 Burst Non-accommodating Bipolar Cell (1)
+214,NMLCL000293,Layer 2/3 Burst Non-accommodating Bipolar Cell (2)
+215,NMLCL000294,Layer 2/3 Burst Non-accommodating Bipolar Cell (3)
+216,NMLCL000295,Layer 2/3 Burst Non-accommodating Bipolar Cell (4)
+217,NMLCL000296,Layer 2/3 Burst Non-accommodating Bipolar Cell (5)
+218,NMLCL000297,Layer 2/3 Burst Non-accommodating Bitufted Cell (1)
+219,NMLCL000298,Layer 2/3 Burst Non-accommodating Bitufted Cell (2)
+220,NMLCL000299,Layer 2/3 Burst Non-accommodating Bitufted Cell (3)
+221,NMLCL000300,Layer 2/3 Burst Non-accommodating Bitufted Cell (4)
+222,NMLCL000301,Layer 2/3 Burst Non-accommodating Bitufted Cell (5)
+223,NMLCL000302,Layer 2/3 Burst Non-accommodating Double Bouquet Cell (1)
+224,NMLCL000303,Layer 2/3 Burst Non-accommodating Double Bouquet Cell (2)
+225,NMLCL000304,Layer 2/3 Burst Non-accommodating Double Bouquet Cell (3)
+226,NMLCL000305,Layer 2/3 Burst Non-accommodating Double Bouquet Cell (4)
+227,NMLCL000306,Layer 2/3 Burst Non-accommodating Double Bouquet Cell (5)
+228,NMLCL000307,Layer 2/3 Burst Non-accommodating Large Basket Cell (1)
+229,NMLCL000308,Layer 2/3 Burst Non-accommodating Large Basket Cell (2)
+230,NMLCL000309,Layer 2/3 Burst Non-accommodating Large Basket Cell (3)
+231,NMLCL000310,Layer 2/3 Burst Non-accommodating Large Basket Cell (4)
+232,NMLCL000311,Layer 2/3 Burst Non-accommodating Large Basket Cell (5)
+233,NMLCL000312,Layer 2/3 Burst Non-accommodating Martinotti Cell (1)
+234,NMLCL000313,Layer 2/3 Burst Non-accommodating Martinotti Cell (2)
+235,NMLCL000314,Layer 2/3 Burst Non-accommodating Martinotti Cell (3)
+236,NMLCL000315,Layer 2/3 Burst Non-accommodating Martinotti Cell (4)
+237,NMLCL000316,Layer 2/3 Burst Non-accommodating Martinotti Cell (5)
+238,NMLCL000317,Layer 2/3 Burst Non-accommodating Nest Basket Cell (1)
+239,NMLCL000318,Layer 2/3 Burst Non-accommodating Nest Basket Cell (2)
+240,NMLCL000319,Layer 2/3 Burst Non-accommodating Nest Basket Cell (3)
+241,NMLCL000320,Layer 2/3 Burst Non-accommodating Nest Basket Cell (4)
+242,NMLCL000321,Layer 2/3 Burst Non-accommodating Nest Basket Cell (5)
+243,NMLCL000322,Layer 2/3 Burst Non-accommodating Neurogliaform Cell (1)
+244,NMLCL000323,Layer 2/3 Burst Non-accommodating Neurogliaform Cell (2)
+245,NMLCL000324,Layer 2/3 Burst Non-accommodating Neurogliaform Cell (3)
+246,NMLCL000325,Layer 2/3 Burst Non-accommodating Neurogliaform Cell (4)
+247,NMLCL000326,Layer 2/3 Burst Non-accommodating Neurogliaform Cell (5)
+248,NMLCL000327,Layer 2/3 Burst Non-accommodating Small Basket Cell (1)
+249,NMLCL000328,Layer 2/3 Burst Non-accommodating Small Basket Cell (2)
+250,NMLCL000329,Layer 2/3 Burst Non-accommodating Small Basket Cell (3)
+251,NMLCL000330,Layer 2/3 Burst Non-accommodating Small Basket Cell (4)
+252,NMLCL000331,Layer 2/3 Burst Non-accommodating Small Basket Cell (5)
+253,NMLCL000332,Layer 4 Burst Non-accommodating Bipolar Cell (1)
+254,NMLCL000333,Layer 4 Burst Non-accommodating Bipolar Cell (2)
+255,NMLCL000334,Layer 4 Burst Non-accommodating Bipolar Cell (3)
+256,NMLCL000335,Layer 4 Burst Non-accommodating Bipolar Cell (4)
+257,NMLCL000336,Layer 4 Burst Non-accommodating Bipolar Cell (5)
+258,NMLCL000337,Layer 4 Burst Non-accommodating Double Bouquet Cell (1)
+259,NMLCL000338,Layer 4 Burst Non-accommodating Double Bouquet Cell (2)
+260,NMLCL000339,Layer 4 Burst Non-accommodating Double Bouquet Cell (3)
+261,NMLCL000340,Layer 4 Burst Non-accommodating Double Bouquet Cell (4)
+262,NMLCL000341,Layer 4 Burst Non-accommodating Double Bouquet Cell (5)
+263,NMLCL000342,Layer 4 Burst Non-accommodating Martinotti Cell (1)
+264,NMLCL000343,Layer 4 Burst Non-accommodating Martinotti Cell (2)
+265,NMLCL000344,Layer 4 Burst Non-accommodating Martinotti Cell (3)
+266,NMLCL000345,Layer 4 Burst Non-accommodating Martinotti Cell (4)
+267,NMLCL000346,Layer 4 Burst Non-accommodating Martinotti Cell (5)
+268,NMLCL000347,Layer 4 Burst Non-accommodating Neurogliaform Cell (1)
+269,NMLCL000348,Layer 4 Burst Non-accommodating Neurogliaform Cell (2)
+270,NMLCL000349,Layer 4 Burst Non-accommodating Neurogliaform Cell (3)
+271,NMLCL000350,Layer 4 Burst Non-accommodating Neurogliaform Cell (4)
+272,NMLCL000351,Layer 4 Burst Non-accommodating Neurogliaform Cell (5)
+273,NMLCL000352,Layer 4 Burst Non-accommodating Small Basket Cell (1)
+274,NMLCL000353,Layer 4 Burst Non-accommodating Small Basket Cell (2)
+275,NMLCL000354,Layer 4 Burst Non-accommodating Small Basket Cell (3)
+276,NMLCL000355,Layer 4 Burst Non-accommodating Small Basket Cell (4)
+277,NMLCL000356,Layer 4 Burst Non-accommodating Small Basket Cell (5)
+278,NMLCL000357,Layer 5 Burst Non-accommodating Bipolar Cell (1)
+279,NMLCL000358,Layer 5 Burst Non-accommodating Bipolar Cell (2)
+280,NMLCL000359,Layer 5 Burst Non-accommodating Bipolar Cell (3)
+281,NMLCL000360,Layer 5 Burst Non-accommodating Bipolar Cell (4)
+282,NMLCL000361,Layer 5 Burst Non-accommodating Bipolar Cell (5)
+283,NMLCL000362,Layer 5 Burst Non-accommodating Double Bouquet Cell (1)
+284,NMLCL000363,Layer 5 Burst Non-accommodating Double Bouquet Cell (2)
+285,NMLCL000364,Layer 5 Burst Non-accommodating Double Bouquet Cell (3)
+286,NMLCL000365,Layer 5 Burst Non-accommodating Double Bouquet Cell (4)
+287,NMLCL000366,Layer 5 Burst Non-accommodating Double Bouquet Cell (5)
+288,NMLCL000367,Layer 5 Burst Non-accommodating Neurogliaform Cell (1)
+289,NMLCL000368,Layer 5 Burst Non-accommodating Neurogliaform Cell (2)
+290,NMLCL000369,Layer 5 Burst Non-accommodating Neurogliaform Cell (3)
+291,NMLCL000370,Layer 5 Burst Non-accommodating Neurogliaform Cell (4)
+292,NMLCL000371,Layer 5 Burst Non-accommodating Neurogliaform Cell (5)
+293,NMLCL000372,Layer 5 Burst Non-accommodating Small Basket Cell (1)
+294,NMLCL000373,Layer 5 Burst Non-accommodating Small Basket Cell (2)
+295,NMLCL000374,Layer 5 Burst Non-accommodating Small Basket Cell (3)
+296,NMLCL000375,Layer 5 Burst Non-accommodating Small Basket Cell (4)
+297,NMLCL000376,Layer 5 Burst Non-accommodating Small Basket Cell (5)
+298,NMLCL000377,Layer 6 Burst Non-accommodating Bipolar Cell (1)
+299,NMLCL000378,Layer 6 Burst Non-accommodating Bipolar Cell (2)
+300,NMLCL000379,Layer 6 Burst Non-accommodating Bipolar Cell (3)
+301,NMLCL000380,Layer 6 Burst Non-accommodating Bipolar Cell (4)
+302,NMLCL000381,Layer 6 Burst Non-accommodating Bipolar Cell (5)
+303,NMLCL000382,Layer 6 Burst Non-accommodating Double Bouquet Cell (1)
+304,NMLCL000383,Layer 6 Burst Non-accommodating Double Bouquet Cell (2)
+305,NMLCL000384,Layer 6 Burst Non-accommodating Double Bouquet Cell (3)
+306,NMLCL000385,Layer 6 Burst Non-accommodating Double Bouquet Cell (4)
+307,NMLCL000386,Layer 6 Burst Non-accommodating Double Bouquet Cell (5)
+308,NMLCL000387,Layer 6 Burst Non-accommodating Large Basket Cell (1)
+309,NMLCL000388,Layer 6 Burst Non-accommodating Large Basket Cell (2)
+310,NMLCL000389,Layer 6 Burst Non-accommodating Large Basket Cell (3)
+311,NMLCL000390,Layer 6 Burst Non-accommodating Large Basket Cell (4)
+312,NMLCL000391,Layer 6 Burst Non-accommodating Large Basket Cell (5)
+313,NMLCL000392,Layer 6 Burst Non-accommodating Martinotti Cell (1)
+314,NMLCL000393,Layer 6 Burst Non-accommodating Martinotti Cell (2)
+315,NMLCL000394,Layer 6 Burst Non-accommodating Martinotti Cell (3)
+316,NMLCL000395,Layer 6 Burst Non-accommodating Martinotti Cell (4)
+317,NMLCL000396,Layer 6 Burst Non-accommodating Martinotti Cell (5)
+318,NMLCL000397,Layer 6 Burst Non-accommodating Neurogliaform Cell (1)
+319,NMLCL000398,Layer 6 Burst Non-accommodating Neurogliaform Cell (2)
+320,NMLCL000399,Layer 6 Burst Non-accommodating Neurogliaform Cell (3)
+321,NMLCL000400,Layer 6 Burst Non-accommodating Neurogliaform Cell (4)
+322,NMLCL000401,Layer 6 Burst Non-accommodating Neurogliaform Cell (5)
+323,NMLCL000402,Layer 6 Burst Non-accommodating Small Basket Cell (1)
+324,NMLCL000403,Layer 6 Burst Non-accommodating Small Basket Cell (2)
+325,NMLCL000404,Layer 6 Burst Non-accommodating Small Basket Cell (3)
+326,NMLCL000405,Layer 6 Burst Non-accommodating Small Basket Cell (4)
+327,NMLCL000406,Layer 6 Burst Non-accommodating Small Basket Cell (5)
+328,NMLCL000407,Layer 4 Burst Stuttering Bitufted Cell (1)
+329,NMLCL000408,Layer 4 Burst Stuttering Bitufted Cell (2)
+330,NMLCL000409,Layer 4 Burst Stuttering Bitufted Cell (3)
+331,NMLCL000410,Layer 4 Burst Stuttering Bitufted Cell (4)
+332,NMLCL000411,Layer 4 Burst Stuttering Bitufted Cell (5)
+333,NMLCL000412,Layer 4 Burst Stuttering Double Bouquet Cell (1)
+334,NMLCL000413,Layer 4 Burst Stuttering Double Bouquet Cell (2)
+335,NMLCL000414,Layer 4 Burst Stuttering Double Bouquet Cell (3)
+336,NMLCL000415,Layer 4 Burst Stuttering Double Bouquet Cell (4)
+337,NMLCL000416,Layer 4 Burst Stuttering Double Bouquet Cell (5)
+338,NMLCL000417,Layer 5 Burst Stuttering Double Bouquet Cell (1)
+339,NMLCL000418,Layer 5 Burst Stuttering Double Bouquet Cell (2)
+340,NMLCL000419,Layer 5 Burst Stuttering Double Bouquet Cell (3)
+341,NMLCL000420,Layer 5 Burst Stuttering Double Bouquet Cell (4)
+342,NMLCL000421,Layer 5 Burst Stuttering Double Bouquet Cell (5)
+343,NMLCL000422,Layer 5 Burst Stuttering Martinotti Cell (1)
+344,NMLCL000423,Layer 5 Burst Stuttering Martinotti Cell (2)
+345,NMLCL000424,Layer 5 Burst Stuttering Martinotti Cell (3)
+346,NMLCL000425,Layer 5 Burst Stuttering Martinotti Cell (4)
+347,NMLCL000426,Layer 5 Burst Stuttering Martinotti Cell (5)
+348,NMLCL000427,Layer 5 Burst Stuttering Nest Basket Cell (1)
+349,NMLCL000428,Layer 5 Burst Stuttering Nest Basket Cell (2)
+350,NMLCL000429,Layer 5 Burst Stuttering Nest Basket Cell (3)
+351,NMLCL000430,Layer 5 Burst Stuttering Nest Basket Cell (4)
+352,NMLCL000431,Layer 5 Burst Stuttering Nest Basket Cell (5)
+353,NMLCL000432,Layer 6 Burst Stuttering Double Bouquet Cell (1)
+354,NMLCL000433,Layer 6 Burst Stuttering Double Bouquet Cell (2)
+355,NMLCL000434,Layer 6 Burst Stuttering Double Bouquet Cell (3)
+356,NMLCL000435,Layer 6 Burst Stuttering Double Bouquet Cell (4)
+357,NMLCL000436,Layer 6 Burst Stuttering Double Bouquet Cell (5)
+358,NMLCL000437,Layer 6 Burst Stuttering Large Basket Cell (1)
+359,NMLCL000438,Layer 6 Burst Stuttering Large Basket Cell (2)
+360,NMLCL000439,Layer 6 Burst Stuttering Large Basket Cell (3)
+361,NMLCL000440,Layer 6 Burst Stuttering Large Basket Cell (4)
+362,NMLCL000441,Layer 6 Burst Stuttering Large Basket Cell (5)
+363,NMLCL000442,Layer 6 Burst Stuttering Martinotti Cell (1)
+364,NMLCL000443,Layer 6 Burst Stuttering Martinotti Cell (2)
+365,NMLCL000444,Layer 6 Burst Stuttering Martinotti Cell (3)
+366,NMLCL000445,Layer 6 Burst Stuttering Martinotti Cell (4)
+367,NMLCL000446,Layer 6 Burst Stuttering Martinotti Cell (5)
+368,NMLCL000447,Layer 6 Burst Stuttering Nest Basket Cell (1)
+369,NMLCL000448,Layer 6 Burst Stuttering Nest Basket Cell (2)
+370,NMLCL000449,Layer 6 Burst Stuttering Nest Basket Cell (3)
+371,NMLCL000450,Layer 6 Burst Stuttering Nest Basket Cell (4)
+372,NMLCL000451,Layer 6 Burst Stuttering Nest Basket Cell (5)
+373,NMLCL000452,Layer 1 Continuous Accommodating Neurogliaform Cell with dense axonal arborization (1)
+374,NMLCL000453,Layer 1 Continuous Accommodating Neurogliaform Cell with dense axonal arborization (2)
+375,NMLCL000454,Layer 1 Continuous Accommodating Neurogliaform Cell with dense axonal arborization (3)
+376,NMLCL000455,Layer 1 Continuous Accommodating Neurogliaform Cell with dense axonal arborization (4)
+377,NMLCL000456,Layer 1 Continuous Accommodating Neurogliaform Cell with dense axonal arborization (5)
+378,NMLCL000457,Layer 1 Continuous Accommodating Small Axon Cell (1)
+379,NMLCL000458,Layer 1 Continuous Accommodating Small Axon Cell (2)
+380,NMLCL000459,Layer 1 Continuous Accommodating Small Axon Cell (3)
+381,NMLCL000460,Layer 1 Continuous Accommodating Small Axon Cell (4)
+382,NMLCL000461,Layer 1 Continuous Accommodating Small Axon Cell (5)
+383,NMLCL000462,Layer 2/3 Continuous Accommodating Bipolar Cell (1)
+384,NMLCL000463,Layer 2/3 Continuous Accommodating Bipolar Cell (2)
+385,NMLCL000464,Layer 2/3 Continuous Accommodating Bipolar Cell (3)
+386,NMLCL000465,Layer 2/3 Continuous Accommodating Bipolar Cell (4)
+387,NMLCL000466,Layer 2/3 Continuous Accommodating Bipolar Cell (5)
+388,NMLCL000467,Layer 2/3 Continuous Accommodating Bitufted Cell (1)
+389,NMLCL000468,Layer 2/3 Continuous Accommodating Bitufted Cell (2)
+390,NMLCL000469,Layer 2/3 Continuous Accommodating Bitufted Cell (3)
+391,NMLCL000470,Layer 2/3 Continuous Accommodating Bitufted Cell (4)
+392,NMLCL000471,Layer 2/3 Continuous Accommodating Bitufted Cell (5)
+393,NMLCL000472,Layer 2/3 Continuous Accommodating Chandelier Cell (1)
+394,NMLCL000473,Layer 2/3 Continuous Accommodating Chandelier Cell (2)
+395,NMLCL000474,Layer 2/3 Continuous Accommodating Chandelier Cell (3)
+396,NMLCL000475,Layer 2/3 Continuous Accommodating Chandelier Cell (4)
+397,NMLCL000476,Layer 2/3 Continuous Accommodating Chandelier Cell (5)
+398,NMLCL000477,Layer 2/3 Continuous Accommodating Double Bouquet Cell (1)
+399,NMLCL000478,Layer 2/3 Continuous Accommodating Double Bouquet Cell (2)
+400,NMLCL000479,Layer 2/3 Continuous Accommodating Double Bouquet Cell (3)
+401,NMLCL000480,Layer 2/3 Continuous Accommodating Double Bouquet Cell (4)
+402,NMLCL000481,Layer 2/3 Continuous Accommodating Double Bouquet Cell (5)
+403,NMLCL000482,Layer 2/3 Continuous Accommodating Large Basket Cell (1)
+404,NMLCL000483,Layer 2/3 Continuous Accommodating Large Basket Cell (2)
+405,NMLCL000484,Layer 2/3 Continuous Accommodating Large Basket Cell (3)
+406,NMLCL000485,Layer 2/3 Continuous Accommodating Large Basket Cell (4)
+407,NMLCL000486,Layer 2/3 Continuous Accommodating Large Basket Cell (5)
+408,NMLCL000487,Layer 2/3 Continuous Accommodating Martinotti Cell (1)
+409,NMLCL000488,Layer 2/3 Continuous Accommodating Martinotti Cell (2)
+410,NMLCL000489,Layer 2/3 Continuous Accommodating Martinotti Cell (3)
+411,NMLCL000490,Layer 2/3 Continuous Accommodating Martinotti Cell (4)
+412,NMLCL000491,Layer 2/3 Continuous Accommodating Martinotti Cell (5)
+413,NMLCL000492,Layer 2/3 Continuous Accommodating Nest Basket Cell (1)
+414,NMLCL000493,Layer 2/3 Continuous Accommodating Nest Basket Cell (2)
+415,NMLCL000494,Layer 2/3 Continuous Accommodating Nest Basket Cell (3)
+416,NMLCL000495,Layer 2/3 Continuous Accommodating Nest Basket Cell (4)
+417,NMLCL000496,Layer 2/3 Continuous Accommodating Nest Basket Cell (5)
+418,NMLCL000497,Layer 2/3 Continuous Accommodating Neurogliaform Cell (1)
+419,NMLCL000498,Layer 2/3 Continuous Accommodating Neurogliaform Cell (2)
+420,NMLCL000499,Layer 2/3 Continuous Accommodating Neurogliaform Cell (3)
+421,NMLCL000500,Layer 2/3 Continuous Accommodating Neurogliaform Cell (4)
+422,NMLCL000501,Layer 2/3 Continuous Accommodating Neurogliaform Cell (5)
+423,NMLCL000502,Layer 2/3 Continuous Accommodating Small Basket Cell (1)
+424,NMLCL000503,Layer 2/3 Continuous Accommodating Small Basket Cell (2)
+425,NMLCL000504,Layer 2/3 Continuous Accommodating Small Basket Cell (3)
+426,NMLCL000505,Layer 2/3 Continuous Accommodating Small Basket Cell (4)
+427,NMLCL000506,Layer 2/3 Continuous Accommodating Small Basket Cell (5)
+428,NMLCL000507,Layer 4 Continuous Accommodating Bipolar Cell (1)
+429,NMLCL000508,Layer 4 Continuous Accommodating Bipolar Cell (2)
+430,NMLCL000509,Layer 4 Continuous Accommodating Bipolar Cell (3)
+431,NMLCL000510,Layer 4 Continuous Accommodating Bipolar Cell (4)
+432,NMLCL000511,Layer 4 Continuous Accommodating Bipolar Cell (5)
+433,NMLCL000512,Layer 4 Continuous Accommodating Bitufted Cell (1)
+434,NMLCL000513,Layer 4 Continuous Accommodating Bitufted Cell (2)
+435,NMLCL000514,Layer 4 Continuous Accommodating Bitufted Cell (3)
+436,NMLCL000515,Layer 4 Continuous Accommodating Bitufted Cell (4)
+437,NMLCL000516,Layer 4 Continuous Accommodating Bitufted Cell (5)
+438,NMLCL000517,Layer 4 Continuous Accommodating Chandelier Cell (1)
+439,NMLCL000518,Layer 4 Continuous Accommodating Chandelier Cell (2)
+440,NMLCL000519,Layer 4 Continuous Accommodating Chandelier Cell (3)
+441,NMLCL000520,Layer 4 Continuous Accommodating Chandelier Cell (4)
+442,NMLCL000521,Layer 4 Continuous Accommodating Chandelier Cell (5)
+443,NMLCL000522,Layer 4 Continuous Accommodating Double Bouquet Cell (1)
+444,NMLCL000523,Layer 4 Continuous Accommodating Double Bouquet Cell (2)
+445,NMLCL000524,Layer 4 Continuous Accommodating Double Bouquet Cell (3)
+446,NMLCL000525,Layer 4 Continuous Accommodating Double Bouquet Cell (4)
+447,NMLCL000526,Layer 4 Continuous Accommodating Double Bouquet Cell (5)
+448,NMLCL000527,Layer 4 Continuous Accommodating Large Basket Cell (1)
+449,NMLCL000528,Layer 4 Continuous Accommodating Large Basket Cell (2)
+450,NMLCL000529,Layer 4 Continuous Accommodating Large Basket Cell (3)
+451,NMLCL000530,Layer 4 Continuous Accommodating Large Basket Cell (4)
+452,NMLCL000531,Layer 4 Continuous Accommodating Large Basket Cell (5)
+453,NMLCL000532,Layer 4 Continuous Accommodating Martinotti Cell (1)
+454,NMLCL000533,Layer 4 Continuous Accommodating Martinotti Cell (2)
+455,NMLCL000534,Layer 4 Continuous Accommodating Martinotti Cell (3)
+456,NMLCL000535,Layer 4 Continuous Accommodating Martinotti Cell (4)
+457,NMLCL000536,Layer 4 Continuous Accommodating Martinotti Cell (5)
+458,NMLCL000537,Layer 4 Continuous Accommodating Nest Basket Cell (1)
+459,NMLCL000538,Layer 4 Continuous Accommodating Nest Basket Cell (2)
+460,NMLCL000539,Layer 4 Continuous Accommodating Nest Basket Cell (3)
+461,NMLCL000540,Layer 4 Continuous Accommodating Nest Basket Cell (4)
+462,NMLCL000541,Layer 4 Continuous Accommodating Nest Basket Cell (5)
+463,NMLCL000542,Layer 4 Continuous Accommodating Neurogliaform Cell (1)
+464,NMLCL000543,Layer 4 Continuous Accommodating Neurogliaform Cell (2)
+465,NMLCL000544,Layer 4 Continuous Accommodating Neurogliaform Cell (3)
+466,NMLCL000545,Layer 4 Continuous Accommodating Neurogliaform Cell (4)
+467,NMLCL000546,Layer 4 Continuous Accommodating Neurogliaform Cell (5)
+468,NMLCL000547,Layer 4 Continuous Accommodating Small Basket Cell (1)
+469,NMLCL000548,Layer 4 Continuous Accommodating Small Basket Cell (2)
+470,NMLCL000549,Layer 4 Continuous Accommodating Small Basket Cell (3)
+471,NMLCL000550,Layer 4 Continuous Accommodating Small Basket Cell (4)
+472,NMLCL000551,Layer 4 Continuous Accommodating Small Basket Cell (5)
+473,NMLCL000552,Layer 5 Continuous Accommodating Bipolar Cell (1)
+474,NMLCL000553,Layer 5 Continuous Accommodating Bipolar Cell (2)
+475,NMLCL000554,Layer 5 Continuous Accommodating Bipolar Cell (3)
+476,NMLCL000555,Layer 5 Continuous Accommodating Bipolar Cell (4)
+477,NMLCL000556,Layer 5 Continuous Accommodating Bipolar Cell (5)
+478,NMLCL000557,Layer 5 Continuous Accommodating Bitufted Cell (1)
+479,NMLCL000558,Layer 5 Continuous Accommodating Bitufted Cell (2)
+480,NMLCL000559,Layer 5 Continuous Accommodating Bitufted Cell (3)
+481,NMLCL000560,Layer 5 Continuous Accommodating Bitufted Cell (4)
+482,NMLCL000561,Layer 5 Continuous Accommodating Bitufted Cell (5)
+483,NMLCL000562,Layer 5 Continuous Accommodating Chandelier Cell (1)
+484,NMLCL000563,Layer 5 Continuous Accommodating Chandelier Cell (2)
+485,NMLCL000564,Layer 5 Continuous Accommodating Chandelier Cell (3)
+486,NMLCL000565,Layer 5 Continuous Accommodating Chandelier Cell (4)
+487,NMLCL000566,Layer 5 Continuous Accommodating Chandelier Cell (5)
+488,NMLCL000567,Layer 5 Continuous Accommodating Double Bouquet Cell (1)
+489,NMLCL000568,Layer 5 Continuous Accommodating Double Bouquet Cell (2)
+490,NMLCL000569,Layer 5 Continuous Accommodating Double Bouquet Cell (3)
+491,NMLCL000570,Layer 5 Continuous Accommodating Double Bouquet Cell (4)
+492,NMLCL000571,Layer 5 Continuous Accommodating Double Bouquet Cell (5)
+493,NMLCL000572,Layer 5 Continuous Accommodating Large Basket Cell (1)
+494,NMLCL000573,Layer 5 Continuous Accommodating Large Basket Cell (2)
+495,NMLCL000574,Layer 5 Continuous Accommodating Large Basket Cell (3)
+496,NMLCL000575,Layer 5 Continuous Accommodating Large Basket Cell (4)
+497,NMLCL000576,Layer 5 Continuous Accommodating Large Basket Cell (5)
+498,NMLCL000577,Layer 5 Continuous Accommodating Martinotti Cell (1)
+499,NMLCL000578,Layer 5 Continuous Accommodating Martinotti Cell (2)
+500,NMLCL000579,Layer 5 Continuous Accommodating Martinotti Cell (3)
+501,NMLCL000580,Layer 5 Continuous Accommodating Martinotti Cell (4)
+502,NMLCL000581,Layer 5 Continuous Accommodating Martinotti Cell (5)
+503,NMLCL000582,Layer 5 Continuous Accommodating Nest Basket Cell (1)
+504,NMLCL000583,Layer 5 Continuous Accommodating Nest Basket Cell (2)
+505,NMLCL000584,Layer 5 Continuous Accommodating Nest Basket Cell (3)
+506,NMLCL000585,Layer 5 Continuous Accommodating Nest Basket Cell (4)
+507,NMLCL000586,Layer 5 Continuous Accommodating Nest Basket Cell (5)
+508,NMLCL000587,Layer 5 Continuous Accommodating Neurogliaform Cell (1)
+509,NMLCL000588,Layer 5 Continuous Accommodating Neurogliaform Cell (2)
+510,NMLCL000589,Layer 5 Continuous Accommodating Neurogliaform Cell (3)
+511,NMLCL000590,Layer 5 Continuous Accommodating Neurogliaform Cell (4)
+512,NMLCL000591,Layer 5 Continuous Accommodating Neurogliaform Cell (5)
+513,NMLCL000592,Layer 5 Continuous Accommodating Small Basket Cell (1)
+514,NMLCL000593,Layer 5 Continuous Accommodating Small Basket Cell (2)
+515,NMLCL000594,Layer 5 Continuous Accommodating Small Basket Cell (3)
+516,NMLCL000595,Layer 5 Continuous Accommodating Small Basket Cell (4)
+517,NMLCL000596,Layer 5 Continuous Accommodating Small Basket Cell (5)
+518,NMLCL000597,Layer 6 Continuous Accommodating Bipolar Cell (1)
+519,NMLCL000598,Layer 6 Continuous Accommodating Bipolar Cell (2)
+520,NMLCL000599,Layer 6 Continuous Accommodating Bipolar Cell (3)
+521,NMLCL000600,Layer 6 Continuous Accommodating Bipolar Cell (4)
+522,NMLCL000601,Layer 6 Continuous Accommodating Bipolar Cell (5)
+523,NMLCL000602,Layer 6 Continuous Accommodating Bitufted Cell (1)
+524,NMLCL000603,Layer 6 Continuous Accommodating Bitufted Cell (2)
+525,NMLCL000604,Layer 6 Continuous Accommodating Bitufted Cell (3)
+526,NMLCL000605,Layer 6 Continuous Accommodating Bitufted Cell (4)
+527,NMLCL000606,Layer 6 Continuous Accommodating Bitufted Cell (5)
+528,NMLCL000607,Layer 6 Continuous Accommodating Chandelier Cell (1)
+529,NMLCL000608,Layer 6 Continuous Accommodating Chandelier Cell (2)
+530,NMLCL000609,Layer 6 Continuous Accommodating Chandelier Cell (3)
+531,NMLCL000610,Layer 6 Continuous Accommodating Chandelier Cell (4)
+532,NMLCL000611,Layer 6 Continuous Accommodating Chandelier Cell (5)
+533,NMLCL000612,Layer 6 Continuous Accommodating Double Bouquet Cell (1)
+534,NMLCL000613,Layer 6 Continuous Accommodating Double Bouquet Cell (2)
+535,NMLCL000614,Layer 6 Continuous Accommodating Double Bouquet Cell (3)
+536,NMLCL000615,Layer 6 Continuous Accommodating Double Bouquet Cell (4)
+537,NMLCL000616,Layer 6 Continuous Accommodating Double Bouquet Cell (5)
+538,NMLCL000617,Layer 6 Continuous Accommodating Martinotti Cell (1)
+539,NMLCL000618,Layer 6 Continuous Accommodating Martinotti Cell (2)
+540,NMLCL000619,Layer 6 Continuous Accommodating Martinotti Cell (3)
+541,NMLCL000620,Layer 6 Continuous Accommodating Martinotti Cell (4)
+542,NMLCL000621,Layer 6 Continuous Accommodating Martinotti Cell (5)
+543,NMLCL000622,Layer 6 Continuous Accommodating Nest Basket Cell (1)
+544,NMLCL000623,Layer 6 Continuous Accommodating Nest Basket Cell (2)
+545,NMLCL000624,Layer 6 Continuous Accommodating Nest Basket Cell (3)
+546,NMLCL000625,Layer 6 Continuous Accommodating Nest Basket Cell (4)
+547,NMLCL000626,Layer 6 Continuous Accommodating Nest Basket Cell (5)
+548,NMLCL000627,Layer 6 Continuous Accommodating Neurogliaform Cell (1)
+549,NMLCL000628,Layer 6 Continuous Accommodating Neurogliaform Cell (2)
+550,NMLCL000629,Layer 6 Continuous Accommodating Neurogliaform Cell (3)
+551,NMLCL000630,Layer 6 Continuous Accommodating Neurogliaform Cell (4)
+552,NMLCL000631,Layer 6 Continuous Accommodating Neurogliaform Cell (5)
+553,NMLCL000632,Layer 6 Continuous Accommodating Small Basket Cell (1)
+554,NMLCL000633,Layer 6 Continuous Accommodating Small Basket Cell (2)
+555,NMLCL000634,Layer 6 Continuous Accommodating Small Basket Cell (3)
+556,NMLCL000635,Layer 6 Continuous Accommodating Small Basket Cell (4)
+557,NMLCL000636,Layer 6 Continuous Accommodating Small Basket Cell (5)
+558,NMLCL000637,Layer 2/3 Continuous Accommodating Pyramidal Cell (1)
+559,NMLCL000638,Layer 2/3 Continuous Accommodating Pyramidal Cell (2)
+560,NMLCL000639,Layer 2/3 Continuous Accommodating Pyramidal Cell (3)
+561,NMLCL000640,Layer 2/3 Continuous Accommodating Pyramidal Cell (4)
+562,NMLCL000641,Layer 2/3 Continuous Accommodating Pyramidal Cell (5)
+563,NMLCL000642,Layer 4 Continuous Accommodating Pyramidal Cell (1)
+564,NMLCL000643,Layer 4 Continuous Accommodating Pyramidal Cell (2)
+565,NMLCL000644,Layer 4 Continuous Accommodating Pyramidal Cell (3)
+566,NMLCL000645,Layer 4 Continuous Accommodating Pyramidal Cell (4)
+567,NMLCL000646,Layer 4 Continuous Accommodating Pyramidal Cell (5)
+568,NMLCL000647,Layer 4 Continuous Accommodating Star Pyramidal Cell (1)
+569,NMLCL000648,Layer 4 Continuous Accommodating Star Pyramidal Cell (2)
+570,NMLCL000649,Layer 4 Continuous Accommodating Star Pyramidal Cell (3)
+571,NMLCL000650,Layer 4 Continuous Accommodating Star Pyramidal Cell (4)
+572,NMLCL000651,Layer 4 Continuous Accommodating Star Pyramidal Cell (5)
+573,NMLCL000652,Layer 4 Continuous Accommodating Spiny Stellate Cell (1)
+574,NMLCL000653,Layer 4 Continuous Accommodating Spiny Stellate Cell (2)
+575,NMLCL000654,Layer 4 Continuous Accommodating Spiny Stellate Cell (3)
+576,NMLCL000655,Layer 4 Continuous Accommodating Spiny Stellate Cell (4)
+577,NMLCL000656,Layer 4 Continuous Accommodating Spiny Stellate Cell (5)
+578,NMLCL000657,Layer 6 Continuous Accommodating Pyramidal Cell with bipolar apical-like dendrites (1)
+579,NMLCL000658,Layer 6 Continuous Accommodating Pyramidal Cell with bipolar apical-like dendrites (2)
+580,NMLCL000659,Layer 6 Continuous Accommodating Pyramidal Cell with bipolar apical-like dendrites (3)
+581,NMLCL000660,Layer 6 Continuous Accommodating Pyramidal Cell with bipolar apical-like dendrites (4)
+582,NMLCL000661,Layer 6 Continuous Accommodating Pyramidal Cell with bipolar apical-like dendrites (5)
+583,NMLCL000662,Layer 6 Continuous Accommodating Pyramidal Cell with inverted apical-like dendrites (1)
+584,NMLCL000663,Layer 6 Continuous Accommodating Pyramidal Cell with inverted apical-like dendrites (2)
+585,NMLCL000664,Layer 6 Continuous Accommodating Pyramidal Cell with inverted apical-like dendrites (3)
+586,NMLCL000665,Layer 6 Continuous Accommodating Pyramidal Cell with inverted apical-like dendrites (4)
+587,NMLCL000666,Layer 6 Continuous Accommodating Pyramidal Cell with inverted apical-like dendrites (5)
+588,NMLCL000667,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 1 (1)
+589,NMLCL000668,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 1 (2)
+590,NMLCL000669,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 1 (3)
+591,NMLCL000670,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 1 (4)
+592,NMLCL000671,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 1 (5)
+593,NMLCL000672,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 4 (1)
+594,NMLCL000673,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 4 (2)
+595,NMLCL000674,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 4 (3)
+596,NMLCL000675,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 4 (4)
+597,NMLCL000676,Layer 6 Continuous Accommodating Tufted Pyramidal Cell with apical dendrites terminating in layer 4 (5)
+598,NMLCL000677,Layer 6 Continuous Accommodating Untufted Pyramidal Cell (1)
+599,NMLCL000678,Layer 6 Continuous Accommodating Untufted Pyramidal Cell (2)
+600,NMLCL000679,Layer 6 Continuous Accommodating Untufted Pyramidal Cell (3)
+601,NMLCL000680,Layer 6 Continuous Accommodating Untufted Pyramidal Cell (4)
+602,NMLCL000681,Layer 6 Continuous Accommodating Untufted Pyramidal Cell (5)
+603,NMLCL000682,Layer 5 Continuous Accommodating Slender-tufted Pyramidal Cell (1)
+604,NMLCL000683,Layer 5 Continuous Accommodating Slender-tufted Pyramidal Cell (2)
+605,NMLCL000684,Layer 5 Continuous Accommodating Slender-tufted Pyramidal Cell (3)
+606,NMLCL000685,Layer 5 Continuous Accommodating Slender-tufted Pyramidal Cell (4)
+607,NMLCL000686,Layer 5 Continuous Accommodating Slender-tufted Pyramidal Cell (5)
+608,NMLCL000687,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with a late bifurcating apical tuft (1)
+609,NMLCL000688,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with a late bifurcating apical tuft (2)
+610,NMLCL000689,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with a late bifurcating apical tuft (3)
+611,NMLCL000690,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with a late bifurcating apical tuft (4)
+612,NMLCL000691,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with a late bifurcating apical tuft (5)
+613,NMLCL000692,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with an early bifurcating apical tuft (1)
+614,NMLCL000693,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with an early bifurcating apical tuft (2)
+615,NMLCL000694,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with an early bifurcating apical tuft (3)
+616,NMLCL000695,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with an early bifurcating apical tuft (4)
+617,NMLCL000696,Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with an early bifurcating apical tuft (5)
+618,NMLCL000697,Layer 5 Continuous Accommodating Untufted Pyramidal Cell (1)
+619,NMLCL000698,Layer 5 Continuous Accommodating Untufted Pyramidal Cell (2)
+620,NMLCL000699,Layer 5 Continuous Accommodating Untufted Pyramidal Cell (3)
+621,NMLCL000700,Layer 5 Continuous Accommodating Untufted Pyramidal Cell (4)
+622,NMLCL000701,Layer 5 Continuous Accommodating Untufted Pyramidal Cell (5)
+623,NMLCL000702,Layer 1 Continuous Irregular Horizontal Axon Cell (1)
+624,NMLCL000703,Layer 1 Continuous Irregular Horizontal Axon Cell (2)
+625,NMLCL000704,Layer 1 Continuous Irregular Horizontal Axon Cell (3)
+626,NMLCL000705,Layer 1 Continuous Irregular Horizontal Axon Cell (4)
+627,NMLCL000706,Layer 1 Continuous Irregular Horizontal Axon Cell (5)
+628,NMLCL000707,Layer 2/3 Continuous Irregular Nest Basket Cell (1)
+629,NMLCL000708,Layer 2/3 Continuous Irregular Nest Basket Cell (2)
+630,NMLCL000709,Layer 2/3 Continuous Irregular Nest Basket Cell (3)
+631,NMLCL000710,Layer 2/3 Continuous Irregular Nest Basket Cell (4)
+632,NMLCL000711,Layer 2/3 Continuous Irregular Nest Basket Cell (5)
+633,NMLCL000712,Layer 4 Continuous Irregular Double Bouquet Cell (1)
+634,NMLCL000713,Layer 4 Continuous Irregular Double Bouquet Cell (2)
+635,NMLCL000714,Layer 4 Continuous Irregular Double Bouquet Cell (3)
+636,NMLCL000715,Layer 4 Continuous Irregular Double Bouquet Cell (4)
+637,NMLCL000716,Layer 4 Continuous Irregular Double Bouquet Cell (5)
+638,NMLCL000717,Layer 4 Continuous Irregular Nest Basket Cell (1)
+639,NMLCL000718,Layer 4 Continuous Irregular Nest Basket Cell (2)
+640,NMLCL000719,Layer 4 Continuous Irregular Nest Basket Cell (3)
+641,NMLCL000720,Layer 4 Continuous Irregular Nest Basket Cell (4)
+642,NMLCL000721,Layer 4 Continuous Irregular Nest Basket Cell (5)
+643,NMLCL000722,Layer 5 Continuous Irregular Double Bouquet Cell (1)
+644,NMLCL000723,Layer 5 Continuous Irregular Double Bouquet Cell (2)
+645,NMLCL000724,Layer 5 Continuous Irregular Double Bouquet Cell (3)
+646,NMLCL000725,Layer 5 Continuous Irregular Double Bouquet Cell (4)
+647,NMLCL000726,Layer 5 Continuous Irregular Double Bouquet Cell (5)
+648,NMLCL000727,Layer 5 Continuous Irregular Large Basket Cell (1)
+649,NMLCL000728,Layer 5 Continuous Irregular Large Basket Cell (2)
+650,NMLCL000729,Layer 5 Continuous Irregular Large Basket Cell (3)
+651,NMLCL000730,Layer 5 Continuous Irregular Large Basket Cell (4)
+652,NMLCL000731,Layer 5 Continuous Irregular Large Basket Cell (5)
+653,NMLCL000732,Layer 5 Continuous Irregular Nest Basket Cell (1)
+654,NMLCL000733,Layer 5 Continuous Irregular Nest Basket Cell (2)
+655,NMLCL000734,Layer 5 Continuous Irregular Nest Basket Cell (3)
+656,NMLCL000735,Layer 5 Continuous Irregular Nest Basket Cell (4)
+657,NMLCL000736,Layer 5 Continuous Irregular Nest Basket Cell (5)
+658,NMLCL000737,Layer 6 Continuous Irregular Double Bouquet Cell (1)
+659,NMLCL000738,Layer 6 Continuous Irregular Double Bouquet Cell (2)
+660,NMLCL000739,Layer 6 Continuous Irregular Double Bouquet Cell (3)
+661,NMLCL000740,Layer 6 Continuous Irregular Double Bouquet Cell (4)
+662,NMLCL000741,Layer 6 Continuous Irregular Double Bouquet Cell (5)
+663,NMLCL000742,Layer 6 Continuous Irregular Martinotti Cell (1)
+664,NMLCL000743,Layer 6 Continuous Irregular Martinotti Cell (2)
+665,NMLCL000744,Layer 6 Continuous Irregular Martinotti Cell (3)
+666,NMLCL000745,Layer 6 Continuous Irregular Martinotti Cell (4)
+667,NMLCL000746,Layer 6 Continuous Irregular Martinotti Cell (5)
+668,NMLCL000747,Layer 6 Continuous Irregular Nest Basket Cell (1)
+669,NMLCL000748,Layer 6 Continuous Irregular Nest Basket Cell (2)
+670,NMLCL000749,Layer 6 Continuous Irregular Nest Basket Cell (3)
+671,NMLCL000750,Layer 6 Continuous Irregular Nest Basket Cell (4)
+672,NMLCL000751,Layer 6 Continuous Irregular Nest Basket Cell (5)
+673,NMLCL000752,Layer 1 Continuous Non-accommodating Descending Axon Cell (1)
+674,NMLCL000753,Layer 1 Continuous Non-accommodating Descending Axon Cell (2)
+675,NMLCL000754,Layer 1 Continuous Non-accommodating Descending Axon Cell (3)
+676,NMLCL000755,Layer 1 Continuous Non-accommodating Descending Axon Cell (4)
+677,NMLCL000756,Layer 1 Continuous Non-accommodating Descending Axon Cell (5)
+678,NMLCL000757,Layer 1 Continuous Non-accommodating Large Axon Cell (1)
+679,NMLCL000758,Layer 1 Continuous Non-accommodating Large Axon Cell (2)
+680,NMLCL000759,Layer 1 Continuous Non-accommodating Large Axon Cell (3)
+681,NMLCL000760,Layer 1 Continuous Non-accommodating Large Axon Cell (4)
+682,NMLCL000761,Layer 1 Continuous Non-accommodating Large Axon Cell (5)
+683,NMLCL000762,Layer 1 Continuous Non-accommodating Horizontal Axon Cell (1)
+684,NMLCL000763,Layer 1 Continuous Non-accommodating Horizontal Axon Cell (2)
+685,NMLCL000764,Layer 1 Continuous Non-accommodating Horizontal Axon Cell (3)
+686,NMLCL000765,Layer 1 Continuous Non-accommodating Horizontal Axon Cell (4)
+687,NMLCL000766,Layer 1 Continuous Non-accommodating Horizontal Axon Cell (5)
+688,NMLCL000767,Layer 1 Continuous Non-accommodating Neurogliaform Cell with dense axonal arborization (1)
+689,NMLCL000768,Layer 1 Continuous Non-accommodating Neurogliaform Cell with dense axonal arborization (2)
+690,NMLCL000769,Layer 1 Continuous Non-accommodating Neurogliaform Cell with dense axonal arborization (3)
+691,NMLCL000770,Layer 1 Continuous Non-accommodating Neurogliaform Cell with dense axonal arborization (4)
+692,NMLCL000771,Layer 1 Continuous Non-accommodating Neurogliaform Cell with dense axonal arborization (5)
+693,NMLCL000772,Layer 1 Continuous Non-accommodating Neurogliaform Cell with slender axonal arborization (1)
+694,NMLCL000773,Layer 1 Continuous Non-accommodating Neurogliaform Cell with slender axonal arborization (2)
+695,NMLCL000774,Layer 1 Continuous Non-accommodating Neurogliaform Cell with slender axonal arborization (3)
+696,NMLCL000775,Layer 1 Continuous Non-accommodating Neurogliaform Cell with slender axonal arborization (4)
+697,NMLCL000776,Layer 1 Continuous Non-accommodating Neurogliaform Cell with slender axonal arborization (5)
+698,NMLCL000777,Layer 1 Continuous Non-accommodating Small Axon Cell (1)
+699,NMLCL000778,Layer 1 Continuous Non-accommodating Small Axon Cell (2)
+700,NMLCL000779,Layer 1 Continuous Non-accommodating Small Axon Cell (3)
+701,NMLCL000780,Layer 1 Continuous Non-accommodating Small Axon Cell (4)
+702,NMLCL000781,Layer 1 Continuous Non-accommodating Small Axon Cell (5)
+703,NMLCL000782,Layer 2/3 Continuous Non-accommodating Bipolar Cell (1)
+704,NMLCL000783,Layer 2/3 Continuous Non-accommodating Bipolar Cell (2)
+705,NMLCL000784,Layer 2/3 Continuous Non-accommodating Bipolar Cell (3)
+706,NMLCL000785,Layer 2/3 Continuous Non-accommodating Bipolar Cell (4)
+707,NMLCL000786,Layer 2/3 Continuous Non-accommodating Bipolar Cell (5)
+708,NMLCL000787,Layer 2/3 Continuous Non-accommodating Bitufted Cell (1)
+709,NMLCL000788,Layer 2/3 Continuous Non-accommodating Bitufted Cell (2)
+710,NMLCL000789,Layer 2/3 Continuous Non-accommodating Bitufted Cell (3)
+711,NMLCL000790,Layer 2/3 Continuous Non-accommodating Bitufted Cell (4)
+712,NMLCL000791,Layer 2/3 Continuous Non-accommodating Bitufted Cell (5)
+713,NMLCL000792,Layer 2/3 Continuous Non-accommodating Chandelier Cell (1)
+714,NMLCL000793,Layer 2/3 Continuous Non-accommodating Chandelier Cell (2)
+715,NMLCL000794,Layer 2/3 Continuous Non-accommodating Chandelier Cell (3)
+716,NMLCL000795,Layer 2/3 Continuous Non-accommodating Chandelier Cell (4)
+717,NMLCL000796,Layer 2/3 Continuous Non-accommodating Chandelier Cell (5)
+718,NMLCL000797,Layer 2/3 Continuous Non-accommodating Large Basket Cell (1)
+719,NMLCL000798,Layer 2/3 Continuous Non-accommodating Large Basket Cell (2)
+720,NMLCL000799,Layer 2/3 Continuous Non-accommodating Large Basket Cell (3)
+721,NMLCL000800,Layer 2/3 Continuous Non-accommodating Large Basket Cell (4)
+722,NMLCL000801,Layer 2/3 Continuous Non-accommodating Large Basket Cell (5)
+723,NMLCL000802,Layer 2/3 Continuous Non-accommodating Martinotti Cell (1)
+724,NMLCL000803,Layer 2/3 Continuous Non-accommodating Martinotti Cell (2)
+725,NMLCL000804,Layer 2/3 Continuous Non-accommodating Martinotti Cell (3)
+726,NMLCL000805,Layer 2/3 Continuous Non-accommodating Martinotti Cell (4)
+727,NMLCL000806,Layer 2/3 Continuous Non-accommodating Martinotti Cell (5)
+728,NMLCL000807,Layer 2/3 Continuous Non-accommodating Nest Basket Cell (1)
+729,NMLCL000808,Layer 2/3 Continuous Non-accommodating Nest Basket Cell (2)
+730,NMLCL000809,Layer 2/3 Continuous Non-accommodating Nest Basket Cell (3)
+731,NMLCL000810,Layer 2/3 Continuous Non-accommodating Nest Basket Cell (4)
+732,NMLCL000811,Layer 2/3 Continuous Non-accommodating Nest Basket Cell (5)
+733,NMLCL000812,Layer 2/3 Continuous Non-accommodating Neurogliaform Cell (1)
+734,NMLCL000813,Layer 2/3 Continuous Non-accommodating Neurogliaform Cell (2)
+735,NMLCL000814,Layer 2/3 Continuous Non-accommodating Neurogliaform Cell (3)
+736,NMLCL000815,Layer 2/3 Continuous Non-accommodating Neurogliaform Cell (4)
+737,NMLCL000816,Layer 2/3 Continuous Non-accommodating Neurogliaform Cell (5)
+738,NMLCL000817,Layer 4 Continuous Non-accommodating Bipolar Cell (1)
+739,NMLCL000818,Layer 4 Continuous Non-accommodating Bipolar Cell (2)
+740,NMLCL000819,Layer 4 Continuous Non-accommodating Bipolar Cell (3)
+741,NMLCL000820,Layer 4 Continuous Non-accommodating Bipolar Cell (4)
+742,NMLCL000821,Layer 4 Continuous Non-accommodating Bipolar Cell (5)
+743,NMLCL000822,Layer 4 Continuous Non-accommodating Bitufted Cell (1)
+744,NMLCL000823,Layer 4 Continuous Non-accommodating Bitufted Cell (2)
+745,NMLCL000824,Layer 4 Continuous Non-accommodating Bitufted Cell (3)
+746,NMLCL000825,Layer 4 Continuous Non-accommodating Bitufted Cell (4)
+747,NMLCL000826,Layer 4 Continuous Non-accommodating Bitufted Cell (5)
+748,NMLCL000827,Layer 4 Continuous Non-accommodating Chandelier Cell (1)
+749,NMLCL000828,Layer 4 Continuous Non-accommodating Chandelier Cell (2)
+750,NMLCL000829,Layer 4 Continuous Non-accommodating Chandelier Cell (3)
+751,NMLCL000830,Layer 4 Continuous Non-accommodating Chandelier Cell (4)
+752,NMLCL000831,Layer 4 Continuous Non-accommodating Chandelier Cell (5)
+753,NMLCL000832,Layer 4 Continuous Non-accommodating Double Bouquet Cell (1)
+754,NMLCL000833,Layer 4 Continuous Non-accommodating Double Bouquet Cell (2)
+755,NMLCL000834,Layer 4 Continuous Non-accommodating Double Bouquet Cell (3)
+756,NMLCL000835,Layer 4 Continuous Non-accommodating Double Bouquet Cell (4)
+757,NMLCL000836,Layer 4 Continuous Non-accommodating Double Bouquet Cell (5)
+758,NMLCL000837,Layer 4 Continuous Non-accommodating Large Basket Cell (1)
+759,NMLCL000838,Layer 4 Continuous Non-accommodating Large Basket Cell (2)
+760,NMLCL000839,Layer 4 Continuous Non-accommodating Large Basket Cell (3)
+761,NMLCL000840,Layer 4 Continuous Non-accommodating Large Basket Cell (4)
+762,NMLCL000841,Layer 4 Continuous Non-accommodating Large Basket Cell (5)
+763,NMLCL000842,Layer 4 Continuous Non-accommodating Martinotti Cell (1)
+764,NMLCL000843,Layer 4 Continuous Non-accommodating Martinotti Cell (2)
+765,NMLCL000844,Layer 4 Continuous Non-accommodating Martinotti Cell (3)
+766,NMLCL000845,Layer 4 Continuous Non-accommodating Martinotti Cell (4)
+767,NMLCL000846,Layer 4 Continuous Non-accommodating Martinotti Cell (5)
+768,NMLCL000847,Layer 4 Continuous Non-accommodating Nest Basket Cell (1)
+769,NMLCL000848,Layer 4 Continuous Non-accommodating Nest Basket Cell (2)
+770,NMLCL000849,Layer 4 Continuous Non-accommodating Nest Basket Cell (3)
+771,NMLCL000850,Layer 4 Continuous Non-accommodating Nest Basket Cell (4)
+772,NMLCL000851,Layer 4 Continuous Non-accommodating Nest Basket Cell (5)
+773,NMLCL000852,Layer 4 Continuous Non-accommodating Neurogliaform Cell (1)
+774,NMLCL000853,Layer 4 Continuous Non-accommodating Neurogliaform Cell (2)
+775,NMLCL000854,Layer 4 Continuous Non-accommodating Neurogliaform Cell (3)
+776,NMLCL000855,Layer 4 Continuous Non-accommodating Neurogliaform Cell (4)
+777,NMLCL000856,Layer 4 Continuous Non-accommodating Neurogliaform Cell (5)
+778,NMLCL000857,Layer 5 Continuous Non-accommodating Bipolar Cell (1)
+779,NMLCL000858,Layer 5 Continuous Non-accommodating Bipolar Cell (2)
+780,NMLCL000859,Layer 5 Continuous Non-accommodating Bipolar Cell (3)
+781,NMLCL000860,Layer 5 Continuous Non-accommodating Bipolar Cell (4)
+782,NMLCL000861,Layer 5 Continuous Non-accommodating Bipolar Cell (5)
+783,NMLCL000862,Layer 5 Continuous Non-accommodating Bitufted Cell (1)
+784,NMLCL000863,Layer 5 Continuous Non-accommodating Bitufted Cell (2)
+785,NMLCL000864,Layer 5 Continuous Non-accommodating Bitufted Cell (3)
+786,NMLCL000865,Layer 5 Continuous Non-accommodating Bitufted Cell (4)
+787,NMLCL000866,Layer 5 Continuous Non-accommodating Bitufted Cell (5)
+788,NMLCL000867,Layer 5 Continuous Non-accommodating Chandelier Cell (1)
+789,NMLCL000868,Layer 5 Continuous Non-accommodating Chandelier Cell (2)
+790,NMLCL000869,Layer 5 Continuous Non-accommodating Chandelier Cell (3)
+791,NMLCL000870,Layer 5 Continuous Non-accommodating Chandelier Cell (4)
+792,NMLCL000871,Layer 5 Continuous Non-accommodating Chandelier Cell (5)
+793,NMLCL000872,Layer 5 Continuous Non-accommodating Double Bouquet Cell (1)
+794,NMLCL000873,Layer 5 Continuous Non-accommodating Double Bouquet Cell (2)
+795,NMLCL000874,Layer 5 Continuous Non-accommodating Double Bouquet Cell (3)
+796,NMLCL000875,Layer 5 Continuous Non-accommodating Double Bouquet Cell (4)
+797,NMLCL000876,Layer 5 Continuous Non-accommodating Double Bouquet Cell (5)
+798,NMLCL000877,Layer 5 Continuous Non-accommodating Large Basket Cell (1)
+799,NMLCL000878,Layer 5 Continuous Non-accommodating Large Basket Cell (2)
+800,NMLCL000879,Layer 5 Continuous Non-accommodating Large Basket Cell (3)
+801,NMLCL000880,Layer 5 Continuous Non-accommodating Large Basket Cell (4)
+802,NMLCL000881,Layer 5 Continuous Non-accommodating Large Basket Cell (5)
+803,NMLCL000882,Layer 5 Continuous Non-accommodating Martinotti Cell (1)
+804,NMLCL000883,Layer 5 Continuous Non-accommodating Martinotti Cell (2)
+805,NMLCL000884,Layer 5 Continuous Non-accommodating Martinotti Cell (3)
+806,NMLCL000885,Layer 5 Continuous Non-accommodating Martinotti Cell (4)
+807,NMLCL000886,Layer 5 Continuous Non-accommodating Martinotti Cell (5)
+808,NMLCL000887,Layer 5 Continuous Non-accommodating Nest Basket Cell (1)
+809,NMLCL000888,Layer 5 Continuous Non-accommodating Nest Basket Cell (2)
+810,NMLCL000889,Layer 5 Continuous Non-accommodating Nest Basket Cell (3)
+811,NMLCL000890,Layer 5 Continuous Non-accommodating Nest Basket Cell (4)
+812,NMLCL000891,Layer 5 Continuous Non-accommodating Nest Basket Cell (5)
+813,NMLCL000892,Layer 5 Continuous Non-accommodating Neurogliaform Cell (1)
+814,NMLCL000893,Layer 5 Continuous Non-accommodating Neurogliaform Cell (2)
+815,NMLCL000894,Layer 5 Continuous Non-accommodating Neurogliaform Cell (3)
+816,NMLCL000895,Layer 5 Continuous Non-accommodating Neurogliaform Cell (4)
+817,NMLCL000896,Layer 5 Continuous Non-accommodating Neurogliaform Cell (5)
+818,NMLCL000897,Layer 6 Continuous Non-accommodating Bipolar Cell (1)
+819,NMLCL000898,Layer 6 Continuous Non-accommodating Bipolar Cell (2)
+820,NMLCL000899,Layer 6 Continuous Non-accommodating Bipolar Cell (3)
+821,NMLCL000900,Layer 6 Continuous Non-accommodating Bipolar Cell (4)
+822,NMLCL000901,Layer 6 Continuous Non-accommodating Bipolar Cell (5)
+823,NMLCL000902,Layer 6 Continuous Non-accommodating Bitufted Cell (1)
+824,NMLCL000903,Layer 6 Continuous Non-accommodating Bitufted Cell (2)
+825,NMLCL000904,Layer 6 Continuous Non-accommodating Bitufted Cell (3)
+826,NMLCL000905,Layer 6 Continuous Non-accommodating Bitufted Cell (4)
+827,NMLCL000906,Layer 6 Continuous Non-accommodating Bitufted Cell (5)
+828,NMLCL000907,Layer 6 Continuous Non-accommodating Chandelier Cell (1)
+829,NMLCL000908,Layer 6 Continuous Non-accommodating Chandelier Cell (2)
+830,NMLCL000909,Layer 6 Continuous Non-accommodating Chandelier Cell (3)
+831,NMLCL000910,Layer 6 Continuous Non-accommodating Chandelier Cell (4)
+832,NMLCL000911,Layer 6 Continuous Non-accommodating Chandelier Cell (5)
+833,NMLCL000912,Layer 6 Continuous Non-accommodating Double Bouquet Cell (1)
+834,NMLCL000913,Layer 6 Continuous Non-accommodating Double Bouquet Cell (2)
+835,NMLCL000914,Layer 6 Continuous Non-accommodating Double Bouquet Cell (3)
+836,NMLCL000915,Layer 6 Continuous Non-accommodating Double Bouquet Cell (4)
+837,NMLCL000916,Layer 6 Continuous Non-accommodating Double Bouquet Cell (5)
+838,NMLCL000917,Layer 6 Continuous Non-accommodating Large Basket Cell (1)
+839,NMLCL000918,Layer 6 Continuous Non-accommodating Large Basket Cell (2)
+840,NMLCL000919,Layer 6 Continuous Non-accommodating Large Basket Cell (3)
+841,NMLCL000920,Layer 6 Continuous Non-accommodating Large Basket Cell (4)
+842,NMLCL000921,Layer 6 Continuous Non-accommodating Large Basket Cell (5)
+843,NMLCL000922,Layer 6 Continuous Non-accommodating Martinotti Cell (1)
+844,NMLCL000923,Layer 6 Continuous Non-accommodating Martinotti Cell (2)
+845,NMLCL000924,Layer 6 Continuous Non-accommodating Martinotti Cell (3)
+846,NMLCL000925,Layer 6 Continuous Non-accommodating Martinotti Cell (4)
+847,NMLCL000926,Layer 6 Continuous Non-accommodating Martinotti Cell (5)
+848,NMLCL000927,Layer 6 Continuous Non-accommodating Nest Basket Cell (1)
+849,NMLCL000928,Layer 6 Continuous Non-accommodating Nest Basket Cell (2)
+850,NMLCL000929,Layer 6 Continuous Non-accommodating Nest Basket Cell (3)
+851,NMLCL000930,Layer 6 Continuous Non-accommodating Nest Basket Cell (4)
+852,NMLCL000931,Layer 6 Continuous Non-accommodating Nest Basket Cell (5)
+853,NMLCL000932,Layer 6 Continuous Non-accommodating Neurogliaform Cell (1)
+854,NMLCL000933,Layer 6 Continuous Non-accommodating Neurogliaform Cell (2)
+855,NMLCL000934,Layer 6 Continuous Non-accommodating Neurogliaform Cell (3)
+856,NMLCL000935,Layer 6 Continuous Non-accommodating Neurogliaform Cell (4)
+857,NMLCL000936,Layer 6 Continuous Non-accommodating Neurogliaform Cell (5)
+858,NMLCL000937,Layer 1 Continuous Stuttering Neurogliaform Cell with dense axonal arborization (1)
+859,NMLCL000938,Layer 1 Continuous Stuttering Neurogliaform Cell with dense axonal arborization (2)
+860,NMLCL000939,Layer 1 Continuous Stuttering Neurogliaform Cell with dense axonal arborization (3)
+861,NMLCL000940,Layer 1 Continuous Stuttering Neurogliaform Cell with dense axonal arborization (4)
+862,NMLCL000941,Layer 1 Continuous Stuttering Neurogliaform Cell with dense axonal arborization (5)
+863,NMLCL000942,Layer 2/3 Continuous Stuttering Large Basket Cell (1)
+864,NMLCL000943,Layer 2/3 Continuous Stuttering Large Basket Cell (2)
+865,NMLCL000944,Layer 2/3 Continuous Stuttering Large Basket Cell (3)
+866,NMLCL000945,Layer 2/3 Continuous Stuttering Large Basket Cell (4)
+867,NMLCL000946,Layer 2/3 Continuous Stuttering Large Basket Cell (5)
+868,NMLCL000947,Layer 2/3 Continuous Stuttering Neurogliaform Cell (1)
+869,NMLCL000948,Layer 2/3 Continuous Stuttering Neurogliaform Cell (2)
+870,NMLCL000949,Layer 2/3 Continuous Stuttering Neurogliaform Cell (3)
+871,NMLCL000950,Layer 2/3 Continuous Stuttering Neurogliaform Cell (4)
+872,NMLCL000951,Layer 2/3 Continuous Stuttering Neurogliaform Cell (5)
+873,NMLCL000952,Layer 4 Continuous Stuttering Large Basket Cell (1)
+874,NMLCL000953,Layer 4 Continuous Stuttering Large Basket Cell (2)
+875,NMLCL000954,Layer 4 Continuous Stuttering Large Basket Cell (3)
+876,NMLCL000955,Layer 4 Continuous Stuttering Large Basket Cell (4)
+877,NMLCL000956,Layer 4 Continuous Stuttering Large Basket Cell (5)
+878,NMLCL000957,Layer 4 Continuous Stuttering Neurogliaform Cell (1)
+879,NMLCL000958,Layer 4 Continuous Stuttering Neurogliaform Cell (2)
+880,NMLCL000959,Layer 4 Continuous Stuttering Neurogliaform Cell (3)
+881,NMLCL000960,Layer 4 Continuous Stuttering Neurogliaform Cell (4)
+882,NMLCL000961,Layer 4 Continuous Stuttering Neurogliaform Cell (5)
+883,NMLCL000962,Layer 5 Continuous Stuttering Large Basket Cell (1)
+884,NMLCL000963,Layer 5 Continuous Stuttering Large Basket Cell (2)
+885,NMLCL000964,Layer 5 Continuous Stuttering Large Basket Cell (3)
+886,NMLCL000965,Layer 5 Continuous Stuttering Large Basket Cell (4)
+887,NMLCL000966,Layer 5 Continuous Stuttering Large Basket Cell (5)
+888,NMLCL000967,Layer 5 Continuous Stuttering Martinotti Cell (1)
+889,NMLCL000968,Layer 5 Continuous Stuttering Martinotti Cell (2)
+890,NMLCL000969,Layer 5 Continuous Stuttering Martinotti Cell (3)
+891,NMLCL000970,Layer 5 Continuous Stuttering Martinotti Cell (4)
+892,NMLCL000971,Layer 5 Continuous Stuttering Martinotti Cell (5)
+893,NMLCL000972,Layer 5 Continuous Stuttering Nest Basket Cell (1)
+894,NMLCL000973,Layer 5 Continuous Stuttering Nest Basket Cell (2)
+895,NMLCL000974,Layer 5 Continuous Stuttering Nest Basket Cell (3)
+896,NMLCL000975,Layer 5 Continuous Stuttering Nest Basket Cell (4)
+897,NMLCL000976,Layer 5 Continuous Stuttering Nest Basket Cell (5)
+898,NMLCL000977,Layer 5 Continuous Stuttering Neurogliaform Cell (1)
+899,NMLCL000978,Layer 5 Continuous Stuttering Neurogliaform Cell (2)
+900,NMLCL000979,Layer 5 Continuous Stuttering Neurogliaform Cell (3)
+901,NMLCL000980,Layer 5 Continuous Stuttering Neurogliaform Cell (4)
+902,NMLCL000981,Layer 5 Continuous Stuttering Neurogliaform Cell (5)
+903,NMLCL000982,Layer 6 Continuous Stuttering Large Basket Cell (1)
+904,NMLCL000983,Layer 6 Continuous Stuttering Large Basket Cell (2)
+905,NMLCL000984,Layer 6 Continuous Stuttering Large Basket Cell (3)
+906,NMLCL000985,Layer 6 Continuous Stuttering Large Basket Cell (4)
+907,NMLCL000986,Layer 6 Continuous Stuttering Large Basket Cell (5)
+908,NMLCL000987,Layer 6 Continuous Stuttering Nest Basket Cell (1)
+909,NMLCL000988,Layer 6 Continuous Stuttering Nest Basket Cell (2)
+910,NMLCL000989,Layer 6 Continuous Stuttering Nest Basket Cell (3)
+911,NMLCL000990,Layer 6 Continuous Stuttering Nest Basket Cell (4)
+912,NMLCL000991,Layer 6 Continuous Stuttering Nest Basket Cell (5)
+913,NMLCL000992,Layer 6 Continuous Stuttering Neurogliaform Cell (1)
+914,NMLCL000993,Layer 6 Continuous Stuttering Neurogliaform Cell (2)
+915,NMLCL000994,Layer 6 Continuous Stuttering Neurogliaform Cell (3)
+916,NMLCL000995,Layer 6 Continuous Stuttering Neurogliaform Cell (4)
+917,NMLCL000996,Layer 6 Continuous Stuttering Neurogliaform Cell (5)
+918,NMLCL000997,Layer 2/3 Delayed Non-accommodating Chandelier Cell (1)
+919,NMLCL000998,Layer 2/3 Delayed Non-accommodating Chandelier Cell (2)
+920,NMLCL000999,Layer 2/3 Delayed Non-accommodating Chandelier Cell (3)
+921,NMLCL001000,Layer 2/3 Delayed Non-accommodating Chandelier Cell (4)
+922,NMLCL001001,Layer 2/3 Delayed Non-accommodating Chandelier Cell (5)
+923,NMLCL001002,Layer 2/3 Delayed Non-accommodating Large Basket Cell (1)
+924,NMLCL001003,Layer 2/3 Delayed Non-accommodating Large Basket Cell (2)
+925,NMLCL001004,Layer 2/3 Delayed Non-accommodating Large Basket Cell (3)
+926,NMLCL001005,Layer 2/3 Delayed Non-accommodating Large Basket Cell (4)
+927,NMLCL001006,Layer 2/3 Delayed Non-accommodating Large Basket Cell (5)
+928,NMLCL001007,Layer 2/3 Delayed Non-accommodating Martinotti Cell (1)
+929,NMLCL001008,Layer 2/3 Delayed Non-accommodating Martinotti Cell (2)
+930,NMLCL001009,Layer 2/3 Delayed Non-accommodating Martinotti Cell (3)
+931,NMLCL001010,Layer 2/3 Delayed Non-accommodating Martinotti Cell (4)
+932,NMLCL001011,Layer 2/3 Delayed Non-accommodating Martinotti Cell (5)
+933,NMLCL001012,Layer 2/3 Delayed Non-accommodating Nest Basket Cell (1)
+934,NMLCL001013,Layer 2/3 Delayed Non-accommodating Nest Basket Cell (2)
+935,NMLCL001014,Layer 2/3 Delayed Non-accommodating Nest Basket Cell (3)
+936,NMLCL001015,Layer 2/3 Delayed Non-accommodating Nest Basket Cell (4)
+937,NMLCL001016,Layer 2/3 Delayed Non-accommodating Nest Basket Cell (5)
+938,NMLCL001017,Layer 2/3 Delayed Non-accommodating Small Basket Cell (1)
+939,NMLCL001018,Layer 2/3 Delayed Non-accommodating Small Basket Cell (2)
+940,NMLCL001019,Layer 2/3 Delayed Non-accommodating Small Basket Cell (3)
+941,NMLCL001020,Layer 2/3 Delayed Non-accommodating Small Basket Cell (4)
+942,NMLCL001021,Layer 2/3 Delayed Non-accommodating Small Basket Cell (5)
+943,NMLCL001022,Layer 4 Delayed Non-accommodating Bitufted Cell (1)
+944,NMLCL001023,Layer 4 Delayed Non-accommodating Bitufted Cell (2)
+945,NMLCL001024,Layer 4 Delayed Non-accommodating Bitufted Cell (3)
+946,NMLCL001025,Layer 4 Delayed Non-accommodating Bitufted Cell (4)
+947,NMLCL001026,Layer 4 Delayed Non-accommodating Bitufted Cell (5)
+948,NMLCL001027,Layer 4 Delayed Non-accommodating Chandelier Cell (1)
+949,NMLCL001028,Layer 4 Delayed Non-accommodating Chandelier Cell (2)
+950,NMLCL001029,Layer 4 Delayed Non-accommodating Chandelier Cell (3)
+951,NMLCL001030,Layer 4 Delayed Non-accommodating Chandelier Cell (4)
+952,NMLCL001031,Layer 4 Delayed Non-accommodating Chandelier Cell (5)
+953,NMLCL001032,Layer 4 Delayed Non-accommodating Large Basket Cell (1)
+954,NMLCL001033,Layer 4 Delayed Non-accommodating Large Basket Cell (2)
+955,NMLCL001034,Layer 4 Delayed Non-accommodating Large Basket Cell (3)
+956,NMLCL001035,Layer 4 Delayed Non-accommodating Large Basket Cell (4)
+957,NMLCL001036,Layer 4 Delayed Non-accommodating Large Basket Cell (5)
+958,NMLCL001037,Layer 4 Delayed Non-accommodating Martinotti Cell (1)
+959,NMLCL001038,Layer 4 Delayed Non-accommodating Martinotti Cell (2)
+960,NMLCL001039,Layer 4 Delayed Non-accommodating Martinotti Cell (3)
+961,NMLCL001040,Layer 4 Delayed Non-accommodating Martinotti Cell (4)
+962,NMLCL001041,Layer 4 Delayed Non-accommodating Martinotti Cell (5)
+963,NMLCL001042,Layer 4 Delayed Non-accommodating Nest Basket Cell (1)
+964,NMLCL001043,Layer 4 Delayed Non-accommodating Nest Basket Cell (2)
+965,NMLCL001044,Layer 4 Delayed Non-accommodating Nest Basket Cell (3)
+966,NMLCL001045,Layer 4 Delayed Non-accommodating Nest Basket Cell (4)
+967,NMLCL001046,Layer 4 Delayed Non-accommodating Nest Basket Cell (5)
+968,NMLCL001047,Layer 4 Delayed Non-accommodating Small Basket Cell (1)
+969,NMLCL001048,Layer 4 Delayed Non-accommodating Small Basket Cell (2)
+970,NMLCL001049,Layer 4 Delayed Non-accommodating Small Basket Cell (3)
+971,NMLCL001050,Layer 4 Delayed Non-accommodating Small Basket Cell (4)
+972,NMLCL001051,Layer 4 Delayed Non-accommodating Small Basket Cell (5)
+973,NMLCL001052,Layer 5 Delayed Non-accommodating Chandelier Cell (1)
+974,NMLCL001053,Layer 5 Delayed Non-accommodating Chandelier Cell (2)
+975,NMLCL001054,Layer 5 Delayed Non-accommodating Chandelier Cell (3)
+976,NMLCL001055,Layer 5 Delayed Non-accommodating Chandelier Cell (4)
+977,NMLCL001056,Layer 5 Delayed Non-accommodating Chandelier Cell (5)
+978,NMLCL001057,Layer 5 Delayed Non-accommodating Large Basket Cell (1)
+979,NMLCL001058,Layer 5 Delayed Non-accommodating Large Basket Cell (2)
+980,NMLCL001059,Layer 5 Delayed Non-accommodating Large Basket Cell (3)
+981,NMLCL001060,Layer 5 Delayed Non-accommodating Large Basket Cell (4)
+982,NMLCL001061,Layer 5 Delayed Non-accommodating Large Basket Cell (5)
+983,NMLCL001062,Layer 5 Delayed Non-accommodating Martinotti Cell (1)
+984,NMLCL001063,Layer 5 Delayed Non-accommodating Martinotti Cell (2)
+985,NMLCL001064,Layer 5 Delayed Non-accommodating Martinotti Cell (3)
+986,NMLCL001065,Layer 5 Delayed Non-accommodating Martinotti Cell (4)
+987,NMLCL001066,Layer 5 Delayed Non-accommodating Martinotti Cell (5)
+988,NMLCL001067,Layer 5 Delayed Non-accommodating Small Basket Cell (1)
+989,NMLCL001068,Layer 5 Delayed Non-accommodating Small Basket Cell (2)
+990,NMLCL001069,Layer 5 Delayed Non-accommodating Small Basket Cell (3)
+991,NMLCL001070,Layer 5 Delayed Non-accommodating Small Basket Cell (4)
+992,NMLCL001071,Layer 5 Delayed Non-accommodating Small Basket Cell (5)
+993,NMLCL001072,Layer 6 Delayed Non-accommodating Chandelier Cell (1)
+994,NMLCL001073,Layer 6 Delayed Non-accommodating Chandelier Cell (2)
+995,NMLCL001074,Layer 6 Delayed Non-accommodating Chandelier Cell (3)
+996,NMLCL001075,Layer 6 Delayed Non-accommodating Chandelier Cell (4)
+997,NMLCL001076,Layer 6 Delayed Non-accommodating Chandelier Cell (5)
+998,NMLCL001077,Layer 6 Delayed Non-accommodating Small Basket Cell (1)
+999,NMLCL001078,Layer 6 Delayed Non-accommodating Small Basket Cell (2)
+1000,NMLCL001079,Layer 6 Delayed Non-accommodating Small Basket Cell (3)
+1001,NMLCL001080,Layer 6 Delayed Non-accommodating Small Basket Cell (4)
+1002,NMLCL001081,Layer 6 Delayed Non-accommodating Small Basket Cell (5)
+1003,NMLCL001082,Layer 2/3 Delayed Stuttering Bipolar Cell (1)
+1004,NMLCL001083,Layer 2/3 Delayed Stuttering Bipolar Cell (2)
+1005,NMLCL001084,Layer 2/3 Delayed Stuttering Bipolar Cell (3)
+1006,NMLCL001085,Layer 2/3 Delayed Stuttering Bipolar Cell (4)
+1007,NMLCL001086,Layer 2/3 Delayed Stuttering Bipolar Cell (5)
+1008,NMLCL001087,Layer 4 Delayed Stuttering Bipolar Cell (1)
+1009,NMLCL001088,Layer 4 Delayed Stuttering Bipolar Cell (2)
+1010,NMLCL001089,Layer 4 Delayed Stuttering Bipolar Cell (3)
+1011,NMLCL001090,Layer 4 Delayed Stuttering Bipolar Cell (4)
+1012,NMLCL001091,Layer 4 Delayed Stuttering Bipolar Cell (5)
+1013,NMLCL001092,Layer 4 Delayed Stuttering Large Basket Cell (1)
+1014,NMLCL001093,Layer 4 Delayed Stuttering Large Basket Cell (2)
+1015,NMLCL001094,Layer 4 Delayed Stuttering Large Basket Cell (3)
+1016,NMLCL001095,Layer 4 Delayed Stuttering Large Basket Cell (4)
+1017,NMLCL001096,Layer 4 Delayed Stuttering Large Basket Cell (5)
+1018,NMLCL001097,Layer 5 Delayed Stuttering Bipolar Cell (1)
+1019,NMLCL001098,Layer 5 Delayed Stuttering Bipolar Cell (2)
+1020,NMLCL001099,Layer 5 Delayed Stuttering Bipolar Cell (3)
+1021,NMLCL001100,Layer 5 Delayed Stuttering Bipolar Cell (4)
+1022,NMLCL001101,Layer 5 Delayed Stuttering Bipolar Cell (5)
+1023,NMLCL001102,Layer 5 Delayed Stuttering Large Basket Cell (1)
+1024,NMLCL001103,Layer 5 Delayed Stuttering Large Basket Cell (2)
+1025,NMLCL001104,Layer 5 Delayed Stuttering Large Basket Cell (3)
+1026,NMLCL001105,Layer 5 Delayed Stuttering Large Basket Cell (4)
+1027,NMLCL001106,Layer 5 Delayed Stuttering Large Basket Cell (5)
+1028,NMLCL001107,Layer 5 Delayed Stuttering Nest Basket Cell (1)
+1029,NMLCL001108,Layer 5 Delayed Stuttering Nest Basket Cell (2)
+1030,NMLCL001109,Layer 5 Delayed Stuttering Nest Basket Cell (3)
+1031,NMLCL001110,Layer 5 Delayed Stuttering Nest Basket Cell (4)
+1032,NMLCL001111,Layer 5 Delayed Stuttering Nest Basket Cell (5)
+1033,NMLCL001112,Layer 6 Delayed Stuttering Bipolar Cell (1)
+1034,NMLCL001113,Layer 6 Delayed Stuttering Bipolar Cell (2)
+1035,NMLCL001114,Layer 6 Delayed Stuttering Bipolar Cell (3)
+1036,NMLCL001115,Layer 6 Delayed Stuttering Bipolar Cell (4)
+1037,NMLCL001116,Layer 6 Delayed Stuttering Bipolar Cell (5)
+1038,NMLCL001117,Layer 6 Delayed Stuttering Nest Basket Cell (1)
+1039,NMLCL001118,Layer 6 Delayed Stuttering Nest Basket Cell (2)
+1040,NMLCL001119,Layer 6 Delayed Stuttering Nest Basket Cell (3)
+1041,NMLCL001120,Layer 6 Delayed Stuttering Nest Basket Cell (4)
+1042,NMLCL001121,Layer 6 Delayed Stuttering Nest Basket Cell (5)
+1044,NMLCL001123,Fast Spiking (FS)
+1045,NMLCL001124,Intrinsically Bursting (IB)
+1046,NMLCL001125,Intrinsically Repetitive Bursting (IBR)
+1048,NMLCL001127,Regular Spiking (RS)
+1055,NMLCL001134,Deep Axoaxonic
+1056,NMLCL001135,Deep Basket
+1057,NMLCL001136,Deep Low Threshold Spiking (LTS) Interneuron
+1058,NMLCL001137,Superficial Layer 2/3 Fast Rhythmic Bursting (FRB) Pyramidal
+1059,NMLCL001138,Superficial Layer 2/3 Regular Spiking (RS) Pyramidal
+1060,NMLCL001139,Layer 4 Spiny Stellate
+1061,NMLCL001140,Layer 5 Tufted Intrinsic Bursting (IB) Pyramidal
+1062,NMLCL001141,Layer 5 Tufted Regular Spiking (RS) Pyramidal
+1063,NMLCL001142,Layer 6 Nontufted Regular Spiking (RS) Pyramidal
+1064,NMLCL001143,Superficial Axoaxonic (Chandelier)
+1065,NMLCL001144,Superficial Basket
+1066,NMLCL001145,Superficial Low Threshold Spiking (LTS) Interneuron
+1089,NMLCL001428,Primary visual area layer 2/3 spiny 486175203
+1090,NMLCL001430,Primary visual area layer 6a spiny 466632464
+1091,NMLCL001431,Primary visual area layer 4 spiny 478586295
+1092,NMLCL001432,Primary visual area layer 4 aspiny 485184849
+1093,NMLCL001433,Primary visual area layer 4 spiny 469798159
+1094,NMLCL001434,Primary visual area layer 4 spiny 476451456
+1095,NMLCL001435,Primary visual area layer 4 spiny 479179020
+1096,NMLCL001437,Primary visual area layer 5 aspiny 330080937
+1097,NMLCL001438,Lateral visual area layer 4 aspiny 313862167
+1098,NMLCL001439,posteromedial visual area layer 4 spiny 485912047
+1099,NMLCL001440,Primary visual area layer 2/3 aspiny 469753383
+1100,NMLCL001441,Primary visual area layer 5 spiny 471758398
+1101,NMLCL001442,Primary visual area layer 5 aspiny 466664172
+1102,NMLCL001443,Primary visual area layer 4 spiny 370351753
+1103,NMLCL001444,Primary visual area layer 4 spiny 476087653
+1104,NMLCL001445,Primary visual area layer 2/3 aspiny 333604946
+1105,NMLCL001447,Primary visual area layer 5 aspiny 478110866
+1106,NMLCL001448,Primary visual area layer 5 aspiny 478396248
+1107,NMLCL001449,Primary visual area layer 5 spiny 480116737
+1108,NMLCL001450,Lateral visual area layer 4 spiny 478499902
+1109,NMLCL001451,Primary visual area layer 5 aspiny 464212183
+1110,NMLCL001452,Primary visual area layer 2/3 aspiny 478107198
+1111,NMLCL001453,Primary visual area layer 5 spiny 314831019
+1112,NMLCL001454,Primary visual area layer 4 spiny 313862022
+1113,NMLCL001455,Postrhinal area layer 5 aspiny 464198958
+1114,NMLCL001456,Primary visual area layer 5 aspiny 475517090
+1115,NMLCL001457,Primary visual area layer 6a spiny 471789504
+1116,NMLCL001458,Primary visual area layer 5 spiny 314822529
+1117,NMLCL001459,Primary visual area layer 5 aspiny 313861608
+1118,NMLCL001460,Primary visual area layer 4 spiny 476054887
+1119,NMLCL001461,posteromedial visual area layer 5 spiny 479770916
+1120,NMLCL001462,Primary visual area layer 4 spiny 386049446
+1121,NMLCL001463,Primary visual area layer 4 spiny 486146717
+1122,NMLCL001464,Primary visual area layer 5 aspiny 396968721
+1123,NMLCL001466,Primary visual area layer 5 spiny 483061182
+1124,NMLCL001467,Primary visual area layer 5 spiny 484559000
+1125,NMLCL001468,Primary visual area layer 5 spiny 485909730
+1126,NMLCL001469,Primary visual area layer 4 spiny 318733871
+1127,NMLCL001470,Primary visual area layer 6a spiny 325941643
+1128,NMLCL001472,Primary visual area layer 4 spiny 324032509
+1129,NMLCL001474,Postrhinal area layer 5 aspiny 464198958
+1130,NMLCL001475,Primary visual area layer 5 spiny 485880739
+1131,NMLCL001476,Primary visual area layer 5 aspiny 469801569
+1132,NMLCL001477,Primary visual area layer 4 spiny 483020137
+1133,NMLCL001478,Primary visual area layer 4 spiny 314642645
+1134,NMLCL001479,Primary visual area layer 4 spiny 395830185
+1135,NMLCL001481,Primary visual area layer 4 spiny 348592897
+1136,NMLCL001482,Primary visual area layer 6a aspiny 488504814
+1137,NMLCL001483,Primary visual area layer 5 aspiny 323475862
+1138,NMLCL001484,Anterolateral visual area layer 4 aspiny 321923685
+1139,NMLCL001485,Primary visual area layer 4 spiny 470098860
+1140,NMLCL001488,Primary visual area layer 4 spiny 324025371
+1141,NMLCL001489,Primary visual area layer 2/3 sparsely spiny 324266189
+1142,NMLCL001491,Postrhinal area layer 5 aspiny 323834998
+1143,NMLCL001492,Primary visual area layer 5 spiny 475744706
+1144,NMLCL001493,Primary visual area layer 2/3 aspiny 464188580
+1145,NMLCL001494,Primary visual area layer 5 aspiny 484742372
+1146,NMLCL001495,Primary visual area layer 5 spiny 478888052
+1147,NMLCL001496,Primary visual area layer 4 spiny 487601493
+1148,NMLCL001497,Primary visual area layer 5 spiny 354190013
+1149,NMLCL001498,Primary visual area layer 6a spiny 471786879
+1150,NMLCL001499,Primary visual area layer 2/3 aspiny 327962063
+1151,NMLCL001500,posteromedial visual area layer 4 spiny 321906005
+1152,NMLCL001501,Primary visual area layer 5 spiny 485574832
+1153,NMLCL001502,Primary visual area layer 4 spiny 320207387
+1154,NMLCL001503,Primary visual area layer 6a aspiny 313862306
+1155,NMLCL001504,Primary visual area layer 4 spiny 479704527
+1156,NMLCL001505,Postrhinal area layer 5 aspiny 464198958
+1157,NMLCL001506,Primary visual area layer 6a spiny 471819401
+1158,NMLCL001507,Primary visual area layer 4 spiny 476457450
+1159,NMLCL001508,Primary visual area layer 4 spiny 479728896
+1160,NMLCL001509,Primary visual area layer 5 aspiny 318556138
+1161,NMLCL001510,Primary visual area layer 5 spiny 487664663
+1162,NMLCL001512,Postrhinal area layer 5 aspiny 323834998
+1163,NMLCL001513,Primary visual area layer 2/3 aspiny 324493977
+1164,NMLCL001514,Primary visual area layer 4 spiny 314900022
+1165,NMLCL001515,Primary visual area layer 4 aspiny 318331342
+1166,NMLCL001516,Primary visual area layer 6a spiny 471410185
+1167,NMLCL001517,Primary visual area layer 5 aspiny 321023397
+1168,NMLCL001519,Primary visual area layer 5 spiny 486111903
+1169,NMLCL001521,Primary visual area layer 4 spiny 422738880
+1170,NMLCL001522,Primary visual area layer 2/3 spiny 480124551
+1171,NMLCL001524,Primary visual area layer 5 sparsely spiny 324466858
+1172,NMLCL001525,Primary visual area layer 5 spiny 314804042
+1173,NMLCL001526,Primary visual area layer 4 spiny 397351623
+1174,NMLCL001527,Primary visual area layer 4 spiny 476616076
+1175,NMLCL001530,Primary visual area layer 5 spiny 468120757
+1176,NMLCL001531,Primary visual area layer 6a aspiny 466245544
+1177,NMLCL001532,Primary visual area layer 4 aspiny 474626527
+1178,NMLCL001533,Primary visual area layer 4 spiny 320668879
+1179,NMLCL001534,Primary visual area layer 4 aspiny 471077468
+1180,NMLCL001535,Primary visual area layer 2/3 spiny 318808427
+1181,NMLCL001537,Primary visual area layer 2/3 aspiny 473540161
+1182,NMLCL001538,Primary visual area layer 5 aspiny 467782778
+1183,NMLCL001539,Primary visual area layer 4 aspiny 486783119
+1184,NMLCL001540,Primary visual area layer 5 aspiny 328031983
+1185,NMLCL001541,Primary visual area layer 2/3 spiny 382982932
+1186,NMLCL001542,Primary visual area layer 5 spiny 471767045
+1205,NMLCL001594,Visual Cortex Layer 2/3 Pyramidal Cell
+1217,NMLCL001650,CT
+1218,NMLCL001657,SOM
+1219,NMLCL001660,PT
+1220,NMLCL001663,IT
+1221,NMLCL001664,PV

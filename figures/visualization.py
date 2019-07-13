@@ -1,8 +1,13 @@
+import matplotlib
 import matplotlib.pyplot as plt
 import seaborn as sns
+import pandas as pd
+import numpy as np
 from mpl_toolkits.mplot3d import Axes3D
 import pprint as pp
 from pprint import pprint
+
+from sklearn.manifold import TSNE
 
 
 def plot_tetrahedron_projection(dim_x = 1, dim_y = 2, invert_x=False):
@@ -37,7 +42,7 @@ def plot_tetrahedron_projection(dim_x = 1, dim_y = 2, invert_x=False):
     if invert_x:
         plt.gca().invert_xaxis()
 
-    plt.show()
+    # plt.show()
 
 
 def plot_pca(pc_df,show_type=False):
@@ -67,17 +72,20 @@ def plot_pca(pc_df,show_type=False):
 
 
 
+
+
 def plot_scores(scores_df,score_type,color='b',fig=None):
     # show 3D scatter for each of the channel types
     if fig is None:
         fig = plt.figure(figsize=(7,7))
-        ax = fig.add_subplot(1,1,projection='3d')
 
-    xs = df['PC 1']
-    ys = df['PC 2']
-    zs = df['PC 3']
+    ax = fig.add_subplot(111,projection='3d')
 
-    ax.scatter(xs, ys, zs, s=50, c=colors[i], alpha=0.6, edgecolors='gray')
+    xs = scores_df['PC 1']
+    ys = scores_df['PC 2']
+    zs = scores_df['PC 3']
+
+    ax.scatter(xs, ys, zs, s=50, c=color, alpha=0.6, edgecolors='gray')
 
     ax.set_xlabel('PC 1')
     ax.set_ylabel('PC 2')
@@ -87,33 +95,43 @@ def plot_scores(scores_df,score_type,color='b',fig=None):
     ax.set_yticklabels([])
     ax.set_zticklabels([])
 
-    ax.set_title(score_type+' (N=%s)' %num_models,size='large')
 
     return fig, ax
 
-def plot_scores_tsne(scores_dfs,perplexity=30,multi_perplex=False):
+
+
+
+
+def plot_scores_tsne(scores_dfs,clusters_dfs=None,perplexity=30,multi_perplex=False,colors=None):
 
     # join all final score vectores for t-SNE viz
-    orig_columns = cav_scores_df.columns.values.tolist()
+    orig_columns = scores_dfs[0].columns.values.tolist()
+    orig_columns.append('labels')
     all_scores_df = pd.DataFrame(columns=orig_columns)
 
-    sizes = [len(df.index.values) for df in score_dfs]
+    channel_types= ['Cav','Ih','Kv','Nav','KCa']
 
-    for df in score_dfs:
-        join_frames = [all_scores_df,df]
+    sizes = [len(df.index.values) for df in scores_dfs]
+    total_types = 5
+    length = 0
+    cluster_labels = []
+
+    for i, (s_df,c_df) in enumerate(zip(scores_dfs,clusters_dfs)):
+
+        s_df['labels'] = c_df['Cluster_AGG'].values+length*np.ones_like(length)
+
+        # create unique cluster ID
+        num_clusters = len(np.unique(c_df['Cluster_AGG'].values))
+        length+=num_clusters
+
+        cluster_labels+=[channel_types[i]+str(j) for j in range(num_clusters)]
+
+
+        join_frames = [all_scores_df,s_df]
         all_scores_df = pd.concat(join_frames,ignore_index=True)
 
     # extract the feature values for each component
     score_data = all_scores_df.values[:,:3].astype('float64')
-
-
-    # start t-SNE reduction
-    tsne_columns = ['tSNE-1','tSNE-2']
-
-    for col in orig_columns[3:]:
-        tsne_columns.append(col)
-
-    tsne_df = pd.DataFrame(columns=tsne_columns)
 
 
 
@@ -122,18 +140,17 @@ def plot_scores_tsne(scores_dfs,perplexity=30,multi_perplex=False):
 
         perplexities = [5,30,50,100]
 
-        fig, ax = plt.subplots(2,2,figsize=(8,12))
+        fig, ax = plt.subplots(2,2,figsize=(8,12),dpi=300)
         ax = ax.ravel()
-
 
         for i, perp in enumerate(perplexities):
 
             # init = 'pca' or 'random'
             tsne = TSNE(n_components=2,
-                        init='random',             # default = 'random'
+                        init='random',           # default = 'random'
                         random_state=0,
                         perplexity=perp,         # default = 30, should be less than the number of samples
-                        n_iter=5000)            # default = 1000
+                        n_iter=5000)             # default = 1000
 
             # t0 = time()
             tsne_projection = tsne.fit_transform(score_data) # can't use transpose
@@ -143,16 +160,21 @@ def plot_scores_tsne(scores_dfs,perplexity=30,multi_perplex=False):
 
             tsne_shape = tsne_projection.shape
 
+
             # plot for each channel_type
-            size_ranges = [[0,cav_size],
-                           [cav_size,cav_size+ih_size],
-                           [cav_size+ih_size,cav_size+ih_size+kv_size],
-                           [cav_size+ih_size+kv_size,cav_size+ih_size+kv_size+nav_size],
-                           [cav_size+ih_size+kv_size+nav_size,cav_size+ih_size+kv_size+nav_size+kca_size]]
+            size_ranges = np.array([[0,sizes[0]],
+                                    [sizes[0],np.sum(sizes[:2])],
+                                    [np.sum(sizes[:2]),np.sum(sizes[:3])],
+                                    [np.sum(sizes[:3]),np.sum(sizes[:4])],
+                                    [np.sum(sizes[:4]),np.sum(sizes[:5])]])
+
+            ub, _ = np.shape(size_ranges)
 
 
-            for j in range(4):
-                ax[i].scatter(tsne_projection[sizes[j][0]:sizes[j][1],0],tsne_projection[sizes[j][0]:sizes[j][1],1],c=colors[j])
+            for j in range(ub):
+                ax[i].scatter(tsne_projection[size_ranges[j][0]:size_ranges[j][1],0],
+                              tsne_projection[size_ranges[j][0]:size_ranges[j][1],1],
+                              c=colors[j])
 
             if i in [2,3]:
                 ax[i].set_xlabel('TSNE-1')
@@ -163,11 +185,10 @@ def plot_scores_tsne(scores_dfs,perplexity=30,multi_perplex=False):
 
 
 
-
-
     else:
+        fig = plt.figure(figsize=(7,7),dpi=300)
+        ax = fig.add_subplot(111)
 
-        fig, ax = plt.subplots(1,1,figsize=(7,7))
         # init = 'pca' or 'random'
         tsne = TSNE(n_components=2,
                     init='random',             # default = 'random'
@@ -182,22 +203,165 @@ def plot_scores_tsne(scores_dfs,perplexity=30,multi_perplex=False):
         # print('Time elapsed = %s for perplexity = %s' %((tf-t0),perp))
 
         tsne_shape = tsne_projection.shape
+        # print(tsne_shape)
 
-        # plot for each channel_type
-        size_ranges = [[0,sizes[0]],
-                       [sizes[0],np.sum(sizes[:1])],
-                       [np.sum(sizes[:1]),np.sum(sizes[:2])],
-                       [np.sum(sizes[:2]),np.sum(sizes[:3])],
-                       [np.sum(sizes[:3]),np.sum(sizes[:4])]]
+        # start t-SNE reduction
+        tsne_columns = ['tSNE-1','tSNE-2']
 
-        ub, _ = np.shape(size_ranges)
-        for j in range(ub):
-            ax.scatter(tsne_projection[sizes[j][0]:sizes[j][1],0],tsne_projection[sizes[j][0]:sizes[j][1],1],c=colors[j])
+        # for col in orig_columns[3:]:
+        #     tsne_columns.append(col)
 
-        ax.set_xlabel('TSNE-1')
-        ax.set_ylabel('TSNE-2')
+        tsne_df = pd.DataFrame(columns=tsne_columns,data=tsne_projection)
+        labels = all_scores_df.pop('labels')
+        tsne_df['labels'] = labels
+
+        ax.scatter(x='tSNE-1',y='tSNE-2',data=tsne_df,
+                   c='labels',cmap='rainbow',s=100,
+                   edgecolors='gray',
+                   alpha=0.8)
 
 
-    fig.suptitle('Various Channel Scores t-SNE Embeddings')
+        unique_labels = np.unique(labels)
+
+        for i, l in enumerate(unique_labels):
+
+            X_label =tsne_df[tsne_df['labels'] == l]
+
+            center = [np.mean(X_label[col]) for col in tsne_columns[:2]]
+            ax.text(center[0],center[1],cluster_labels[i],size=15, bbox=dict(facecolor='white', alpha=0.4))
+
+
+
+        ax.set_xlabel(tsne_columns[0])
+        ax.set_ylabel(tsne_columns[1])
+
+    # fig.patch.set_visible(False)
+    ax.axis('off')
+    fig.tight_layout()
+    fig.suptitle('All Channel Score t-SNE Embeddings',y=1.02)
+
+    return fig, ax
+
+
+
+
+
+
+def plot_ephys_clusters(samples_df,raw_samples_df,
+                        display_props = ['AP1DelayMean','AP2DelayMean','AP2DelayMeanStrongStim'],
+                        cluster_path = '/1/1/',
+                        cluster_captions=['FS','dRS','B','naRS','RS','aFS'],
+                        figsize = (12,10),x_lim=None,y_lim=None,z_lim=None,
+                        plot_3d=True,save_fig=False,show_colorbar=False,
+                        plot_channels=False,channel_type=None,cond_dens_df=None):
+    '''
+        Plots clustering results for desired properties. Used in poster.
+
+    '''
+
+    # get desired clusters
+    source_df = samples_df[samples_df["ClusterPath"].str.startswith(cluster_path)]
+    clusters = source_df["Cluster"]
+    source_df = raw_samples_df.loc[source_df.index]
+
+    desired_models = source_df.index.tolist()
+
+    xs = source_df[display_props[0]]
+    ys = source_df[display_props[1]]
+
+    if len(display_props)>2:
+        zs = source_df[display_props[2]]
+
+
+    if plot_3d:
+        fig = plt.figure(figsize=figsize)
+        ax = fig.add_subplot(111, projection='3d')
+
+        if not plot_channels:
+            cmap = 'rainbow'
+            c = clusters
+        else:
+            print('Overlaying channel density...')
+            cmap = 'viridis'
+            reduced_cond_dens_df = cond_dens_df[cond_dens_df['Model_ID'].isin(desired_models)]
+            cond_dens_vals = reduced_cond_dens_df[channel_type].values
+            c = cond_dens_vals
+
+
+        sc = ax.scatter(
+                xs, ys, zs,
+                depthshade=False,
+                marker='o',
+                c=c,
+                edgecolors='gray',
+                cmap=cmap,
+                s=100,
+                alpha=0.8)
+
+        # clean z-axis
+        if not z_lim is None:
+            ax.set_zlim(z_lim)
+
+        ax.set_zlabel(display_props[2],size='large')
+
+
+    else:
+        fig, ax = plt.subplots(1,1,figsize=figsize)
+
+        if not plot_channels:
+            cmap = 'rainbow'
+            c = clusters
+        else:
+            print('Overlaying channel density...')
+            cmap = 'viridis'
+            reduced_cond_dens_df = cond_dens_df[cond_dens_df['Model_ID'].isin(desired_models)]
+            cond_dens_vals = reduced_cond_dens_df[channel_type].values
+            c = cond_dens_vals
+
+
+
+        sc = ax.scatter(
+                xs, ys,
+                marker='o',
+                c=c,
+                edgecolors='gray',
+                cmap=cmap,
+                s=100,
+                alpha=0.8)
+
+
+    # clean axes
+    ax.set_xlabel(display_props[0],size='large')
+    ax.set_ylabel(display_props[1],size='large')
+
+    if not x_lim is None:
+            ax.set_xlim(x_lim)
+    if not y_lim is None:
+            ax.set_ylim(y_lim)
+
+    if plot_channels and show_colorbar:
+
+        fig.colorbar(sc,shrink=0.7)
+        ax.set_aspect('auto')
+        plt.tight_layout()
+
+    else:
+        plt.tight_layout()
+
+
+
+    # add cluster assignment labels
+    labels = np.unique(clusters)
+
+    for i, l in enumerate(labels):
+        X_label = source_df[clusters == l]
+        center = [np.mean(X_label[prop]) for prop in display_props]
+        if plot_3d:
+            ax.text(center[0],center[1],center[2],cluster_captions[i],size=20, bbox=dict(facecolor='white', alpha=0.3))
+        else:
+            ax.text(center[0],center[1],cluster_captions[i],size=20, bbox=dict(facecolor='white', alpha=0.3))
+
+
+
 
     return fig, ax

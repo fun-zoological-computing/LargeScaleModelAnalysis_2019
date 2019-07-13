@@ -129,27 +129,82 @@ def compute_protocol_pca(pca_df,protocol_id=None,drop_cols=['Model_ID','Protocol
 
     return pc_df, pca, pcs, scores
 
-#
-# def normalize_scores(scores_df,num_identifiers=2):
-#     '''
-#
-#     '''
-#
-#     vector_length = len(scores_df.columns.values)-num_identifiers
-#
-#     for  i in scores_df.index.values:
-#
-#         scores = scores_df.iloc[i][0:vector_length].values
-#
-#         max_score = np.max(scores)
-#         norm_scores = (scores/max_score).tolist()
-#
-#         for j in range(num_identifiers):
-#             this_identifier = scores_df.columns.values[-(num_identifiers-j)]
-#             norm_scores.append(scores_df.iloc[i][this_identifier])
-#
-#         # operates IN PLACE
-#         scores_df.iloc[i] = norm_scores
+
+
+
+def compute_protocol_pca(pca_df,protocol_id=None,drop_cols=['Model_ID','Protocol_ID','Channel_Type'],plots=False):
+
+    if protocol_id:
+        final_pca_df = pca_df[pca_df['Protocol_ID']==protocol_id]
+    else:
+        final_pca_df = pca_df
+
+
+
+    # drop label columns
+    temp_df = final_pca_df.copy()
+    if drop_cols:
+        df = temp_df.drop(labels=drop_cols,axis='columns')
+    else:
+        df = temp_df
+
+    # separating out the features
+    x = df.loc[:].values
+
+    # choose number of components for pca
+    pca = PCA(n_components=.99) # choose n_components s.t. 99% of variance is retained
+
+    # standardize the features
+    scaled_x = StandardScaler().fit_transform(x)
+    pcs = pca.fit_transform(scaled_x)
+    num_pcs = pcs.shape[1] # get the number of components for pca
+
+    # redo if PCs (more so for the sake of my code than any technical reason)
+    if num_pcs<3:
+        # choose number of components for pca
+        pca = PCA(n_components=3) # choose n_components s.t. 99% of variance is retained
+
+        # standardize the features
+        scaled_x = StandardScaler().fit_transform(x)
+        pcs = pca.fit_transform(scaled_x)
+        num_pcs = pcs.shape[1] # get the number of components for pca
+
+
+    scores = pca.score_samples(scaled_x) # Does this need to be the original data?
+
+
+    # create pca DataFrame
+    pc_columns = ['PC '+str(i+1) for i in range(num_pcs)]
+
+    pc_df = pd.DataFrame(data = pcs, columns = pc_columns)
+
+
+    # toss back in the labels from before - I force all to be type str
+    if drop_cols:
+        for col_label in drop_cols:
+            pc_df[col_label] = pd.Series([str(i) for i in final_pca_df[col_label].values])
+
+
+    if plots:
+        df = pd.DataFrame({'variance':pca.explained_variance_ratio_,
+                 'PC':pc_columns})
+
+
+        # Plotting the raw Explained Variance
+        fig = plt.figure(figsize=(12,4))
+
+        # first plot
+        sns.barplot(x='PC',y="variance",
+                   data=df, color="c")
+
+        plt.ylabel('Total Variance (%)')
+        plt.xticks(rotation='vertical')
+        plt.title(protocol_id)
+        plt.show()
+
+
+    return pc_df, pca, pcs, scores
+
 
 
 
@@ -241,25 +296,13 @@ def PCA_and_Cluster(samples_df, raw_samples_df, parent_path = "/", hide_noise = 
     '''
         Perform PCA, hierarchical clustering and silhoette analysis.
 
-        !-- TODO: Move technical notes to a notebook
-
-        Technical notes:
-        ----
-            - Hierarchical clustering can either be top-down (kmeans) or bottom-up (density-based agglomerative). The bottom-up algorithm used
-            is HDBSCAN, an algorithm that uses single-linkage method and produces clusters of varying densities based on cluster stability.
-            Single-linkage was preferred as electrophysical properties form a continuum in feature space. It produces dendrograms with
-            heterogeneous distance thresholds for each resulting cluster with min_cluster_size as the dominant constraint for cluster cutoffs.
-            In addition, this algorithm results in a set of clusters that do not contain the total set of samples, i.e., the resulting clusters
-            are not a partition of the feature space! Some samples remain unclustered resulting in a slimmer dendrogram and minimizing false
-            positive members of clusters due to noise. (Not sure if this is the best idea. Models are deterministic so lack intrinsic noise terms,
-            but there is implicit noise in parameter optimization/hand-tuning.)
-
             -
 
 
         ----
         PARAMETERS:
             - samples_df :
+            - raw_samples_df :
             - parent_path : (str) Forms path from parent clusters to child clusters, ex: /0/2/1/ = cluster 0 -> child cluster 2 -> child cluster 1
             - hide_noise :
             - remove_noise :
@@ -346,25 +389,6 @@ def PCA_and_Cluster(samples_df, raw_samples_df, parent_path = "/", hide_noise = 
 
 
 
-        # !--  NOTE: Isn't used anywhere
-
-        # iterate over each cluster
-        y_lower = 10
-        for i in range(n_clusters):
-            ith_cluster_silhouette_values = \
-                sample_silhouette_values[cluster_labels == i]
-
-            ith_cluster_silhouette_values.sort()
-
-            size_cluster_i = ith_cluster_silhouette_values.shape[0]
-            y_upper = y_lower + size_cluster_i
-
-            color = cm.nipy_spectral(float(i) / n_clusters)
-
-
-
-
-
     if EDA_plot:
         plt.plot(clusters, widths)
         plt.xlabel('Cluster Size')
@@ -382,6 +406,7 @@ def PCA_and_Cluster(samples_df, raw_samples_df, parent_path = "/", hide_noise = 
     # Find the properties that are most highly correlated with the first 3 PCA components, i.e., positive loading
     pc_i=0
     comp_names = []
+
     for pc_i in range(3): # Only the first 3 PCs
 
         print('Positive vs Negative loadings with PC%s :' %(pc_i+1))
@@ -395,13 +420,7 @@ def PCA_and_Cluster(samples_df, raw_samples_df, parent_path = "/", hide_noise = 
         print(np.array(prop_names)[inds][:5])
         print(prop_r[inds][:5])
 
-        if EDA_plot:
-            fig = plt.figure(figsize=(12,4))
-            plt.bar(inds,prop_r[inds])
-            plt.set_xlabel(prop_names[inds])
-            plt.set_ylabel("Pearson's coefficient, R")
-            plt.set_title('Principal Component %s Loading' %pc_i)
-            plt.show()
+
 
         # show some of these results
         name = ""
@@ -410,10 +429,6 @@ def PCA_and_Cluster(samples_df, raw_samples_df, parent_path = "/", hide_noise = 
         comp_names.append(name)
         print(name)
         print("         -----            ")
-
-        #     plt.plot(range(len(pca.components_[0])), pca.components_[i][inds])
-        #     plt.show()
-
 
 
 
@@ -425,75 +440,87 @@ def PCA_and_Cluster(samples_df, raw_samples_df, parent_path = "/", hide_noise = 
     X_w_noise["Cluster"] = -1
     X_w_noise["WasNoise"] = False
 
+
+    # reperform density-based clustering without "noise" members
     if remove_noise:
         cluster = hdbscan.HDBSCAN(min_cluster_size=min_cluster_size)
         cluster.fit_predict(X)
         X = X[cluster.labels_ != -1] # for visualization
 
+    # perform feature space partitioning
     if k_means:
         cluster = KMeans(n_clusters=kmeans_n_clusters,random_state=1)
         cluster.fit_predict(X)
 
+    # default density-based clustering on all
     else:
         cluster = hdbscan.HDBSCAN(min_cluster_size=min_cluster_size)
         cluster.fit_predict(X)
 
-    fig = plt.figure(figsize=(12, 10))
-    ax = fig.add_subplot(111, projection='3d')
 
-    if hide_noise:
-        ax.scatter(
-            X[cluster.labels_ != -1][0],
-            X[cluster.labels_ != -1][1],
-            X[cluster.labels_ != -1][2], depthshade=False,marker='o',
-            c=cluster.labels_[cluster.labels_ != -1],
-            cmap='rainbow')
 
-    else:
-        ax.scatter(
-            X[0],
-            X[1],
-            X[2], depthshade=False,marker='o',
-            c=cluster.labels_,
-            cmap='rainbow')
 
-    ax.set_xlabel(axis_captions[0])
-    ax.set_ylabel(axis_captions[1])
-    ax.set_zlabel(axis_captions[2])
+    if EDA_plot:
+        fig = plt.figure(figsize=(12, 10))
+        ax = fig.add_subplot(111, projection='3d')
 
-    plt.tight_layout()
 
-    centers = []
+        if hide_noise:
+            ax.scatter(
+                X[cluster.labels_ != -1][0],
+                X[cluster.labels_ != -1][1],
+                X[cluster.labels_ != -1][2], depthshade=False,marker='o',
+                c=cluster.labels_[cluster.labels_ != -1],
+                cmap='rainbow')
 
-    if k_means:
-        centers = cluster.cluster_centers_
-    else:
-        labels = np.unique(cluster.labels_) if not hide_noise else np.unique(cluster.labels_[cluster.labels_ != -1])
+        else:
+            ax.scatter(
+                X[0],
+                X[1],
+                X[2], depthshade=False,marker='o',
+                c=cluster.labels_,
+                cmap='rainbow')
 
-        for l in labels:
-            X_label = X[cluster.labels_ == l]
-            center = [np.mean(X_label[c]) for c in range(X.shape[1])]
-            centers.append(center)
+        ax.set_xlabel(axis_captions[0])
+        ax.set_ylabel(axis_captions[1])
+        ax.set_zlabel(axis_captions[2])
 
-    pca_centers = centers
 
-    # Show clusters as letters in the plot
-    for i, center in enumerate(centers):
-        ax.text(center[0],center[1],center[2],cluster_captions[i],size=20)
+        centers = []
 
-    plt.show()
+        if k_means:
+            centers = cluster.cluster_centers_
+        else:
+            labels = np.unique(cluster.labels_) if not hide_noise else np.unique(cluster.labels_[cluster.labels_ != -1])
+
+            for l in labels:
+                X_label = X[cluster.labels_ == l]
+                center = [np.mean(X_label[c]) for c in range(X.shape[1])]
+                centers.append(center)
+
+        pca_centers = centers
+
+        # Show clusters as letters in the plot
+        for i, center in enumerate(centers):
+            ax.text(center[0],center[1],center[2],cluster_captions[i],size=20)
+
+        plt.tight_layout()
+        plt.show()
+
+
+
+
+
 
     for key in locals().keys():
         globals()[key] = locals()[key]
 
-    import collections
-    print(collections.Counter(cluster.labels_))
+    print('Number of members in each cluster assignment: %s' %collections.Counter(cluster.labels_))
 
     # Print cluster summary stats
     for c, center in enumerate(centers):
         dist = np.apply_along_axis(euclidean, 1, X, center)
         dist_sort_is = dist.argsort()
-        from pprint import pprint as pp
 
         pp({"cluster": c,
             "cells": X.iloc[dist_sort_is].index[:5],
@@ -501,48 +528,55 @@ def PCA_and_Cluster(samples_df, raw_samples_df, parent_path = "/", hide_noise = 
             "center":["{:12.2f}".format(c) for c in center[0:3]],
            })
 
+
+
+
+
+
+
     # 3D plot of clusters in RAW feature space
-    source_df = raw_samples_df.ix[X.index]
+    source_df = raw_samples_df.loc[~X.index.duplicated(keep='first')] # just in case of accidental duplication
 
+    # predefined choice in ephys properties to show
     display_props = ["ISIMedian","AccommodationAtSSMean","AP1DelayMeanStrongStim"]
-#     display_props = ["AP1DelayMeanStrongStim","ISIMedian","AccommodationAtSSMean"]
 
-    fig = plt.figure(figsize=(12, 10))
-    ax = fig.add_subplot(111, projection='3d')
 
-    ax.scatter(
-        source_df[display_props[0]],
-        source_df[display_props[1]],
-        source_df[display_props[2]],
-        depthshade=True,
-        marker='o',
-        c=cluster.labels_,
-        cmap='rainbow')
+    if EDA_plot:
+        fig = plt.figure(figsize=(12, 10))
+        ax = fig.add_subplot(111, projection='3d')
 
-    ax.set_xlabel(display_props[0])
-    ax.set_ylabel(display_props[1])
-    ax.set_zlabel(display_props[2])
+        ax.scatter(
+            source_df[display_props[0]],
+            source_df[display_props[1]],
+            source_df[display_props[2]],
+            depthshade=True,
+            marker='o',
+            c=cluster.labels_,
+            cmap='rainbow')
 
-    plt.tight_layout()
+        ax.set_xlabel(display_props[0])
+        ax.set_ylabel(display_props[1])
+        ax.set_zlabel(display_props[2])
 
-    centers = []
-    sds = []
+        plt.tight_layout()
 
-    labels = np.unique(cluster.labels_)
+        centers = []
+        sds = []
 
-    print(display_props)
+        labels = np.unique(cluster.labels_)
 
-    for i, l in enumerate(labels):
-        X_label = source_df[cluster.labels_ == l]
-        center = [np.mean(X_label[prop]) for prop in display_props]
-        centers.append(center)
+        print(display_props)
 
-        sd = [np.std(X_label[prop]) for prop in display_props]
-        sds.append(sd)
+        for i, l in enumerate(labels):
+            X_label = source_df[cluster.labels_ == l]
+            center = [np.mean(X_label[prop]) for prop in display_props]
+            centers.append(center)
 
-#         ax.text(center[0],center[1],center[2],cluster_captions[i],size=20)
+            sd = [np.std(X_label[prop]) for prop in display_props]
+            sds.append(sd)
 
-#         print(cluster_captions[i],["{:0.2f}+/-{:0.2f}".format(centers[i][c],sds[i][c]) for c,_ in enumerate(center)])
+        plt.show()
+
 
         reg = smf.ols('AP1DelayMeanStrongStim~ISIMedian',data=X_label).fit()
         print('reg isi v delay params p-s r', reg._results.params, reg._results.pvalues, reg._results.rsquared_adj)
@@ -554,29 +588,34 @@ def PCA_and_Cluster(samples_df, raw_samples_df, parent_path = "/", hide_noise = 
         print("delay v isi",stats.pearsonr(X_label["AP1DelayMeanStrongStim"],X_label["ISIMedian"]))
 
 
-    plt.show()
 
 
 
-    # Set cluster ids in the transformed DataFrame
-    X["Cluster"] = cluster.labels_
+
+    # Final dataframe updates
+    X["Cluster"] = cluster.labels_ # Set cluster ids in the transformed DataFrame
+
 
     # Set cluster in the DF that also has any noise rows
     for label in X.index:
         X_w_noise.at[label, "Cluster"] = X.at[label, "Cluster"]
 
+
     # Assign noise models to the cluster with the closest center
     noise_models = X_w_noise[X_w_noise["Cluster"] == -1].index
     for model in noise_models:
+
         #find the closest pca space cluster center
         dist = np.apply_along_axis(euclidean, 1, pca_centers, X_w_noise.ix[model][:-2])
         dist_sort_is = dist.argsort()
         X_w_noise.at[model, "Cluster"] = dist_sort_is[0] #[0] stores the closest cluster ID
         X_w_noise.at[model, "WasNoise"] = True
 
+
     df["Cluster"] = X_w_noise["Cluster"]
     df["WasNoise"] = X_w_noise["WasNoise"]
     df["ClusterPath"] = parent_path + df["Cluster"].map(str) + "/"
+
 
 
     for label in df.index:
@@ -584,6 +623,7 @@ def PCA_and_Cluster(samples_df, raw_samples_df, parent_path = "/", hide_noise = 
         samples_df.at[label, "Cluster"] = df.at[label, "Cluster"]
         samples_df.at[label, "WasNoise"] = df.at[label, "WasNoise"]
 
-    # Sanity checks
-    print('current subset clusters',np.unique(df["ClusterPath"]))
-    print('all clusters',np.unique(samples_df["ClusterPath"]))
+
+    # Shows tree structure in text for sanity check
+    print('Current subset clusters: %s'%np.unique(df["ClusterPath"]))
+    print('All clusters : %s'%np.unique(samples_df["ClusterPath"]))

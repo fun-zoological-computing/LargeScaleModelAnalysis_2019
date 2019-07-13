@@ -1,0 +1,25 @@
+,Model_ID,Cluster_HDB,Cluster_AGG,Model_Name
+0,NMLCH000014,1,1,CaHVA High Voltage Activated Calcium
+1,NMLCH000017,1,1,CaHVA High Voltage Activated Calcium
+2,NMLCH000066,0,0,CaHVA High Voltage Activated Calcium
+3,NMLCH000067,1,1,CaLVA Low Voltage Activated Calcium
+4,NMLCH000101,2,3,CaHVA High Voltage Activated Calcium
+5,NMLCH000102,2,3,CaHVA High Voltage Activated Calcium
+6,NMLCH000103,3,3,CaLVA Low Voltage Activated Calcium
+7,NMLCH000118,2,3,Ca Calcium 
+8,NMLCH000132,2,3,Ca High Threshold Calcium
+9,NMLCH000133,1,1,Ca Low Threshold Calcium
+10,NMLCH000143,1,1,CaL L Type High Threshold Long Lasting Calcium
+11,NMLCH000144,-1,0,CaT T Type Transient Low Threshold Inactivating Calcium
+12,NMLCH000145,-1,0,CaT T Type Transient Low Threshold Inactivating Calcium
+13,NMLCH001395,2,3,CaHVA High Voltage Activated Calcium
+14,NMLCH001399,3,3,CaLVA Low Voltage Activated Calcium
+15,NMLCH001436,2,3,CaHVA High Voltage Activated Calcium
+16,NMLCH001511,3,3,CaLVA Low Voltage Activated Calcium
+17,NMLCH001546,1,1,Ca Calcium
+18,NMLCH001571,-1,0,CaT T Type Transient Low Threshold Inactivating Calcium
+19,NMLCH001586,-1,2,Ca Calcium
+20,NMLCH001591,0,0,Ca Calcium 
+21,NMLCH001598,-1,0,CaT T Type Transient Low Threshold Inactivating Calcium
+22,NMLCH001607,1,1,CaL HVA High Voltage Activated L-type Calcium
+23,NMLCH001632,-1,2,CaN HVA High Voltage Activated N-type Calcium

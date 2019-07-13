@@ -1,0 +1,49 @@
+,Model_ID,Cluster_HDB,Cluster_AGG,Model_Name
+0,NMLCH000005,7,3,Na Sodium
+1,NMLCH000006,7,3,NaX Sodium Channel for Axon
+2,NMLCH000008,-1,1,NaF Inactivating Fast Sodium
+3,NMLCH000023,-1,1,NaF Inactivating Fast Sodium
+4,NMLCH000096,-1,1,NaP Persistent Sodium
+5,NMLCH000097,-1,0,NaR Resurgent Sodium
+6,NMLCH000098,0,2,NaT Transient Sodium
+7,NMLCH000109,0,2,NaP Persistent Sodium
+8,NMLCH000110,5,3,NaTa Fast Inactivating Sodium
+9,NMLCH000111,8,3,NaTs Fast Inactivating Sodium
+10,NMLCH000117,-1,1,Na Sodium
+11,NMLCH000124,-1,1,Na Sodium
+12,NMLCH000125,2,1,Na Slowly Inactivating Sodium
+13,NMLCH000126,2,1,Na Sodium
+14,NMLCH000127,0,2,NaP Persistent Sodium
+15,NMLCH000131,1,3,NaF Fast Sodium
+16,NMLCH000136,7,3,NaX Sodium Channel for Axon
+17,NMLCH000137,8,3,NaX Sodium Channel for Axon
+18,NMLCH000138,6,3,NaX Sodium Channel for Axon
+19,NMLCH000157,5,3,NaF Fast Transient Inactivating Sodium
+20,NMLCH000158,-1,3,NaF Fast Transient Inactivating Sodium
+21,NMLCH000159,-1,3,NaF Fast Transient Inactivating Sodium
+22,NMLCH000160,-1,3,NaF Fast Transient Inactivating Sodium
+23,NMLCH000161,8,3,NaF Fast Transient Inactivating Sodium
+24,NMLCH000162,8,3,NaF Fast Transient Inactivating Sodium
+25,NMLCH000163,8,3,NaF Fast Transient Inactivating Sodium
+26,NMLCH000164,1,3,NaP Persistent Noninactivating Sodium
+27,NMLCH000165,3,3,NaF Fast Transient Inactivating Sodium
+28,NMLCH000166,4,3,NaF Fast Transient Inactivating Sodium
+29,NMLCH000167,4,3,NaF Fast Transient Inactivating Sodium
+30,NMLCH000168,4,3,NaF Fast Transient Inactivating Sodium
+31,NMLCH000169,1,3,NaF Fast Transient Inactivating Sodium
+32,NMLCH000170,1,3,NaF Fast Transient Inactivating Sodium
+33,NMLCH000171,3,3,NaF Fast Transient Inactivating Sodium
+34,NMLCH001398,5,3,NaTa Fast Inactivating Sodium
+35,NMLCH001401,0,2,NaP Persistent Sodium
+36,NMLCH001480,0,2,NaP Persistent Sodium
+37,NMLCH001486,2,1,Na Sodium
+38,NMLCH001490,5,3,NaTs Fast Inactivating Sodium
+39,NMLCH001551,-1,0,Na Sodium
+40,NMLCH001603,8,3,Na Sodium
+41,NMLCH001610,6,3,NaX Sodium Channel for Axon
+42,NMLCH001612,6,3,Na Sodium
+43,NMLCH001613,2,1,Na Sodium
+44,NMLCH001626,1,3,Na Sodium
+45,NMLCH001628,-1,3,Na Sodium
+46,NMLCH001641,-1,3,Na Sodium
+47,NMLCH001645,6,3,Na Sodium

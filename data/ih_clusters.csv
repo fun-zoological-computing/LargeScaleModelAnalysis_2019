@@ -1,0 +1,22 @@
+,Model_ID,Cluster_HDB,Cluster_AGG,Model_Name
+0,NMLCH000001,0,1,Ih Hyperpolarization Activated Cation
+1,NMLCH000012,-1,2,Ih Hyperpolarization Activated Cation
+2,NMLCH000019,-1,1,Ih Hyperpolarization Activated Cation
+3,NMLCH000086,-1,1,Ih HCN1F Fast Hyperpolarization Activated Cation
+4,NMLCH000087,-1,1,Ih HCN1S Slow Hyperpolarization Activated Cation
+5,NMLCH000088,-1,0,Ih HCN2F Fast Hyperpolarization Activated Cation
+6,NMLCH000089,-1,1,Ih HCN2S Slow Hyperpolarization Activated Cation
+7,NMLCH000104,0,1,Ih Hyperpolarization Activated Cation
+8,NMLCH000120,0,1,Ih Hyperpolarization Activated Cation
+9,NMLCH000140,2,1,Ih Hyperpolarization Activated Cation
+10,NMLCH000141,2,1,Ih Hyperpolarization Activated Cation
+11,NMLCH000142,2,1,Ih Hyperpolarization Activated Cation
+12,NMLCH001364,1,1,Ih Hyperpolarization Activated Cation
+13,NMLCH001382,1,1,Ih Hyperpolarization Activated Cation
+14,NMLCH001393,0,1,Ih Hyperpolarization Activated Cation
+15,NMLCH001446,0,1,Ih Hyperpolarization Activated Cation
+16,NMLCH001578,-1,1,Ih Hyperpolarization Activated Cation
+17,NMLCH001605,-1,0,Ih Hyperpolarization Activated Cation (HCN)
+18,NMLCH001615,-1,0,Ih Hyperpolarization Activated Cation (HCN)
+19,NMLCH001635,-1,1,Ih Hyperpolarization Activated Cation (HCN)
+20,NMLCH001649,-1,1,Ih Hyperpolarization Activated Cation (HCN)
